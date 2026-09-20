@@ -46,7 +46,7 @@ public filings and can be several years old.
 ```jsonc
 {
   "generatedAt": "2026-09-20",
-  "count": 663,
+  "count": 697,
   "categories": [{ "id": "animals", "label": "Animals & Pets", "desc": "…" }],
   "organizations": [
     {
@@ -61,6 +61,19 @@ public filings and can be several years old.
       "subsection": "501(c)(3) charitable", "rulingYear": 2023,
       "revenueAmt": 96653, "assetAmt": 45790, "deductible": true,
       "originalFocus": "…", "confidence": "medium"
+    },
+    {
+      // A community-researched record: no IRS registration of its own.
+      "id": "add:makemusicmcminnville",
+      "name": "Make Music McMinnville",
+      "description": "…",
+      "categories": ["arts"],
+      "city": "McMinnville", "state": "OR",
+      "website": "https://aaycor.org/make-music-mcminnville",
+      "parentOrg": "Arts Alliance of Yamhill County",
+      "sourceUrl": "https://www.orartswatch.org/…",
+      "source": "community-research",
+      "confidence": "high"
     }
   ]
 }
@@ -72,6 +85,12 @@ Only `id`, `name`, `categories` and `state` are relied on; every other field may
 rows are left out of the detail view entirely rather than shown as `$0`. Categories
 found on an organization but missing from the `categories` array still get a chip,
 so the taxonomy and the records can drift without breaking the page.
+
+Records with `source: "community-research"` came from research rather than the IRS
+dataset, so they have no `ein` and no IRS fields. The detail view states that
+plainly and links `sourceUrl`, rather than leaving the reader to wonder why the
+financials are missing. `parentOrg`, where present, names the fiscal sponsor or
+parent body and is surfaced on the card as "A program of …".
 
 ### Regenerating the data
 

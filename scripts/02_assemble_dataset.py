@@ -58,6 +58,10 @@ def clean_aka(a, name):
     a=re.sub(r'^\d{2,5}\s+', '', a).strip()             # leading IRS group number
     if len(a)<3: return None
     if a.lower().rstrip('.')==name.lower().rstrip('.'): return None
+    # Researchers fold a useful AKA into the display name, which leaves the raw IRS
+    # value saying nothing new -- "Also known as Oregon", "Also known as Newberg".
+    def words(x): return set(re.sub(r'[^a-z0-9 ]',' ',x.lower()).split())
+    if words(a) and words(a) <= words(name): return None
     return a
 
 def ok_url(u):
@@ -78,7 +82,13 @@ for r in master:
         desc=('A ' + ' organization '.join(bits) + '.') if bits else \
              f"A registered nonprofit organization in {r.get('city') or 'Yamhill County'}, Oregon. Limited public information is available."
         desc=desc[0].upper()+desc[1:]
-    website=ok_url(res.get('website')) or ok_url(r.get('website'))
+    # A researched record's website is authoritative, INCLUDING an explicit null:
+    # agents null a URL when it points at a different organization, and falling back
+    # to the source value here would silently reinstate the bad link.
+    if r['id'] in research:
+        website = ok_url(res.get('website'))
+    else:
+        website = ok_url(r.get('website'))
     org={
       'id': r['id'],
       'name': (res.get('displayName') or r['name']).strip(),
@@ -102,6 +112,35 @@ for r in master:
     if org['legalName'] and org['legalName'].lower().replace('.','')==org['name'].lower().replace('.',''):
         org['legalName']=None
     orgs.append({k:v for k,v in org.items() if v not in (None,'',[])})
+
+# Same organization filed twice. Key is the record to drop, value the one to keep;
+# listed fields move across if the survivor lacks them.
+DUPLICATES = {
+    # Curated-list entry that failed to join to its own IRS row (same website).
+    'name:mcminnvilleareahabitatforhumanity': ('931025835', ('phone', 'address')),
+    # Two IRS registrations, same name, same PO box, same city.
+    '911796483': ('931122908', ()),
+}
+_by_id = {o['id']: o for o in orgs}
+for dup_id, (keep_id, carry) in DUPLICATES.items():
+    dup, keep = _by_id.get(dup_id), _by_id.get(keep_id)
+    if not dup or not keep:
+        continue
+    for f in carry:
+        if not dup.get(f):
+            continue
+        # A street address beats a PO box for a directory people navigate by.
+        better_address = (f == 'address' and str(keep.get(f, '')).upper().startswith('PO BOX')
+                          and not str(dup[f]).upper().startswith('PO BOX'))
+        if not keep.get(f) or better_address:
+            keep[f] = dup[f]
+    orgs = [o for o in orgs if o['id'] != dup_id]
+
+# Note the second registration rather than silently dropping it.
+_b = next((o for o in orgs if o['id'] == '931122908'), None)
+if _b:
+    _b['description'] = _b['description'].rstrip('.') + \
+        '. The IRS lists two registrations under this name (EINs 93-1122908 and 91-1796483).'
 
 orgs.sort(key=lambda o: o['name'].lower())
 

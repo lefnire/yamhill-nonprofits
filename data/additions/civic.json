@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Newberg Public Art Council",
+    "categories": ["civic", "arts"],
+    "description": "A volunteer council that commissions and maintains public art (murals, sculptures, the Camellia Trail) throughout Newberg and co-hosts First Friday ARTwalk; formed in 2019 from the merger of the Reverberations Project and the Newberg Downtown Coalition's beautification committee.",
+    "city": "Newberg",
+    "website": "https://www.newbergpublicart.com/",
+    "email": "publicart@newbergdowntown.org",
+    "phone": null,
+    "parentOrg": "Newberg Downtown Coalition",
+    "registrationNote": "Operates under the Newberg Downtown Coalition (contact email is @newbergdowntown.org); no separate IRS registration found for the council itself.",
+    "evidenceUrl": "https://www.newbergpublicart.com/about",
+    "confidence": "medium"
+  }
+]

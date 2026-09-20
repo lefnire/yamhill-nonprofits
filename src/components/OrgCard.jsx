@@ -22,6 +22,7 @@ function OrgCard({ org, categoryLabels, onOpen }) {
   const tel = telHref(phone)
   const city = text(org.city)
   const aka = text(org.aka)
+  const parentOrg = text(org.parentOrg)
   const description = text(org.description)
 
   // Clicks on the card open the detail view, except on nested links/buttons.
@@ -39,6 +40,8 @@ function OrgCard({ org, categoryLabels, onOpen }) {
       </h3>
 
       {aka && <p className="card__aka">Also known as {aka}</p>}
+
+      {parentOrg && <p className="card__aka">A program of {parentOrg}</p>}
 
       <CategoryChips ids={org.categories} labels={categoryLabels} />
 

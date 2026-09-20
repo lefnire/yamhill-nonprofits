@@ -128,6 +128,7 @@ export default function OrgDetail({ org, categoryLabels, onClose }) {
           {has(org.description) && <p className="detail__description">{text(org.description)}</p>}
 
           <dl className="detail__rows">
+            <Row label="Part of">{text(org.parentOrg) || null}</Row>
             <Row label="Address">{address || null}</Row>
             <Row label="Contact">{text(org.contact) || null}</Row>
             <Row label="Website">
@@ -150,7 +151,29 @@ export default function OrgDetail({ org, categoryLabels, onClose }) {
             <Row label="Reported revenue">{revenue || null}</Row>
             <Row label="Reported assets">{assets || null}</Row>
             <Row label="Primary focus">{text(org.originalFocus) || null}</Row>
+            <Row label="Source">
+              {org.source === 'community-research' && safeHref(org.sourceUrl) ? (
+                <a
+                  href={safeHref(org.sourceUrl)}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  title={org.sourceUrl}
+                >
+                  {shortUrlLabel(safeHref(org.sourceUrl))}
+                </a>
+              ) : null}
+            </Row>
           </dl>
+
+          {org.source === 'community-research' && (
+            <p className="detail__note detail__note--muted">
+              Not separately registered with the IRS, so it has no EIN or financial
+              filings of its own
+              {has(org.parentOrg) ? ` — it operates under ${text(org.parentOrg)}` : ''}
+              . Found through research rather than the IRS dataset; check the source link
+              before relying on these details.
+            </p>
+          )}
 
           {org.deductible === true && (
             <p className="detail__note">

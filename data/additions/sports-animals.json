@@ -1,0 +1,48 @@
+[
+ {
+  "name": "Newberg Rod and Gun Club",
+  "categories": [
+   "sports"
+  ],
+  "description": "A volunteer-run shooting sports club founded in 1946 that operates the only shotgun range in Yamhill County, hosting youth and adult trap shooting and supporting three local high school trapshooting teams with facilities and coaching.",
+  "city": "Newberg",
+  "website": "http://newberggunclub.org/",
+  "email": null,
+  "phone": null,
+  "parentOrg": null,
+  "registrationNote": "Self-described as a non-profit run entirely by volunteer members; no separate IRS registration confirmed.",
+  "evidenceUrl": "http://newberggunclub.org/about-us.html",
+  "confidence": "high"
+ },
+ {
+  "name": "Newberg Pickleball Club",
+  "categories": [
+   "sports"
+  ],
+  "description": "A community pickleball club in Newberg that runs recreational and competitive play for members of all skill levels, aiming to foster fitness and friendship through the sport.",
+  "city": "Newberg",
+  "website": "https://www.newbergpickleballclub.org/",
+  "email": null,
+  "phone": null,
+  "parentOrg": null,
+  "registrationNote": null,
+  "evidenceUrl": "https://www.newbergpickleballclub.org/",
+  "confidence": "medium"
+ },
+ {
+  "name": "Bullet Holes & Bullseyes 4-H Shooting Sports Club",
+  "categories": [
+   "sports",
+   "youth"
+  ],
+  "description": "A 4-H shooting sports club based in McMinnville offering certified youth instruction in archery, pistol, rifle and shotgun, open to youth in Yamhill and Washington counties.",
+  "city": "McMinnville",
+  "website": null,
+  "email": "bulletholesbullseyes@gmail.com",
+  "phone": "503-434-8913",
+  "parentOrg": "Yamhill County 4-H Association / OSU Extension Service",
+  "registrationNote": "Operates as a 4-H club program under OSU Extension / Yamhill County 4-H; no separate IRS registration.",
+  "evidenceUrl": "https://youthshootingsa.com/product/bullet-holes-bullseyes-4-h-shooting-sports-club/",
+  "confidence": "high"
+ }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Yamhill Conservation Trust",
+    "categories": ["environment"],
+    "description": "A newly formed land trust serving Yamhill County, working with Yamhill Soil and Water Conservation District to protect and restore land and building on the region's decades-long conservation efforts.",
+    "city": "McMinnville",
+    "website": "https://www.yamhillconservationtrust.org/",
+    "email": "Hello@YamhillConservationTrust.org",
+    "phone": "503-798-8611",
+    "parentOrg": null,
+    "registrationNote": "Officially formed October 2024; site states it is pursuing 501(c)(3) status, so it postdates or is not yet captured in the IRS extract.",
+    "evidenceUrl": "https://www.yamhillconservationtrust.org/",
+    "confidence": "high"
+  },
+  {
+    "name": "Cheahmill Chapter, Native Plant Society of Oregon",
+    "categories": ["environment"],
+    "description": "Local chapter of the Native Plant Society of Oregon serving Yamhill County; maintains a native plant garden at the McMinnville Public Library, partners with the Soil and Water Conservation District on native tree/shrub sales, and works with Yamhill County Parks on native habitat restoration.",
+    "city": "McMinnville",
+    "website": "https://www.npsoregon.org/wp/ch/",
+    "email": null,
+    "phone": null,
+    "parentOrg": "Native Plant Society of Oregon",
+    "registrationNote": "Local chapter of a statewide nonprofit (Native Plant Society of Oregon); operates under the parent's status rather than its own Yamhill-addressed IRS registration.",
+    "evidenceUrl": "https://www.npsoregon.org/wp/ch/",
+    "confidence": "high"
+  },
+  {
+    "name": "Friends of Ewing Young Park",
+    "categories": ["environment", "civic"],
+    "description": "Volunteer community group in Newberg that explores, supports and advocates for Ewing Young Park, organizing guided walks, volunteer cleanup days, and public input to the Chehalem Park and Recreation District on trail and bridge improvements.",
+    "city": "Newberg",
+    "website": "https://ewingyoungpark.org/",
+    "email": null,
+    "phone": null,
+    "parentOrg": null,
+    "registrationNote": "Unincorporated volunteer/advocacy group; distinct from the separately IRS-registered Ewing Young Support Team, which is the Ewing Young Elementary School parent group.",
+    "evidenceUrl": "https://ewingyoungpark.org/",
+    "confidence": "high"
+  },
+  {
+    "name": "Friends of Chehalem Trails",
+    "categories": ["environment", "civic"],
+    "description": "Volunteer-led group connecting Newberg and Dundee residents to local trails through community hikes, bike rides, trail workdays, and habitat-restoration tree plantings, often in partnership with Chehalem Park and Recreation District.",
+    "city": "Newberg",
+    "website": "https://chehalemtrails.org/",
+    "email": null,
+    "phone": null,
+    "parentOrg": null,
+    "registrationNote": "Volunteer-led group; no separate IRS registration was found for it.",
+    "evidenceUrl": "https://newberggraphic.com/2025/05/28/join-friends-of-chehalem-trails-in-work-project-at-ewing-young-park/",
+    "confidence": "medium"
+  },
+  {
+    "name": "Sustainable Solutions Group of the Newberg-Dundee Area",
+    "categories": ["environment"],
+    "description": "Volunteer coalition working to reduce greenhouse gas emissions and build climate resilience in the Newberg-Dundee area; runs recurring hard-to-recycle plastics and Styrofoam collection events (with Zero Waste McMinnville) and speaks at local government meetings on tree and park issues.",
+    "city": "Newberg",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "parentOrg": null,
+    "registrationNote": "Unincorporated volunteer group formed around 2019 (also seen as \"Sustainable Solutions of Newberg-Dundee\" / SSND); no IRS registration found.",
+    "evidenceUrl": "https://newsberg.org/2025/04/01/beyond-the-bin-diverting-plastics-from-landfills/",
+    "confidence": "high"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Newberg Education Foundation",
+    "categories": ["education-k12", "youth"],
+    "description": "A backbone nonprofit that funds and coordinates programs supporting Newberg-area students, including outreach social workers in schools, the student-led Tiger Manufacturing business at Newberg High School, and scholarship and community grant funds.",
+    "city": "Newberg",
+    "website": "https://newbergeducationfoundation.org",
+    "email": null,
+    "phone": "503-554-5038",
+    "parentOrg": null,
+    "registrationNote": "Appears to be an independently registered nonprofit (Candid lists EIN 94-3250882) but was not found in the directory's existing-names list; may have been missed by the BMF extract or filed under a different address.",
+    "evidenceUrl": "https://newbergeducationfoundation.org",
+    "confidence": "high"
+  },
+  {
+    "name": "Yoop! Youth Opportunity Program",
+    "categories": ["youth", "human-services"],
+    "description": "A program providing tutoring, job-skill building, GED/diploma completion help, internships and career-pathway services for Yamhill County youth ages 16-24 who face barriers such as dropping out, homelessness, foster care involvement or parenthood, with skill centers in McMinnville and Newberg.",
+    "city": "McMinnville",
+    "website": "https://www.myyoop.org",
+    "email": null,
+    "phone": null,
+    "parentOrg": "Chehalem Youth & Family Services",
+    "registrationNote": "Program of Chehalem Youth & Family Services (already in directory); not a separately registered organization.",
+    "evidenceUrl": "https://www.myyoop.org/about/",
+    "confidence": "high"
+  },
+  {
+    "name": "YO Berg / YO Mac Youth Drop-In Centers",
+    "categories": ["youth", "housing"],
+    "description": "Drop-in centers and related services (YO Berg emergency shelter for ages 11-17, YO Mac transitional living/drop-in for ages 18-24, and street outreach) for homeless and at-risk youth, with locations in Newberg and McMinnville.",
+    "city": "Newberg",
+    "website": "http://yamhillcap.org/youth",
+    "email": null,
+    "phone": "503-538-8023",
+    "parentOrg": "Yamhill Community Action Partnership (YCAP)",
+    "registrationNote": "Program of Yamhill Community Action Partnership (already in directory); not a separately registered organization.",
+    "evidenceUrl": "http://yamhillcap.org/youth",
+    "confidence": "high"
+  },
+  {
+    "name": "Cub Scout Pack 454",
+    "categories": ["youth"],
+    "description": "A Cub Scout pack serving kindergarten through 5th-grade children in McMinnville with weekly den meetings focused on camping, service and STEM activities.",
+    "city": "McMinnville",
+    "website": "https://www.cubscoutpack454.org",
+    "email": null,
+    "phone": null,
+    "parentOrg": "First Baptist Church, McMinnville (BSA charter organization) / Scouting America - Cascade Pacific Council",
+    "registrationNote": "Unincorporated Scouting America unit chartered to a local church; not separately registered with the IRS.",
+    "evidenceUrl": "https://www.cubscoutpack454.org/",
+    "confidence": "high"
+  },
+  {
+    "name": "Sheridan Scouting Units (Pack 215 / Troop 215 / Troop 9215)",
+    "categories": ["youth"],
+    "description": "Local Scouting America units serving Sheridan-area children and teens: Cub Scout Pack 215 (ages 5-10, founded 1990) and linked Boy/Girl Scout Troops 215 and 9215 (ages 11-17), all meeting weekly in Sheridan.",
+    "city": "Sheridan",
+    "website": "https://www.sheridanscouts.com",
+    "email": null,
+    "phone": null,
+    "parentOrg": "Scouting America - Cascade Pacific Council",
+    "registrationNote": "Unincorporated Scouting America units with local charter organizations; not separately registered with the IRS.",
+    "evidenceUrl": "https://www.sheridanscouts.com/",
+    "confidence": "medium"
+  },
+  {
+    "name": "Scouting America Troop 9265 / 7265 (Newberg)",
+    "categories": ["youth"],
+    "description": "Girl and boy Scout troops serving Newberg-area teens, sponsored by the local American Legion post; produces Eagle Scouts and runs regular troop meetings and outdoor activities.",
+    "city": "Newberg",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "parentOrg": "American Legion Lester C. Rees Post 57, Newberg / Scouting America - Cascade Pacific Council",
+    "registrationNote": "Unincorporated Scouting America unit chartered to the local American Legion post; not separately registered with the IRS.",
+    "evidenceUrl": "https://newberggraphic.com/2022/04/13/newbergs-latest-eagle-scout-breaks-new-ground/",
+    "confidence": "medium"
+  },
+  {
+    "name": "Yamhill Early Learning Hub",
+    "categories": ["education-early", "families"],
+    "description": "A collaborative program connecting Yamhill County families with young children to child care referrals, free preschool programs, parent classes and early-childhood resources, bringing together early education, health, and social-service partners.",
+    "city": "McMinnville",
+    "website": "https://yamhillearlylearning.org",
+    "email": "earlylearning@yamhillcco.org",
+    "phone": null,
+    "parentOrg": "Yamhill Community Care Organization (YCCO)",
+    "registrationNote": "Program of Yamhill Community Care, a coordinated care organization; not separately registered as its own nonprofit.",
+    "evidenceUrl": "https://yamhillcco.org/early-learning/",
+    "confidence": "medium"
+  }
+]
