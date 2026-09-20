@@ -1,0 +1,304 @@
+[
+ {
+  "id": "name:mcminnvillechessclub",
+  "displayName": "McMinnville Chess Club",
+  "categories": [
+   "sports"
+  ],
+  "description": "A club where chess players in the McMinnville area meet to play casual games and compete in tournaments.",
+  "website": "https://macchess.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "874655985",
+  "displayName": "McMinnville Community Tennis Association",
+  "categories": [
+   "sports"
+  ],
+  "description": "Organizes recreational and competitive tennis programs and court access for players in McMinnville, Oregon.",
+  "website": "https://maccommunitytennis.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "301092036",
+  "displayName": "McMinnville Senior Mens Golf Club",
+  "categories": [
+   "sports",
+   "seniors"
+  ],
+  "description": "A social club that organizes golf league play for senior men in the McMinnville, Oregon area.",
+  "website": "https://www.mcminnvillesrgolfclub.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930778179",
+  "displayName": "McMinnville Swim Club",
+  "categories": [
+   "sports",
+   "youth"
+  ],
+  "description": "Operates a competitive swim team for youth and adult swimmers based in McMinnville, Oregon.",
+  "website": "https://www.gomotionapp.com/team/ormsc/page/home",
+  "confidence": "medium"
+ },
+ {
+  "id": "251917807",
+  "displayName": "McMinnville Track Club",
+  "categories": [
+   "sports",
+   "youth"
+  ],
+  "description": "A youth-focused track and field club offering training and competition for young runners in McMinnville, Oregon.",
+  "website": "https://mcminnvilletrackclub.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "993888365",
+  "displayName": "McMinnville Volleyball Association",
+  "categories": [
+   "sports",
+   "youth"
+  ],
+  "description": "Runs club volleyball programs and teams for young athletes in the McMinnville, Oregon area.",
+  "website": "https://macvbclub.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "432017772",
+  "displayName": "McMinnville Youth Football",
+  "categories": [
+   "sports",
+   "youth"
+  ],
+  "description": "A youth football league serving kids in McMinnville, Oregon.",
+  "website": "https://www.macyouthfootball.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "930873208",
+  "displayName": "McMinnville Youth Soccer Association",
+  "categories": [
+   "sports",
+   "youth"
+  ],
+  "description": "A youth soccer league offering organized play for children in McMinnville, Oregon.",
+  "website": "https://www.mcminnvillesoccerclub.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "934164699",
+  "displayName": "MVP Softball Fastpitch",
+  "categories": [
+   "sports",
+   "youth"
+  ],
+  "description": "A fastpitch softball program for young players based in Dayton, Oregon.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "471842500",
+  "displayName": "Newberg Ambush Fastpitch Softball",
+  "categories": [
+   "sports",
+   "youth"
+  ],
+  "description": "A fastpitch softball club fielding youth teams in the Newberg, Oregon area.",
+  "website": "https://www.facebook.com/NewbergAmbush/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930878196",
+  "displayName": "Newberg Baseball",
+  "categories": [
+   "sports",
+   "youth"
+  ],
+  "description": "A youth baseball league providing organized play for children in Newberg, Oregon.",
+  "website": "https://www.newbergbaseball.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "473057758",
+  "displayName": "Newberg Rifle and Pistol Club",
+  "categories": [
+   "sports"
+  ],
+  "description": "A shooting range and club in Newberg, Oregon offering recreational rifle and pistol shooting for members.",
+  "website": "https://www.nrpc.net/",
+  "confidence": "high"
+ },
+ {
+  "id": "931270662",
+  "displayName": "North Valley Cruzzers",
+  "categories": [
+   "sports"
+  ],
+  "description": "A recreation-oriented social club based in Lafayette, Oregon; public records classify it under recreation and sports but do not document its specific activities.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Name suggests a car-cruising/car club, but this could not be confirmed; no website on file."
+ },
+ {
+  "id": "810592137",
+  "displayName": "Northwest Christian Fly Fishers",
+  "categories": [
+   "faith",
+   "sports"
+  ],
+  "description": "A McMinnville, Oregon group that combines fly fishing outings with Christian fellowship for its members.",
+  "website": "https://www.cffr.online/",
+  "confidence": "medium"
+ },
+ {
+  "id": "432041519",
+  "displayName": "Northwest Reined Cowhorse Association",
+  "categories": [
+   "sports"
+  ],
+  "description": "A Newberg, Oregon based association for reined cow horse, a western equestrian competition sport, supporting shows and events for riders and horses.",
+  "website": "https://www.facebook.com/NWRCHA/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930586866",
+  "displayName": "Oregon Quarter Horse Association",
+  "categories": [
+   "agriculture",
+   "sports"
+  ],
+  "description": "A statewide association based in Newberg supporting Quarter Horse breeders and owners and organizing horse shows and competitions.",
+  "website": "https://oregonqha.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "273894918",
+  "displayName": "Stumptown Racers Flyball Club",
+  "categories": [
+   "animals",
+   "sports"
+  ],
+  "description": "A Newberg, Oregon dog club whose members compete in flyball, a relay-race sport for dogs.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "933668692",
+  "displayName": "Valley Panthers Girls Rugby",
+  "categories": [
+   "sports",
+   "youth"
+  ],
+  "description": "Fields a girls rugby team for youth in the McMinnville, Oregon area.",
+  "website": "https://www.facebook.com/groups/valleypanthersgirlsrugby/",
+  "confidence": "medium"
+ },
+ {
+  "id": "922999552",
+  "displayName": "Walnut City Rollers",
+  "categories": [
+   "sports"
+  ],
+  "description": "Hosts free, supervised roller skating nights for the community in Dayton, Oregon.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "websiteRaw was a page title, not a URL; no working site could be verified this session."
+ },
+ {
+  "id": "454547436",
+  "displayName": "Western Regional Independent Trapshooting Association",
+  "categories": [
+   "sports"
+  ],
+  "description": "A Newberg, Oregon based association that organizes independent trapshooting competitions.",
+  "website": "https://www.shootwrita.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "933938659",
+  "displayName": "Willamette Valley Elite Volleyball Club",
+  "categories": [
+   "sports",
+   "youth"
+  ],
+  "description": "A competitive club volleyball program for youth athletes based in Newberg, Oregon.",
+  "website": "https://willamettevalleyelite.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "874777592",
+  "displayName": "Yamhill-Carlton Trap Team",
+  "categories": [
+   "sports",
+   "education-k12"
+  ],
+  "description": "A school-affiliated trap shooting team for Yamhill-Carlton High School students in Yamhill, Oregon.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "994385533",
+  "displayName": "Yamhill-Carlton Volleyball",
+  "categories": [
+   "sports",
+   "youth"
+  ],
+  "description": "A youth volleyball program serving the Yamhill-Carlton, Oregon community.",
+  "website": "https://www.ycvolleyball.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "471708322",
+  "displayName": "Oregon Association of Colleges of Teacher Education",
+  "categories": [
+   "education-higher",
+   "professional"
+  ],
+  "description": "A professional association connecting Oregon colleges and universities that prepare K-12 teachers, coordinating on teacher-preparation standards and policy.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "Based in Newberg (likely via a George Fox University-affiliated contact); could not verify a current independent website this session."
+ },
+ {
+  "id": "862806646",
+  "displayName": "Innovation Network for Theological Education",
+  "categories": [
+   "education-higher",
+   "faith"
+  ],
+  "description": "A small Dundee, Oregon nonprofit focused on theological education, per its IRS filing; its very small reported revenue suggests limited or dormant activity, and public information on specific programs is limited.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "474223651",
+  "displayName": "Visit McMinnville",
+  "categories": [
+   "civic"
+  ],
+  "description": "The official destination marketing organization for McMinnville, Oregon, promoting tourism, wine country visits, and local events.",
+  "website": "https://visitmcminnville.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "833945739",
+  "displayName": "Visit Newberg",
+  "categories": [
+   "civic"
+  ],
+  "description": "Promotes tourism and supports downtown business activity in Newberg, Oregon.",
+  "website": "https://www.newbergdowntown.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930868211",
+  "displayName": "American Rental Association of Oregon",
+  "categories": [
+   "professional"
+  ],
+  "description": "The Oregon chapter of the American Rental Association, a trade association for equipment rental businesses.",
+  "website": null,
+  "confidence": "low",
+  "notes": "The website on file (bottensrental.com) appears to be a member rental company's own site, not the association's; no confirmed association website found this session (web search access was unavailable)."
+ }
+]

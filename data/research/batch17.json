@@ -1,0 +1,229 @@
+[
+ {
+  "id": "262499601",
+  "displayName": "Unitarian Universalist Fellowship of McMinnville",
+  "categories": ["faith"],
+  "description": "A Unitarian Universalist congregation in McMinnville offering worship services and religious community life open to people of diverse beliefs.",
+  "website": "https://uufmac.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "872827340",
+  "displayName": "Everyone Gets Home",
+  "categories": ["public-safety", "human-services"],
+  "description": "A Willamina-based organization focused on community safety and support, based on its IRS classification as a public and societal benefit group; specific programs could not be confirmed.",
+  "website": null,
+  "confidence": "low",
+  "notes": "No website or other detail available beyond the name and NTEE code W99; name suggests a safe-rides or search-and-rescue type mission but this is unconfirmed."
+ },
+ {
+  "id": "331475256",
+  "displayName": "Ben and Josephine Rosalez Memorial Scholarship",
+  "categories": ["education-k12"],
+  "description": "A memorial scholarship fund based in Lafayette that provides educational scholarships in memory of Ben and Josephine Rosalez.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "992330955",
+  "displayName": "Hayden Fredrickson Scholarship Fund",
+  "categories": ["education-k12"],
+  "description": "A Newberg-based memorial scholarship fund established in Hayden Fredrickson's name to support local students.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "471493160",
+  "displayName": "Chehalem Valley Middle School Parent Leadership Council",
+  "categories": ["education-k12"],
+  "description": "A parent group at Chehalem Valley Middle School in Newberg that raises funds and organizes volunteer support for the school's students and programs.",
+  "website": "https://cvmsparentgroup.wordpress.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "883640515",
+  "displayName": "Dayton Pirate Safe Night",
+  "categories": ["education-k12", "public-safety"],
+  "description": "A Dayton school-support group (Dayton Pirates being the school mascot) that organizes a substance-free \"safe night\" event, such as a post-prom or graduation celebration, for students.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "websiteRaw only listed a generic Facebook reference with no findable URL."
+ },
+ {
+  "id": "842426496",
+  "displayName": "Doty Performance Company Booster Club",
+  "categories": ["education-k12", "arts"],
+  "description": "A Newberg-based booster club that raises funds and support for a school performing arts group (the Doty Performance Company).",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "931186245",
+  "displayName": "Dundee Parent Club",
+  "categories": ["education-k12"],
+  "description": "A parent-run support group for the school in Dundee that raises funds and volunteers for student programs and activities.",
+  "website": "https://www.facebook.com/dundeeparentgroup/",
+  "confidence": "medium"
+ },
+ {
+  "id": "931186754",
+  "displayName": "Edwards Volunteer Organization",
+  "categories": ["education-k12"],
+  "description": "A parent and volunteer support organization for Edwards Elementary School in Newberg that funds classroom needs and school activities.",
+  "website": "https://www.edwardsvolunteer.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "911820676",
+  "displayName": "Ewing Young Support Team",
+  "categories": ["education-k12"],
+  "description": "A parent and community support group for Ewing Young Elementary School in Newberg that funds school programs and student activities.",
+  "website": "https://www.newberg.k12.or.us/apps/pages/index.jsp?uREC_ID=3686622&type=d&pREC_ID=2420996",
+  "confidence": "high"
+ },
+ {
+  "id": "920696036",
+  "displayName": "Faulconer-Chapman School PTO",
+  "categories": ["education-k12"],
+  "description": "The parent-teacher organization for Faulconer-Chapman School in Sheridan, supporting classroom and student activities through fundraising and volunteer efforts.",
+  "website": "https://www.facebook.com/FAULCONERCHAPMANPTO/",
+  "confidence": "high"
+ },
+ {
+  "id": "882423053",
+  "displayName": "McMinnville Youth Cheer Booster Club",
+  "categories": ["education-k12", "sports"],
+  "description": "A booster club in McMinnville that supports youth cheerleading programs through fundraising and volunteer organization.",
+  "website": "https://www.facebook.com/MYCBoosterClub/",
+  "confidence": "high"
+ },
+ {
+  "id": "825195642",
+  "displayName": "Mountain View Parent Group",
+  "categories": ["education-k12"],
+  "description": "A parent support group for Mountain View Middle School in Newberg that raises funds and organizes volunteers for student programs.",
+  "website": "https://www.facebook.com/profile.php?id=100057411191788",
+  "confidence": "medium"
+ },
+ {
+  "id": "930884701",
+  "displayName": "Newberg Booster Club",
+  "categories": ["education-k12", "sports"],
+  "description": "A booster club supporting Newberg High School athletics and student activities through fundraising and volunteer support.",
+  "website": "https://www.newbergboosters.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "930998250",
+  "displayName": "Newberg Graduation Party",
+  "categories": ["education-k12"],
+  "description": "A volunteer-run group that organizes a substance-free all-night graduation celebration party for Newberg High School seniors.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "261787865",
+  "displayName": "Newberg High School Performing Arts Booster Club",
+  "categories": ["education-k12", "arts"],
+  "description": "A booster club that supports Newberg High School's performing arts programs (music, theater) through fundraising and volunteer help.",
+  "website": "https://nhsperformingartsboosterclub.wordpress.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "061706996",
+  "displayName": "Sheridan Booster Club",
+  "categories": ["education-k12", "sports"],
+  "description": "A booster club supporting Sheridan High School athletics and student activities through fundraising and volunteer support.",
+  "website": "https://www.facebook.com/SheridanBoosterClub/",
+  "confidence": "high"
+ },
+ {
+  "id": "300649958",
+  "displayName": "Sheridan Graduation Party",
+  "categories": ["education-k12"],
+  "description": "A volunteer-run group that organizes a substance-free all-night graduation celebration party for Sheridan High School seniors.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "880603098",
+  "displayName": "Yamhill Carlton Intermediate School PTO",
+  "categories": ["education-k12"],
+  "description": "The parent-teacher organization for Yamhill-Carlton Intermediate School in Carlton, supporting classroom needs and student activities.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "websiteRaw only listed a generic Facebook reference with no findable URL."
+ },
+ {
+  "id": "812063021",
+  "displayName": "Beyond Backpacks",
+  "categories": ["education-k12", "basic-needs"],
+  "description": "A McMinnville-based nonprofit that provides school supplies and backpacks to local students in need.",
+  "website": "https://www.beyondbackpacks.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "271053594",
+  "displayName": "AUVSI Cascade Chapter",
+  "categories": ["stem", "professional"],
+  "description": "The Cascade regional chapter of the Association for Unmanned Vehicle Systems International, connecting drone and unmanned systems industry professionals and promoting STEM education in the McMinnville area.",
+  "website": "https://www.facebook.com/CascadeAUVSI/",
+  "confidence": "medium"
+ },
+ {
+  "id": "824957052",
+  "displayName": "Carlton Observatory",
+  "categories": ["stem"],
+  "description": "A nonprofit based at the Evergreen Aviation & Space Museum campus near McMinnville that fosters scientific literacy through public stargazing nights, planetarium shows, and astronomy education programs.",
+  "website": "https://www.carltonobservatory.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "332963446",
+  "displayName": "Creation Calling",
+  "categories": ["faith", "stem"],
+  "description": "A Newberg-based ministry, linked to the Glen's Gizmos science outreach program, that presents STEM and science demonstrations through a creationist, faith-based lens.",
+  "website": "https://www.glensgizmos.com/newberg.html",
+  "confidence": "medium"
+ },
+ {
+  "id": "844971574",
+  "displayName": "Glen's Gizmos",
+  "categories": ["stem", "youth"],
+  "description": "A Newberg-based nonprofit that puts on hands-on science and engineering demonstration shows for schools, families, and community groups.",
+  "website": "https://www.glensgizmos.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930452607",
+  "displayName": "Linfield Research Institute",
+  "categories": ["stem", "education-higher"],
+  "description": "A physics and science research institute affiliated with Linfield University in McMinnville, supporting faculty and student research.",
+  "website": "https://www.linfield.edu/physics/lri.html",
+  "confidence": "high"
+ },
+ {
+  "id": "475440436",
+  "displayName": "Oregon Game Project Challenge",
+  "categories": ["stem", "education-k12"],
+  "description": "A McMinnville-based nonprofit that runs a statewide computer game design and programming competition for Oregon middle and high school students.",
+  "website": "https://www.ogpc.info/",
+  "confidence": "high"
+ },
+ {
+  "id": "930815944",
+  "displayName": "McMinnville Senior Citizens Center",
+  "categories": ["seniors"],
+  "description": "A city-affiliated senior center in McMinnville offering activities, meals, and services for older adults.",
+  "website": "https://www.mcminnvilleoregon.gov/seniorcenter",
+  "confidence": "high"
+ },
+ {
+  "id": "930122425",
+  "displayName": "McMinnville Elks Lodge #1283",
+  "categories": ["service-clubs"],
+  "description": "A local lodge of the Benevolent and Protective Order of Elks in McMinnville that runs member social activities and community charitable fundraising.",
+  "website": "https://www.macelks.org/",
+  "confidence": "high"
+ }
+]

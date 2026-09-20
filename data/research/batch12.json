@@ -1,0 +1,228 @@
+[
+  {
+    "id": "465073247",
+    "displayName": "Salsa for the People",
+    "categories": ["arts", "civic"],
+    "description": "A McMinnville group led by Jason Lampman, registered under an arts, culture and humanities code for food and cultural community events; specific programs are not publicly documented.",
+    "website": null,
+    "confidence": "low"
+  },
+  {
+    "id": "852279799",
+    "displayName": "Assa Inc",
+    "categories": ["basic-needs", "agriculture"],
+    "description": "A newly recognized (2023) Newberg nonprofit classified under food, agriculture, and nutrition; public information about its specific programs could not be found.",
+    "website": null,
+    "confidence": "low"
+  },
+  {
+    "id": "273643756",
+    "displayName": "Reach Northwest",
+    "categories": ["youth", "families"],
+    "description": "Reach Northwest supports foster and adoptive families in the Newberg area, offering training and community connection for caregivers of children in foster care.",
+    "website": "https://www.reachnw.org/",
+    "confidence": "high"
+  },
+  {
+    "id": "475352542",
+    "displayName": "Austin Family Foundation",
+    "categories": ["philanthropy"],
+    "description": "A Newberg-based private foundation that funds programs to help people build productive, meaningful lives, aiming to foster self-worth and stronger communities through philanthropy.",
+    "website": "https://austinfamilyfoundation.com/",
+    "confidence": "medium"
+  },
+  {
+    "id": "860592060",
+    "displayName": "Bible Foundation",
+    "categories": ["faith"],
+    "description": "Based in Newberg, Bible Foundation is an all-volunteer scripture-distribution ministry that prints and distributes Bible passages worldwide and runs an annual Bible Drive in the Pacific Northwest.",
+    "website": "https://www.bf.org/",
+    "confidence": "high"
+  },
+  {
+    "id": "460598076",
+    "displayName": "Carlton Community Foundation",
+    "categories": ["philanthropy", "civic"],
+    "description": "A community foundation serving Carlton, Oregon, registered under an arts and culture classification; it appears to support local philanthropic and community initiatives, though details on specific grants are limited.",
+    "website": null,
+    "confidence": "low"
+  },
+  {
+    "id": "994926614",
+    "displayName": "Chehalem Cultural Center Foundation",
+    "categories": ["arts", "philanthropy"],
+    "description": "The fundraising foundation arm of the Chehalem Cultural Center in Newberg, supporting arts, culture, and community programming at the center.",
+    "website": "https://www.chehalemculturalcenter.org/foundation",
+    "confidence": "high"
+  },
+  {
+    "id": "934821595",
+    "displayName": "Clery Farm Foundation",
+    "categories": ["agriculture"],
+    "description": "A McMinnville-based foundation connected to Clery Farm and run by Colleen Clery, classified under food and agriculture.",
+    "website": "https://www.cleryfarm.com/",
+    "confidence": "medium"
+  },
+  {
+    "id": "936311186",
+    "displayName": "Durant Family Trust",
+    "categories": ["philanthropy"],
+    "description": "A private charitable trust based in Dundee, Oregon, established in 1998 for family philanthropic giving; specific grant activity is not publicly documented.",
+    "website": null,
+    "confidence": "low"
+  },
+  {
+    "id": "411990118",
+    "displayName": "Evenstad Family Foundation",
+    "categories": ["philanthropy"],
+    "description": "A private family foundation based in Dayton, Oregon, led by Kenneth and Grace Evenstad of Domaine Serene winery, that makes charitable grants primarily to Oregon organizations.",
+    "website": null,
+    "confidence": "medium"
+  },
+  {
+    "id": "823075991",
+    "displayName": "First Try Foundation",
+    "categories": ["sports"],
+    "description": "A Carlton, Oregon nonprofit registered under a recreation and sports classification; public details about its specific activities could not be confirmed.",
+    "website": null,
+    "confidence": "low",
+    "notes": "A national skateboarding charity of the same name (tied to Braille Skateboarding) was found online, but its location could not be confirmed as this Carlton, OR entity, so its website was not used."
+  },
+  {
+    "id": "260733729",
+    "displayName": "Give a Little Foundation",
+    "categories": ["basic-needs", "human-services"],
+    "description": "A McMinnville nonprofit founded in 2008 by Ellen Summerfield and Phillip Pirages that provides one-time emergency financial assistance to Yamhill County individuals and families facing hardship, including children, seniors, and job seekers.",
+    "website": "https://www.givealittlefoundation.org/",
+    "confidence": "high"
+  },
+  {
+    "id": "470932189",
+    "displayName": "Hillside Foundation",
+    "categories": ["health", "seniors"],
+    "description": "A McMinnville-based private foundation tied to the Hillside senior living community that awards nursing scholarships to Linfield University and Chemeketa Community College students and supports care for elderly residents.",
+    "website": null,
+    "confidence": "medium"
+  },
+  {
+    "id": "462945449",
+    "displayName": "McMinnville Area Community Foundation",
+    "categories": ["philanthropy", "civic"],
+    "description": "A community foundation that raises and grants charitable funds to support local nonprofits and initiatives in the McMinnville area.",
+    "website": "https://www.mcminnvilleacf.org/",
+    "confidence": "high"
+  },
+  {
+    "id": "300886906",
+    "displayName": "McMinnville Film Festival Foundation",
+    "categories": ["arts"],
+    "description": "Organizes and supports the McMinnville Short Film Festival, an annual film event held in McMinnville, Oregon.",
+    "website": "https://www.mcminnvillefilmfest.org/",
+    "confidence": "high"
+  },
+  {
+    "id": "010731775",
+    "displayName": "Mission Dental Foundation (Rota-Dent)",
+    "categories": ["health"],
+    "description": "A Newberg-based nonprofit affiliated with local Rotary clubs that provides low-cost, portable dental equipment to organizations offering affordable dental care around the world.",
+    "website": "https://www.rota-dent.org/",
+    "confidence": "high"
+  },
+  {
+    "id": "844530062",
+    "displayName": "Mitchell Family Charitable Trust",
+    "categories": ["philanthropy"],
+    "description": "A private charitable trust based in Newberg, Oregon, led by Benson C. Mitchell, used for family philanthropic giving; specific grant activity is not publicly documented.",
+    "website": null,
+    "confidence": "low"
+  },
+  {
+    "id": "237335729",
+    "displayName": "Newberg Education Association",
+    "categories": ["labor", "education-k12"],
+    "description": "The union representing teachers in the Newberg School District, distinct from the similarly named Newberg Education Foundation grantmaking group.",
+    "website": "https://www.facebook.com/NewbergEducators/",
+    "confidence": "medium",
+    "notes": "Source record lists 'newbergeducationfoundation.org' as the website, but that domain belongs to a separate 501(c)(3) grantmaking foundation. This record's 501(c)(5) labor subsection and 'Association' name match the Newberg teachers' union instead (Facebook: NewbergEducators), so the foundation's site was not carried over."
+  },
+  {
+    "id": "814351810",
+    "displayName": "Newberg-Dundee Police Foundation",
+    "categories": ["public-safety"],
+    "description": "A nonprofit that raises funds to support equipment, training, and community programs for the Newberg-Dundee Police Department.",
+    "website": "https://www.newberg-dundeepolicefoundation.org/",
+    "confidence": "high"
+  },
+  {
+    "id": "237259232",
+    "displayName": "Northwest Yearly Meeting of Friends Foundation",
+    "categories": ["faith", "philanthropy"],
+    "description": "The charitable foundation of the Northwest Yearly Meeting of Friends (Quaker) churches, based in Newberg, supporting the denomination's ministries and programs.",
+    "website": "https://nwfriends.org/",
+    "confidence": "high"
+  },
+  {
+    "id": "930853526",
+    "displayName": "Yamhill County 4-H Association",
+    "categories": ["agriculture", "youth"],
+    "description": "Supports 4-H youth development programs in Yamhill County through the Oregon State University Extension Service, offering agriculture, science, and life-skills clubs for young people.",
+    "website": "https://extension.oregonstate.edu/4h/yamhill",
+    "confidence": "high"
+  },
+  {
+    "id": "874072523",
+    "displayName": "Pathway to Heaven Foundation",
+    "categories": ["philanthropy"],
+    "description": "A Newberg-based private grantmaking foundation led by Vladimir and Dennis Tkach that has funded relief efforts such as the Ukrainian-American Cultural Association of Oregon.",
+    "website": null,
+    "confidence": "medium"
+  },
+  {
+    "id": "264789406",
+    "displayName": "Rosa Foundation",
+    "categories": ["philanthropy"],
+    "description": "A small private foundation in McMinnville, Oregon that makes modest grants supporting education, human services, and community philanthropy.",
+    "website": "https://rosa-foundation.com/",
+    "confidence": "medium"
+  },
+  {
+    "id": "471570634",
+    "displayName": "Rufus Foundation",
+    "categories": ["philanthropy"],
+    "description": "A private grantmaking foundation based in Yamhill, Oregon, led by Laura Grady; specific funding priorities are not publicly documented.",
+    "website": null,
+    "confidence": "low"
+  },
+  {
+    "id": "943234766",
+    "displayName": "Ruth Mishler Memorial Trust",
+    "categories": ["education-higher"],
+    "description": "A scholarship trust based in Sheridan, Oregon that awards college scholarships to graduating students from Sheridan and Willamina attending college for at least one year.",
+    "website": null,
+    "confidence": "high"
+  },
+  {
+    "id": "205926336",
+    "displayName": "S A W Family Foundation",
+    "categories": ["philanthropy"],
+    "description": "A private family foundation based in Amity, Oregon, associated with Stephen A. Walker and administered through Pioneer Trust Bank; specific grant activity is not publicly documented.",
+    "website": null,
+    "confidence": "low"
+  },
+  {
+    "id": "204525402",
+    "displayName": "See Ya Later Foundation",
+    "categories": ["youth", "families"],
+    "description": "A McMinnville nonprofit founded in memory of Scott Banke that runs camps for kids, awards scholarships to graduating seniors, and offers financial and emotional support to families facing a life-threatening medical crisis through its Seeds of Hope program.",
+    "website": "https://seeyalater.org/",
+    "confidence": "high"
+  },
+  {
+    "id": "931320700",
+    "displayName": "StandUpGirl.com Foundation",
+    "categories": ["families", "human-services"],
+    "description": "A Newberg-based nonprofit that provides pregnancy support resources, free online courses, and connections to local pregnancy help organizations for young women facing an unexpected pregnancy.",
+    "website": "https://standupgirl.com/",
+    "confidence": "high"
+  }
+]

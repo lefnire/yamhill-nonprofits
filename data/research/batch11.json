@@ -1,0 +1,230 @@
+[
+ {
+  "id": "852017814",
+  "displayName": "Edible Landscapes of Yamhill County",
+  "categories": ["agriculture", "environment"],
+  "description": "A McMinnville nonprofit that promotes and helps install edible landscaping and food-producing gardens for homes and public spaces in Yamhill County.",
+  "website": "https://edibleyamhill.org/home-1",
+  "confidence": "medium"
+ },
+ {
+  "id": "880427856",
+  "displayName": "Eloheh/Eagle's Wings",
+  "categories": ["faith", "agriculture"],
+  "description": "An Indigenous-led ministry near Yamhill founded by Randy and Edith Woodley that runs Eloheh Farm & Seeds, a permaculture teaching farm and seed-saving operation grounded in Native American traditional ecological knowledge.",
+  "website": "https://elohehseeds.com/index.html",
+  "confidence": "high"
+ },
+ {
+  "id": "831665904",
+  "displayName": "Friends of Sheridan Parks & Recreation",
+  "categories": ["civic", "sports"],
+  "description": "A volunteer support group that raises funds and community involvement for parks and recreation facilities in Sheridan, Oregon.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "464383220",
+  "displayName": "Friends of the Yamhelas Westsider Trail",
+  "categories": ["environment", "sports"],
+  "description": "A Carlton-based nonprofit advocating for and developing a roughly 17-mile rail-to-trail multi-use path connecting McMinnville, Carlton, Yamhill, Cove Orchard, and Gaston for walking, cycling, and horseback riding.",
+  "website": "https://www.yamtrail.com/",
+  "confidence": "high",
+  "notes": "websiteRaw listed a page title; the org's own domain yamhelaswestsidertrail.com now redirects to yamtrail.com."
+ },
+ {
+  "id": "800660213",
+  "displayName": "Greater Yamhill Watershed Council",
+  "categories": ["environment"],
+  "description": "A McMinnville-based council that coordinates watershed restoration and conservation projects along waterways in the Yamhill River basin.",
+  "website": "https://gywc.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "990874340",
+  "displayName": "Hess Creek Preserve",
+  "categories": ["environment"],
+  "description": "A newly created nature preserve in Newberg restoring 52 acres of native oak savannah and riparian forest along Hess Creek, with public trails, bridges, and habitat restoration.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "300986391",
+  "displayName": "Yamhill County Master Gardener Association",
+  "categories": ["agriculture", "environment"],
+  "description": "A McMinnville-based volunteer organization affiliated with the OSU Extension Master Gardener program that trains volunteers and educates the public on home gardening and sustainable landscaping in Yamhill County.",
+  "website": "https://ycmga.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "936049571",
+  "displayName": "McMinnville Garden Club",
+  "categories": ["environment", "civic"],
+  "description": "A McMinnville garden club that promotes gardening education, civic beautification, and community horticulture projects.",
+  "website": "https://mcminnvillegardenclub.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "943171844",
+  "displayName": "Microfarm Sustainable Research and Education",
+  "categories": ["agriculture", "environment"],
+  "description": "A Dayton-based organization that researches and teaches sustainable small-scale farming practices to support local food systems.",
+  "website": "http://www.microfarmsustainable.org/",
+  "confidence": "medium",
+  "notes": "No website was listed in the source data; found via search and not independently verified as still active."
+ },
+ {
+  "id": "930872521",
+  "displayName": "Oregon Equestrian Trails",
+  "categories": ["environment", "sports"],
+  "description": "A statewide equestrian organization headquartered in McMinnville that advocates for and helps maintain multi-use trails for horseback riders across Oregon.",
+  "website": "https://www.oregonequestriantrails.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930793913",
+  "displayName": "Oregon Small Woodlands Association - Yamhill Chapter",
+  "categories": ["agriculture", "environment"],
+  "description": "The Yamhill County chapter of a statewide association that supports and educates small-acreage forest landowners on sustainable woodland management, based in Dayton.",
+  "website": "https://oswa.org/yamhill",
+  "confidence": "high"
+ },
+ {
+  "id": "911844241",
+  "displayName": "Partners for Parks",
+  "categories": ["civic", "sports"],
+  "description": "A long-running McMinnville nonprofit, run for many years by Casey Rich, that has supported local parks and outdoor recreation and helped launch the Willamette Valley Cyclists group.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "311578343",
+  "displayName": "Pauline Preserve",
+  "categories": ["environment"],
+  "description": "A McMinnville-area nonprofit that owns or manages a nature preserve for land conservation purposes.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Search turned up no independent coverage beyond IRS/NTEE data; description is grounded in the C34 (land conservation) NTEE code."
+ },
+ {
+  "id": "933815279",
+  "displayName": "Peace Trail Village",
+  "categories": ["housing", "faith"],
+  "description": "A transitional housing project on the grounds of North Valley Friends Church in Newberg, providing small cottage homes and wrap-around services to people moving toward permanent housing.",
+  "website": "https://northvalleyfriends.org/peace-trail-village",
+  "confidence": "high"
+ },
+ {
+  "id": "392877353",
+  "displayName": "Permaculture Land Users Group of Oregon",
+  "categories": ["environment", "agriculture"],
+  "description": "A Carlton-based network of landowners, farmers, and designers (PLUG-Oregon) that promotes permaculture and water-conscious land management practices to build climate resilience.",
+  "website": "https://www.plugoregon.org/",
+  "confidence": "medium",
+  "notes": "websiteRaw was a page title, not a URL; plugoregon.org appears to be the statewide group's site, not confirmed to be Yamhill-County specific."
+ },
+ {
+  "id": "273394033",
+  "displayName": "Protect Grand Island Farms",
+  "categories": ["agriculture", "environment"],
+  "description": "A Dayton-area group of farmers and neighbors on Grand Island who organize to protect the island's farmland from incompatible development, such as large gravel mining operations.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "854401461",
+  "displayName": "Sustainable Resources Group",
+  "categories": ["basic-needs", "environment"],
+  "description": "A Dundee-based volunteer organization that resells gently used clothing and shoes at low cost to families in Yamhill, Polk, and Multnomah counties, diverting reusable textiles from landfills.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "873696760",
+  "displayName": "Tainable Regenerative Agricultural Laboratory",
+  "categories": ["agriculture", "environment"],
+  "description": "A McMinnville-based research organization studying and promoting regenerative agriculture practices.",
+  "website": "https://www.tainablelabs.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "311728853",
+  "displayName": "Trees for McMinnville",
+  "categories": ["environment", "civic"],
+  "description": "A McMinnville nonprofit dedicated to planting and maintaining trees to expand the city's urban forest canopy.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "260339483",
+  "displayName": "Carlton's Walk in the Park",
+  "categories": ["civic", "philanthropy"],
+  "description": "A Carlton foundation that has held an annual food, wine, and arts fundraising event since 2003, raising money for local food banks, schools, first responders, athletics, and community improvements like Wennerberg Park.",
+  "website": "https://www.carltonswalkinthepark.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "264085621",
+  "displayName": "Waste Not of Yamhill County",
+  "categories": ["environment"],
+  "description": "A McMinnville-based organization focused on waste reduction, reuse, and recycling advocacy in Yamhill County.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "911842520",
+  "displayName": "Whitewater Creek Conservation Association",
+  "categories": ["environment"],
+  "description": "A McMinnville-area association focused on conservation of the Whitewater Creek watershed.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "813515806",
+  "displayName": "Zero Waste McMinnville",
+  "categories": ["environment"],
+  "description": "A McMinnville foundation that educates the community about waste reduction and promotes zero-waste practices locally.",
+  "website": "https://www.zerowastemcminnville.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "393028014",
+  "displayName": "Giving Hope Rescue and Rehab",
+  "categories": ["animals"],
+  "description": "An Amity-based equine rescue and rehabilitation organization for horses in need.",
+  "website": "https://www.facebook.com/p/Giving-Hope-Rescue-and-Rehab-61576260632948/",
+  "confidence": "medium"
+ },
+ {
+  "id": "452864633",
+  "displayName": "Hoofprints in the Sand Rescue",
+  "categories": ["animals"],
+  "description": "A Newberg-based equine rescue that takes in, rehabilitates, and rehomes horses.",
+  "website": "https://www.hoofprintsrescue.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "923348536",
+  "displayName": "All Bodies Yoga & Somatics",
+  "categories": ["health", "disability"],
+  "description": "A Yamhill nonprofit yoga studio offering inclusive, accessible, trauma-informed yoga and somatic practices for people of all body sizes, abilities, and backgrounds.",
+  "website": "https://allbodiesyogastudio.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "871401921",
+  "displayName": "Oregon Family Advisory Council",
+  "categories": ["families", "advocacy"],
+  "description": "A McMinnville-based nonprofit that gives families a voice in advising on services and systems that affect them; small enough to file the IRS's simplified Form 990-N.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "814260038",
+  "displayName": "Quilts for Cops",
+  "categories": ["public-safety"],
+  "description": "A Newberg-based nonprofit that makes and gives handmade quilts to law enforcement officers and other first responders as a show of community support.",
+  "website": "https://quiltsforcops.com/",
+  "confidence": "high"
+ }
+]

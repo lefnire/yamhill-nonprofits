@@ -1,0 +1,234 @@
+[
+ {
+  "id": "271533329",
+  "displayName": "Teens and Oregon Mustangs",
+  "categories": ["youth", "animals"],
+  "description": "Teaches at-risk and disadvantaged teens in Yamhill, Oregon horsemanship and life skills by pairing them with wild mustangs. It combines youth mentoring with equine care and training.",
+  "website": "https://www.teensandoregonmustangs.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "273962332",
+  "displayName": "Equisport Farm & Veterinary Services (USPCA Yamhill)",
+  "categories": ["animals"],
+  "description": "A Yamhill, Oregon animal welfare organization affiliated with the United Society for the Prevention of Cruelty to Animals, run by a veterinarian and focused on equine and animal care.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Legal name 'United Society for Prevention of Cruelty to Animals' is generic/national-sounding; no website found, aka and contact suggest a small local equine veterinary/welfare operation."
+ },
+ {
+  "id": "461574672",
+  "displayName": "Wildwood Farm Sanctuary & Preserve",
+  "categories": ["animals"],
+  "description": "A farm animal sanctuary in Newberg, Oregon that rescues and provides lifelong care for farm animals rescued from neglect, abuse, or slaughter.",
+  "website": "https://www.wildwoodfarmsanctuary.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "813276015",
+  "displayName": "Willamette Valley Ferret Shelter",
+  "categories": ["animals"],
+  "description": "A volunteer-run ferret rescue and shelter in Carlton, Oregon that fosters and rehomes unwanted or lost ferrets and educates the public on ferret care, serving the greater Willamette Valley.",
+  "website": "https://www.willamettevalleyferretshelter.org/",
+  "confidence": "high",
+  "notes": "websiteRaw was a page title, not a URL; found the real site via search."
+ },
+ {
+  "id": "332300374",
+  "displayName": "Amity Art Collective Tour",
+  "categories": ["arts"],
+  "description": "Organizes an annual self-guided art studio tour featuring multiple artists at locations around Amity and Yamhill County, Oregon.",
+  "website": "https://www.amityartcollectivetour.com/",
+  "confidence": "medium",
+  "notes": "Original website field concatenated two URLs (site + Facebook); kept the org's own site."
+ },
+ {
+  "id": "931004833",
+  "displayName": "Arts Alliance of Yamhill County",
+  "categories": ["arts"],
+  "description": "Supports local arts and culture across Yamhill County through student mentorship, community partnerships, arts events, and sponsorship of creative programs.",
+  "website": "https://aaycor.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931577457",
+  "displayName": "East Creek Art",
+  "categories": ["arts"],
+  "description": "A community art studio and retreat on forest land near Willamina, Oregon offering ceramics and wood-firing workshops, including a well-known anagama kiln, to artists and students.",
+  "website": "https://www.eastcreekart.org/",
+  "confidence": "high",
+  "notes": "IRS legal name is 'Rural Craft Education Association'; operating name East Creek Art used per website."
+ },
+ {
+  "id": "931268800",
+  "displayName": "McO Productions",
+  "categories": ["arts"],
+  "description": "A Newberg, Oregon nonprofit involved in local arts and media production.",
+  "website": "https://mcoproductions.org/",
+  "confidence": "low"
+ },
+ {
+  "id": "871214825",
+  "displayName": "Center Stage Theatrics",
+  "categories": ["arts"],
+  "description": "A community theater organization in McMinnville, Oregon that produces stage plays and musicals.",
+  "website": "https://www.centerstagetheatrics.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "203569580",
+  "displayName": "Chehalem Cultural Center",
+  "categories": ["arts", "civic"],
+  "description": "A community cultural center in Newberg, Oregon offering art classes, gallery exhibits, performances, and event space that serves as a hub for local arts and community gatherings.",
+  "website": "https://www.chehalemculturalcenter.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "822493412",
+  "displayName": "Determined Art Movement",
+  "categories": ["arts"],
+  "description": "A McMinnville, Oregon collective of creatives, educators, and community activists that creates community-based art projects centered on storytelling, belonging, and healing.",
+  "website": "https://www.determinedart.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "392430754",
+  "displayName": "Foundation for the Speculative Arts & Sciences",
+  "categories": ["arts"],
+  "description": "A McMinnville, Oregon nonprofit that supports imaginative and visionary creative work spanning art, science, history, and games through creativity, research, and play.",
+  "website": "https://www.speculativeartsci.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "237113265",
+  "displayName": "Gallery Players of Oregon",
+  "categories": ["arts"],
+  "description": "A community theater company based in McMinnville, Oregon (Gallery Theater) that produces live stage plays and musicals for the local area.",
+  "website": "https://www.gallerytheater.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "883099990",
+  "displayName": "Gather Repertory Theatre",
+  "categories": ["arts"],
+  "description": "A theater company in Newberg, Oregon producing repertory stage productions for the community.",
+  "website": "https://gatherrepertory.org/",
+  "confidence": "low"
+ },
+ {
+  "id": "454598859",
+  "displayName": "Gone to Pieces Quilt Guild",
+  "categories": ["arts"],
+  "description": "A quilting guild in McMinnville, Oregon that brings together local quilters to share skills, create quilts, and support quilting as a craft.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "931323151",
+  "displayName": "McMinnville Performing Arts Association",
+  "categories": ["arts"],
+  "description": "A McMinnville, Oregon nonprofit that supports local performing arts activities and events.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "900330499",
+  "displayName": "Newberg Community Band",
+  "categories": ["arts"],
+  "description": "A volunteer concert band based in Newberg, Oregon that rehearses and performs music for the local community.",
+  "website": "https://www.newbergcommunityband.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "461058800",
+  "displayName": "Oregon Community Theatre Alliance",
+  "categories": ["arts"],
+  "description": "A McMinnville, Oregon based alliance that supports and coordinates community theater groups and productions in the region.",
+  "website": "https://www.oregoncta.org/",
+  "confidence": "low"
+ },
+ {
+  "id": "923673296",
+  "displayName": "Saint Bezzie's Art Collab",
+  "categories": ["arts", "mental-health"],
+  "description": "A McMinnville, Oregon nonprofit that runs mobile art-healing workshops, art supply swaps, and a community art space, using art-making as a tool for healing locally and through a partner project in El Salvador.",
+  "website": "https://stbezziesartcollab.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "141855622",
+  "displayName": "Second Winds Community Band of McMinnville",
+  "categories": ["arts"],
+  "description": "A volunteer concert band in McMinnville, Oregon that rehearses and performs music for community audiences.",
+  "website": "https://secondwinds.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "936044261",
+  "displayName": "Barbershop Harmony Society - Newberg Chapter",
+  "categories": ["arts"],
+  "description": "A local chapter of the Society for the Preservation and Encouragement of Barbershop Quartet Singing in America (now the Barbershop Harmony Society), bringing together singers in the Newberg, Oregon area for barbershop-style a cappella singing.",
+  "website": null,
+  "confidence": "low",
+  "notes": "aka field ('C005 Canby') and city (Newberg) are inconsistent; could not confirm current chapter status or a distinct local website."
+ },
+ {
+  "id": "931136196",
+  "displayName": "Sword Productions",
+  "categories": ["faith", "arts"],
+  "description": "A Newberg, Oregon faith-based film production ministry that makes feature films abroad (including in the Philippines, Mongolia, Cambodia, and Nepal) and trains young people in filmmaking.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "originalFocus said 'Arts & culture' but NTEE code and research show it is religion-related film ministry; no current working website found."
+ },
+ {
+  "id": "863855644",
+  "displayName": "Willamette Valley Quilters",
+  "categories": ["arts"],
+  "description": "A guild based in McMinnville, Oregon for quilters to share skills and create quilts together.",
+  "website": "https://willamettevalleyquilters.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "300125836",
+  "displayName": "Yamhill County Cultural Coalition",
+  "categories": ["arts", "civic"],
+  "description": "A McMinnville, Oregon coalition that promotes and coordinates arts and cultural activities and funding across Yamhill County.",
+  "website": "https://www.yamhillcountyculture.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "205241510",
+  "displayName": "Baha'i Faith Community of Newberg",
+  "categories": ["faith"],
+  "description": "The local Baha'i religious community (Spiritual Assembly) serving Baha'is in Newberg, Oregon.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "010934461",
+  "displayName": "Baha'i Faith Community of Yamhill County",
+  "categories": ["faith"],
+  "description": "The local Baha'i religious community (Spiritual Assembly) serving Baha'is across Yamhill County, Oregon.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "911796483",
+  "displayName": "Spiritual Assembly of the Baha'is of McMinnville",
+  "categories": ["faith"],
+  "description": "The local Baha'i religious community (Spiritual Assembly) serving Baha'is in McMinnville, Oregon.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "Two separate EINs (911796483 and 931122908) both appear to be McMinnville Baha'i Spiritual Assemblies, likely reflecting a re-registration over time."
+ },
+ {
+  "id": "931122908",
+  "displayName": "Spiritual Assembly of the Baha'is of McMinnville",
+  "categories": ["faith"],
+  "description": "The local Baha'i religious community (Spiritual Assembly) serving Baha'is in McMinnville, Oregon.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "Duplicate-looking entry alongside EIN 911796483 for the same city; kept as separate record per source data."
+ }
+]

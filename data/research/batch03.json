@@ -1,0 +1,238 @@
+[
+ {
+  "id": "930810424",
+  "displayName": "Amity Assembly of God",
+  "categories": ["faith"],
+  "description": "An Assemblies of God Christian church in Amity, Oregon that holds worship services and runs ministries for the local community.",
+  "website": "https://amityassemblyofgod.org",
+  "confidence": "high"
+ },
+ {
+  "id": "930759322",
+  "displayName": "Amity Christian Church",
+  "categories": ["faith"],
+  "description": "A Christian church in Amity, Oregon offering Sunday worship, adult Sunday school, and children's programs.",
+  "website": "https://www.amitychurch.org/",
+  "confidence": "high",
+  "notes": "websiteRaw was a page title, not a URL; found the actual site via search."
+ },
+ {
+  "id": "850495628",
+  "displayName": "Archangel Worldwide Inc",
+  "categories": ["civic"],
+  "description": "A Newberg-based nonprofit registered by the IRS under Community Improvement & Capacity Building; no financial filings or program details are publicly available yet.",
+  "website": null,
+  "confidence": "low",
+  "notes": "originalFocus field says 'Christian church' but the org's own NTEE code (S12) is Community Improvement & Capacity Building, not religion. Categorized by NTEE code; treat originalFocus here as unreliable."
+ },
+ {
+  "id": "930567341",
+  "displayName": "Rock of Ages Mennonite Home",
+  "categories": ["seniors", "faith"],
+  "description": "A Mennonite-founded retirement community in McMinnville providing independent living, assisted living, memory care, and end-of-life support to seniors of any faith background.",
+  "website": "https://www.rockofages.org/",
+  "confidence": "high",
+  "notes": "Legal name 'Bible Mennonite Fellowship' is misleading; the aka 'Rock of Ages Mennonite Home' is the actual operating senior-care community, not a church congregation."
+ },
+ {
+  "id": "760539180",
+  "displayName": "Bob Ledden Ministries",
+  "categories": ["faith", "international"],
+  "description": "A personal ministry entity of pastor Bob Ledden of McMinnville, tied to his past missionary and pastoral work in Guatemala and Mexico and local Oregon pastorates.",
+  "website": null,
+  "confidence": "low",
+  "notes": "The record's website field points to a denominational clergy-directory profile page, not an organizational site, so it was not kept."
+ },
+ {
+  "id": "942423644",
+  "displayName": "Brigittine Monks",
+  "categories": ["faith"],
+  "description": "A Roman Catholic monastery of Brigittine monks near Amity, Oregon, whose community of prayer and work is supported by handcrafting and selling gourmet fudge and truffles.",
+  "website": "https://www.brigittine.org/",
+  "confidence": "high",
+  "notes": "websiteRaw was a page title; found the actual site via search."
+ },
+ {
+  "id": "930635026",
+  "displayName": "Calvary Chapel of McMinnville",
+  "categories": ["faith"],
+  "description": "A nondenominational evangelical Christian church in McMinnville holding worship services and Bible teaching.",
+  "website": "https://calvarymac.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "262816426",
+  "displayName": "Calvary Chapel West Valley",
+  "categories": ["faith"],
+  "description": "A nondenominational evangelical Christian church in Sheridan, Oregon holding worship services and Bible teaching.",
+  "website": "https://www.calvarychapelwv.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "237172582",
+  "displayName": "Catholic Daughters of the Americas Court #1386, Holy Rosary",
+  "categories": ["faith", "service-clubs"],
+  "description": "A local court of the Catholic Daughters of the Americas, a Catholic women's fraternal and service organization affiliated with St. James Parish in McMinnville.",
+  "website": "https://www.stjamesmac.com/get-involved/catholic-daughters-of-americas",
+  "confidence": "high"
+ },
+ {
+  "id": "237174397",
+  "displayName": "Catholic Daughters of the Americas Court #1489, Christ the King",
+  "categories": ["faith", "service-clubs"],
+  "description": "A local court of the Catholic Daughters of the Americas, a Catholic women's fraternal and service organization affiliated with St. Peter Parish in Newberg.",
+  "website": "https://stpeternewbergor.org/catholic-daughters",
+  "confidence": "high"
+ },
+ {
+  "id": "930860311",
+  "displayName": "Chehalem Valley Baptist Church",
+  "categories": ["faith"],
+  "description": "A Baptist congregation in Newberg, Oregon offering worship services and church programs.",
+  "website": "https://cvbcnewberg.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "800504175",
+  "displayName": "Chehalem Valley Presbyterian Church",
+  "categories": ["faith"],
+  "description": "A Presbyterian congregation in Newberg, Oregon offering worship services and church programs.",
+  "website": "https://cvpchurch.net/",
+  "confidence": "high"
+ },
+ {
+  "id": "930572512",
+  "displayName": "Christian City Church",
+  "categories": ["faith"],
+  "description": "A Newberg-area congregation affiliated with the C3 Church (Christian City Church) network, offering worship services and community programs.",
+  "website": "https://www.c3portland.com/",
+  "confidence": "medium",
+  "notes": "The 'aka' field in the source data ('4911.0') looks like a stray numeric code, not an operating name, and was ignored."
+ },
+ {
+  "id": "237064202",
+  "displayName": "Christian Gospel Assemblies",
+  "categories": ["faith"],
+  "description": "A small Christian congregation in Newberg, Oregon.",
+  "website": "http://cga.faithweb.com/",
+  "confidence": "low",
+  "notes": "Listed website is an older faithweb.com page; may no longer be actively maintained, but no better site was found."
+ },
+ {
+  "id": "205625866",
+  "displayName": "Church of the Vine",
+  "categories": ["faith"],
+  "description": "A Christian church in Newberg, Oregon offering worship services and congregational programs.",
+  "website": "https://churchofthevine.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "465311869",
+  "displayName": "Churches United for West Valley",
+  "categories": ["faith", "basic-needs"],
+  "description": "A coalition of pastors and churches in Sheridan and the West Valley area that organizes community outreach, including school-supply drives for local students and shared events like Sheridan Hometown Days.",
+  "website": "https://www.facebook.com/churchesunitedforwestvalley",
+  "confidence": "medium"
+ },
+ {
+  "id": "263611459",
+  "displayName": "Confident Christianity",
+  "categories": ["faith"],
+  "description": "A Christian apologetics ministry based in Newberg founded by Mary Jo Sharp that produces teaching resources and training to help Christians explain and defend their faith.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "No working website URL appeared in search results, so it was left null even though the ministry is documented elsewhere."
+ },
+ {
+  "id": "260359565",
+  "displayName": "Contagious Joy Ministries",
+  "categories": ["faith"],
+  "description": "A small religious ministry based in Yamhill, Oregon, classified by the IRS under spiritual development and interfaith activities; no further program details were publicly available.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "994457786",
+  "displayName": "Creative Tides Ministry",
+  "categories": ["faith", "arts"],
+  "description": "A Newberg-based ministry, founded by a Red Hills Church worship pastor, that equips worship and creative-arts teams at churches with training, resources, and an annual Summit Conference for creatives in ministry.",
+  "website": "https://www.creative-tides.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930860274",
+  "displayName": "Crossroads Bible Church",
+  "categories": ["faith"],
+  "description": "A Bible church in Dundee, Oregon offering worship services and congregational programs.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "843668625",
+  "displayName": "Dark Horse Ministries",
+  "categories": ["faith", "arts"],
+  "description": "A Newberg-based Christian ministry, operating as Soma Soul Works, that promotes Christian values in the entertainment and gaming industries and hosts events such as the Imladris Conference.",
+  "website": "https://somasoulworks.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930698663",
+  "displayName": "Dayton Christian Church",
+  "categories": ["faith"],
+  "description": "A Christian church in Dayton, Oregon offering worship services for people of all ages and backgrounds.",
+  "website": "https://daytonchristianchurch.com",
+  "confidence": "high",
+  "notes": "websiteRaw was a page title; found the actual site via search, matching the organization's email domain."
+ },
+ {
+  "id": "931054197",
+  "displayName": "Eagle Wings Ministries",
+  "categories": ["faith"],
+  "description": "A small Christian ministry based in Willamina, Oregon; specific programs are not publicly documented beyond its IRS religious classification.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "954034820",
+  "displayName": "East West Missionary Service",
+  "categories": ["faith", "international"],
+  "description": "A Newberg-based nonprofit that provides prayer-letter and administrative support services to Christian missionaries serving overseas.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "990995485",
+  "displayName": "Empowerment Outreach Ministries",
+  "categories": ["faith", "arts"],
+  "description": "A McMinnville nonprofit registered by the IRS under the Arts, Culture & Humanities category; it has not published a mission statement or program details despite its ministry-suggesting name.",
+  "website": "https://www.facebook.com/EmpowermentOutreachMinistries/",
+  "confidence": "low",
+  "notes": "originalFocus says 'Christian church / ministry' but the org's own NTEE code (A11) is Arts, Culture & Humanities — flagging the mismatch rather than guessing which is right."
+ },
+ {
+  "id": "930760875",
+  "displayName": "Family Life Church",
+  "categories": ["faith"],
+  "description": "A Christian church in Newberg, Oregon offering worship services and family-oriented church programs.",
+  "website": "https://www.myflc.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "936027199",
+  "displayName": "First Baptist Church of Carlton",
+  "categories": ["faith"],
+  "description": "A Baptist congregation in Carlton, Oregon offering worship services and church programs.",
+  "website": "https://www.facebook.com/carltonfirstbaptist/",
+  "confidence": "medium",
+  "notes": "The 'aka' field in the source data ('10105.0') looks like a stray numeric code, not an operating name, and was ignored. A church website domain was mentioned in search summaries but did not appear directly in search result links, so the confirmed Facebook page was used instead."
+ },
+ {
+  "id": "930390923",
+  "displayName": "First Baptist Church of McMinnville",
+  "categories": ["faith"],
+  "description": "A Baptist congregation in McMinnville, Oregon offering worship services and church programs.",
+  "website": "https://fbcmac.org/",
+  "confidence": "high",
+  "notes": "The 'aka' field in the source data ('10107.0') looks like a stray numeric code, not an operating name, and was ignored."
+ }
+]

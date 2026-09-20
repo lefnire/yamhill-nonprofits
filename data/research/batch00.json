@@ -1,0 +1,231 @@
+[
+ {
+  "id": "851370457",
+  "displayName": "Tending the Vineyard",
+  "categories": ["faith", "mental-health"],
+  "description": "A faith-based counseling and inner-healing ministry in Newberg that runs support groups and provides spiritual care for people working through trauma and personal struggles.",
+  "website": "https://www.tendingthevineyard.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "830922072",
+  "displayName": "Dayton Winter Wish",
+  "categories": ["basic-needs"],
+  "description": "A Dayton-based charity that provides holiday gifts and support to local families in need during the winter season.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "Source websiteRaw field for this record was actually the Dayton FFA Alumni site's title, a data mismatch. No genuine website was found for Dayton Winter Wish itself, only nonprofit-directory listings, so website is set to null."
+ },
+ {
+  "id": "371575093",
+  "displayName": "Newberg FFA Alumni",
+  "categories": ["agriculture", "youth"],
+  "description": "Supports Newberg High School's FFA chapter and its student members through alumni involvement, fundraising, and agricultural education programs.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "852854380",
+  "displayName": "Dayton FFA Alumni and Supporters",
+  "categories": ["agriculture", "youth"],
+  "description": "Supports Dayton High School's FFA chapter through fundraising, mentorship, and agricultural education programs for students.",
+  "website": "https://www.daytonffaalumni.com/",
+  "confidence": "high",
+  "notes": "websiteRaw was a page title, not a URL; found the org's real site (daytonffaalumni.com) via search."
+ },
+ {
+  "id": "352468473",
+  "displayName": "Sheridan FFA Alumni & Booster",
+  "categories": ["agriculture", "youth"],
+  "description": "Supports Sheridan High School's FFA chapter and agricultural education students through alumni fundraising, mentorship, and booster activities.",
+  "website": "https://www.facebook.com/p/Sheridan-Oregon-FFA-Chapter-100069019765984/",
+  "confidence": "medium"
+ },
+ {
+  "id": "931309540",
+  "displayName": "Yamhill-Carlton FFA Alumni Association",
+  "categories": ["agriculture", "youth"],
+  "description": "Supports the Yamhill-Carlton High School FFA chapter and its students through alumni involvement, fundraising, and agricultural education programs.",
+  "website": "https://www.facebook.com/profile.php?id=61565733414959",
+  "confidence": "medium"
+ },
+ {
+  "id": "821293803",
+  "displayName": "Willamina FFA Alumni and Friends",
+  "categories": ["agriculture", "youth"],
+  "description": "Supports Willamina High School's FFA chapter and agricultural education students through alumni involvement and fundraising.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "842475663",
+  "displayName": "Ahivoy",
+  "categories": ["agriculture", "advocacy"],
+  "description": "Creates opportunities and provides support for Latinx and Hispanic vineyard and farm workers in the Willamette Valley, helping them overcome socioeconomic challenges.",
+  "website": "https://www.ahivoyoregon.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "237510753",
+  "displayName": "McMinnville Grange #31",
+  "categories": ["service-clubs", "agriculture"],
+  "description": "A local Grange lodge in McMinnville that brings together farm families and neighbors for community service, social events, and support of agriculture.",
+  "website": "https://www.facebook.com/mcminnvillegrange/",
+  "confidence": "medium"
+ },
+ {
+  "id": "237510755",
+  "displayName": "Fernwood Grange #770",
+  "categories": ["service-clubs", "agriculture"],
+  "description": "A local Grange lodge in Newberg that brings together farm families and neighbors for community service, social events, and support of agriculture.",
+  "website": "https://www.facebook.com/p/Fernwood-Grange-770-Newberg-Oregon-100069816323929/",
+  "confidence": "medium"
+ },
+ {
+  "id": "237510699",
+  "displayName": "Buell Grange #637",
+  "categories": ["service-clubs", "agriculture"],
+  "description": "A local Grange lodge near Sheridan that brings together farm families and neighbors for community service, social events, and support of agriculture.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "931044160",
+  "displayName": "McMinnville Amateur Radio Club",
+  "categories": ["stem"],
+  "description": "A club for amateur (ham) radio operators in the McMinnville area that promotes radio communication skills, technical education, and emergency communication readiness.",
+  "website": "https://www.marcwireless.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "831410876",
+  "displayName": "Black Sheep Project",
+  "categories": ["animals"],
+  "description": "An animal welfare nonprofit based in Dayton, Oregon, per its IRS charitable classification.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Several unrelated organizations share this name (mental-health, fashion/arts); could not confirm a website belonging specifically to this Dayton, OR entity, so website is set to null."
+ },
+ {
+  "id": "464397804",
+  "displayName": "Felines First Rescue",
+  "categories": ["animals"],
+  "description": "A volunteer-run, no-kill cat rescue based in Lafayette that does trap-neuter-return, foster care, and adoption for homeless and feral cats.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "A Facebook/Instagram presence under this name lists Tigard, OR rather than Lafayette; not confident it's the same entity, so no website was linked."
+ },
+ {
+  "id": "825517180",
+  "displayName": "Generous Friends Rescue & Rehab",
+  "categories": ["animals"],
+  "description": "An animal rescue and rehabilitation organization based in Amity that takes in and rehomes animals in need.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "452900281",
+  "displayName": "Harmony New Beginnings Animal Rescue",
+  "categories": ["animals"],
+  "description": "An animal rescue organization based in Sheridan that takes in and rehomes dogs, cats, and other animals in need.",
+  "website": "https://www.hnbar.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "851944328",
+  "displayName": "Hazel's House Rescue",
+  "categories": ["animals"],
+  "description": "An animal rescue organization based in Newberg that takes in and rehomes animals in need.",
+  "website": "https://www.hazelshousepdx.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "800679409",
+  "displayName": "Helping Hands Horse Rescue and Equine Therapy",
+  "categories": ["mental-health", "animals"],
+  "description": "A Newberg horse and donkey rescue that partners its rescued animals in equine-assisted psychotherapy for people coping with trauma, addiction, grief, and other mental health challenges.",
+  "website": "https://helpinghandshorse.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930687293",
+  "displayName": "Homeward Bound Pets Humane Society",
+  "categories": ["animals"],
+  "description": "A McMinnville humane society that shelters and finds adoptive homes for dogs, cats, and other animals in Yamhill County.",
+  "website": "https://hbpets.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "331182676",
+  "displayName": "Mastiff Rescue Oregon",
+  "categories": ["animals"],
+  "description": "A McMinnville-based breed-specific rescue that takes in, cares for, and rehomes mastiffs and related large-breed dogs.",
+  "website": "https://www.mastiffrescueoregon.org/info/contact",
+  "confidence": "high"
+ },
+ {
+  "id": "900208522",
+  "displayName": "Newberg Animal Shelter Friends",
+  "categories": ["animals"],
+  "description": "Supports the Newberg animal shelter by helping care for and find homes for stray and surrendered dogs and cats.",
+  "website": "https://newberganimals.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "453852074",
+  "displayName": "Northwest Boxer Rescue",
+  "categories": ["animals"],
+  "description": "A McMinnville-based breed-specific rescue that takes in, fosters, and rehomes boxer dogs across the Pacific Northwest.",
+  "website": "https://www.nwboxerrescue.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "384338583",
+  "displayName": "Oregon Horse Haven",
+  "categories": ["animals"],
+  "description": "A Newberg-based rescue that takes in, rehabilitates, and rehomes neglected or at-risk horses.",
+  "website": "https://www.oregonhorsehaven.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "834066987",
+  "displayName": "Orphan Kitten Rescue of Oregon",
+  "categories": ["animals"],
+  "description": "A Dundee-based rescue that fosters and cares for orphaned and abandoned kittens until they can be adopted.",
+  "website": "https://www.okrofor.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "912161100",
+  "displayName": "Pacific Northwest Bulldog Rescue",
+  "categories": ["animals"],
+  "description": "A McMinnville-based breed-specific rescue that takes in, fosters, and rehomes bulldogs across the Pacific Northwest.",
+  "website": "https://www.pacificnwbulldogrescue.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "273678274",
+  "displayName": "Paws for Love Therapy Dogs",
+  "categories": ["animals", "health"],
+  "description": "Trains and certifies volunteer therapy dog teams that visit hospitals, schools, and libraries across Marion, Polk, and Yamhill counties, including McMinnville.",
+  "website": "https://pawsforlovetherapydogs.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "844988476",
+  "displayName": "Pawsitively Saved Rescue",
+  "categories": ["animals"],
+  "description": "A Newberg-based animal rescue that takes in and rehomes dogs and cats in need.",
+  "website": "https://pawsitivelysaved.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "202939157",
+  "displayName": "Patton Middle School PTA",
+  "categories": ["education-k12"],
+  "description": "The parent-teacher association for Patton Middle School in McMinnville, supporting students and staff through volunteering and fundraising.",
+  "website": "https://www.facebook.com/p/Patton-Mustangs-PTA-100057097074038/",
+  "confidence": "medium",
+  "notes": "Source originalFocus field ('Animal welfare') appears to be a data error; this is a school PTA, not an animal-related organization."
+ }
+]

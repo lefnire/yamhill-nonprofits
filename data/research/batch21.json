@@ -1,0 +1,239 @@
+[
+ {
+  "id": "900044321",
+  "displayName": "AFGE Local 3979 (FCI Sheridan)",
+  "categories": ["labor"],
+  "description": "A labor union local representing federal government employees, apparently based at the Federal Correctional Institution in Sheridan, Oregon.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "Contact name references 'Federal Corr Ins' suggesting FCI Sheridan; not independently verified."
+ },
+ {
+  "id": "263877436",
+  "displayName": "AFSCME Local 1422 (Yamhill County Employees Association)",
+  "categories": ["labor"],
+  "description": "A union local representing Yamhill County government employees.",
+  "website": "https://www.facebook.com/AFSCME1422/",
+  "confidence": "high"
+ },
+ {
+  "id": "300770923",
+  "displayName": "AFSCME Local 1569 (City of Newberg Employees)",
+  "categories": ["labor"],
+  "description": "A union local representing City of Newberg municipal employees.",
+  "website": "https://oregonafscme.org/",
+  "confidence": "high",
+  "notes": "Website is the Oregon AFSCME state council site, not local-specific."
+ },
+ {
+  "id": "371665859",
+  "displayName": "AFSCME Local 3964 (Yamhill County Housing Authority Employees)",
+  "categories": ["labor"],
+  "description": "A union local representing employees of the Yamhill County Housing Authority.",
+  "website": "https://oregonafscme.org/",
+  "confidence": "high",
+  "notes": "Website is the Oregon AFSCME state council site, not local-specific."
+ },
+ {
+  "id": "936033731",
+  "displayName": "American Legion Post 173 (Carlton Memorial Post)",
+  "categories": ["veterans"],
+  "description": "A veterans service post in Carlton, Oregon that also rents its hall for community events.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "websiteRaw was a page title ('Rent the Carlton American Legion Hall...'), not a URL; could not verify a real site."
+ },
+ {
+  "id": "237026590",
+  "displayName": "American Legion Post 21",
+  "categories": ["veterans"],
+  "description": "A veterans service organization post serving McMinnville-area veterans.",
+  "website": "https://www.facebook.com/p/American-Legion-Post-21-Oregon-61564483746791/",
+  "confidence": "high"
+ },
+ {
+  "id": "237026603",
+  "displayName": "American Legion Post 57 (Lester C. Rees)",
+  "categories": ["veterans"],
+  "description": "A veterans service organization post serving Newberg-area veterans, named for Lester C. Rees.",
+  "website": "https://www.americanlegionpost57newberg.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "237026057",
+  "displayName": "American Legion Post 75",
+  "categories": ["veterans"],
+  "description": "A veterans service organization post serving Sheridan-area veterans.",
+  "website": "https://www.facebook.com/SheridanLegionPost75",
+  "confidence": "high"
+ },
+ {
+  "id": "931256092",
+  "displayName": "American Legion Auxiliary Post 75 (Sheridan Ladies Auxiliary)",
+  "categories": ["veterans"],
+  "description": "The ladies auxiliary supporting American Legion Post 75 in Sheridan, Oregon.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "311128998",
+  "displayName": "Disabled American Veterans Chapter 5 (Yamhill County)",
+  "categories": ["veterans"],
+  "description": "A chapter of Disabled American Veterans serving disabled veterans in Yamhill County, based in Sheridan.",
+  "website": "https://www.facebook.com/YCVeterans/about",
+  "confidence": "high"
+ },
+ {
+  "id": "943437382",
+  "displayName": "DAV Auxiliary Chapter 5 (Yamhill County)",
+  "categories": ["veterans"],
+  "description": "The auxiliary supporting Disabled American Veterans Chapter 5 in Yamhill County, based in McMinnville.",
+  "website": "https://www.davauxiliary.org/",
+  "confidence": "medium",
+  "notes": "Website given is the national DAV Auxiliary site, not chapter-specific."
+ },
+ {
+  "id": "922445939",
+  "displayName": "Vet2Vet Center",
+  "categories": ["veterans", "mental-health"],
+  "description": "A peer support organization for veterans based in Carlton, Oregon, consistent with the national 'Vet2Vet' peer-mentoring model connecting veterans with one another.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Could not verify with a search this session; description is inferred from the name/NTEE code (Public & Societal Benefit) only."
+ },
+ {
+  "id": "931264149",
+  "displayName": "VFW Auxiliary Post 4211 (Willamina Ladies Auxiliary)",
+  "categories": ["veterans"],
+  "description": "The ladies auxiliary supporting VFW Post 4211 in Willamina, Oregon.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "930859425",
+  "displayName": "VFW Post 10626 (Don Hampton), Dayton",
+  "categories": ["veterans"],
+  "description": "A Veterans of Foreign Wars post serving Dayton-area veterans.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "Given website is a City of Dayton veterans-affairs links page, not the post's own site, so it was dropped."
+ },
+ {
+  "id": "943158391",
+  "displayName": "VFW Auxiliary District 16 (Department of Oregon)",
+  "categories": ["veterans"],
+  "description": "A district-level auxiliary of the Veterans of Foreign Wars, Department of Oregon, based in McMinnville.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "936038560",
+  "displayName": "VFW Post 4211, Willamina",
+  "categories": ["veterans"],
+  "description": "A Veterans of Foreign Wars post serving Willamina-area veterans.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "930937769",
+  "displayName": "Chehalem Valley Water Association",
+  "categories": ["utilities"],
+  "description": "A member-owned mutual water association providing domestic water service in the Newberg/Chehalem Valley area.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "930817750",
+  "displayName": "Cove Orchard Water Association",
+  "categories": ["utilities"],
+  "description": "A member-owned mutual water association providing domestic water service near Yamhill, Oregon.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "936088847",
+  "displayName": "Perrydale Domestic Water Association",
+  "categories": ["utilities"],
+  "description": "A member-owned mutual water association providing domestic water service to the Perrydale/Amity area.",
+  "website": null,
+  "confidence": "high",
+  "notes": "websiteRaw was a page title ('HOME | PDWA'), not a URL; could not verify the real site this session."
+ },
+ {
+  "id": "930682961",
+  "displayName": "Valley View Water Association",
+  "categories": ["utilities"],
+  "description": "A member-owned mutual water association providing domestic water service near Yamhill, Oregon.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "463834109",
+  "displayName": "Widow's Might",
+  "categories": ["mental-health", "seniors"],
+  "description": "A Newberg-based support organization for widows, consistent with its IRS classification under mental health & crisis intervention (likely grief support).",
+  "website": "https://www.facebook.com/widowmightnewberg/",
+  "confidence": "low",
+  "notes": "Not verified by search this session; description is inferred from name and NTEE code (F60) only."
+ },
+ {
+  "id": "930937296",
+  "displayName": "International Pinot Noir Celebration (IPNC)",
+  "categories": ["wine"],
+  "description": "A McMinnville-based business league that organizes the International Pinot Noir Celebration, an annual event bringing together winemakers, sommeliers, and wine enthusiasts.",
+  "website": "https://ipnc.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "822931747",
+  "displayName": "Newberg Wineries Inc.",
+  "categories": ["wine", "civic"],
+  "description": "A Newberg-area organization supporting and promoting local wineries, consistent with its community/economic improvement IRS classification.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "Not verified by search this session; inferred from name and NTEE code (S41, Community Improvement)."
+ },
+ {
+  "id": "831493955",
+  "displayName": "AAUW Yamhill County",
+  "categories": ["advocacy", "education-higher"],
+  "description": "The Yamhill County branch of the American Association of University Women, which works on economic security, closing leadership gaps, and reducing implicit bias to advance women.",
+  "website": "https://yamhillcounty-or.aauw.net/",
+  "confidence": "high"
+ },
+ {
+  "id": "994473383",
+  "displayName": "Chehalem Valley Sawdust Association",
+  "categories": ["sports"],
+  "description": "A woodworking hobby club ('the Sawdusters') based in Newberg, affiliated with the Chehalem Senior Center.",
+  "website": "https://www.facebook.com/sawdusters",
+  "confidence": "medium"
+ },
+ {
+  "id": "274846178",
+  "displayName": "Yamhill Enrichment Society",
+  "categories": ["youth", "education-k12"],
+  "description": "A McMinnville-based nonprofit that supports youth and community enrichment programs in Yamhill County.",
+  "website": "https://yamhillenrichmentsociety.org/",
+  "confidence": "medium",
+  "notes": "Specific programs not verified by search this session; description grounded in stated focus and NTEE code (S20)."
+ },
+ {
+  "id": "931238819",
+  "displayName": "Yamhill-Carlton Together Cares",
+  "categories": ["youth", "human-services"],
+  "description": "A Carlton-based coalition working on youth and family substance-abuse prevention, consistent with its Human Services IRS classification.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "websiteRaw was a directory listing title, not a URL; not verified by search this session."
+ },
+ {
+  "id": "823904795",
+  "displayName": "Lighthouse Ranch",
+  "categories": ["faith", "youth"],
+  "description": "A Willamina-based ranch ministry serving youth and families, operating on a farm/ranch setting.",
+  "website": "https://www.facebook.com/Lighthouseranch/",
+  "confidence": "medium",
+  "notes": "NTEE code (K99, Food/Agriculture) is unusual for a youth ministry, likely reflecting the ranch/farm operation rather than its program focus."
+ }
+]
