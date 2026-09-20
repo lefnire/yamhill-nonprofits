@@ -101,9 +101,37 @@ npm run preview # serve the production build locally
 
 ## Deploying
 
-`vite.config.js` sets `base: './'`, so `dist/` works both at a domain root and under a
-project subpath such as `https://<user>.github.io/yamhill-nonprofits/`. Build, then
-publish the contents of `dist/`.
+### GitHub Pages (automatic)
+
+`.github/workflows/deploy.yml` builds the site and publishes it on every push to
+`main`. It needs one manual setup step, done once:
+
+**Settings -> Pages -> Build and deployment -> Source: GitHub Actions.**
+
+Leaving Source on the default ("Deploy from a branch") makes the workflow fail at
+the deploy step, because there is no Pages site for it to publish to.
+
+The site then lands at `https://<user>.github.io/<repo>/`. You can also re-run a
+deploy by hand from the Actions tab without pushing a commit.
+
+Two things to know:
+
+- **Pages on a private repository requires a paid GitHub plan** (Pro, Team, or
+  Enterprise). On a free account the repository has to be public for Pages to
+  serve it.
+- The workflow triggers on `main`, so `main` must be the repository's default
+  branch (Settings -> General -> Default branch).
+
+### Anywhere else
+
+`vite.config.js` sets `base: './'`, so the built `dist/` is position-independent: it
+works at a domain root, under a project subpath such as
+`https://<user>.github.io/yamhill-nonprofits/`, or in any nested folder. Build, then
+publish the contents of `dist/` to any static host. There is no server, no API, and
+no runtime configuration.
+
+`public/.nojekyll` is copied into `dist/` so GitHub Pages serves the build verbatim
+instead of running it through Jekyll.
 
 ## Project layout
 
