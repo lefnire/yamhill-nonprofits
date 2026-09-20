@@ -158,6 +158,29 @@ no runtime configuration.
 `public/.nojekyll` is copied into `dist/` so GitHub Pages serves the build verbatim
 instead of running it through Jekyll.
 
+### Custom domain
+
+The site serves at **yamhillcountynonprofits.com**, declared by `public/CNAME`,
+which Vite copies into every build.
+
+**`public/CNAME` is the source of truth, not the Pages settings page.** Under
+Actions publishing, GitHub serves the domain named by the deployed artifact, and
+setting a domain in the UI does not reliably write the file back to the repository
+— when this domain was added there, no `CNAME` commit appeared, which is why the
+file is committed here instead. Keeping it in the artifact means a deploy can never
+silently drop the domain.
+
+So: **to change or remove the domain, edit or delete `public/CNAME` and push.**
+Changing it only in Settings will be undone by the next deploy.
+
+DNS for the apex is four `A` records pointing at GitHub's Pages addresses
+(`185.199.108-111.153`). There is no `www` record; adding one would need a `CNAME`
+record for `www` pointing at `<user>.github.io`.
+
+One quirk worth knowing: after a domain change, GitHub's CDN can keep serving a
+cached 404 for `/` for up to ten minutes even though `/index.html` already works.
+Re-running the deploy workflow purges it; so does waiting.
+
 ## Project layout
 
 ```
