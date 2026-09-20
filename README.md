@@ -141,6 +141,12 @@ checkmarks is the signature of this setting.
 Once Source is GitHub Actions, the extra "pages build and deployment" runs stop
 appearing and the site lands at `https://<user>.github.io/<repo>/`.
 
+**Do not re-run an old "pages build and deployment" run.** Those entries stay in
+the Actions tab as history from the branch-based era, and re-running one executes
+the old branch build and republishes the repository root over the top of the real
+deployment -- blanking the site again even though Source is now set correctly. To
+redeploy, run the **Deploy to GitHub Pages** workflow instead, or push to `main`.
+
 ### Anywhere else
 
 `vite.config.js` sets `base: './'`, so the built `dist/` is position-independent: it
