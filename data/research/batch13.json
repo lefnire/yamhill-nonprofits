@@ -1,0 +1,233 @@
+[
+ {
+  "id": "472067593",
+  "displayName": "Three Rangers Foundation",
+  "categories": ["veterans"],
+  "description": "Provides mentorship and transition support to U.S. Army 75th Ranger Regiment veterans and their families, covering employment, finances, education, and family wellbeing, and supports the families of fallen Rangers through its Gold Star program.",
+  "website": "https://www.threerangersfoundation.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "392689373",
+  "displayName": "Tips for Success Foundation",
+  "categories": ["education-higher"],
+  "description": "Publishes free, ad-free self-improvement articles and guidance on topics like personal finance, relationships, and personal development, aimed at adults seeking practical life-skills education.",
+  "website": "https://www.tipsforsuccess.org/",
+  "confidence": "medium",
+  "notes": "Web content is a general self-help publishing site with no visible Yamhill County program; categorized per its adult-education NTEE code (B60)."
+ },
+ {
+  "id": "874587224",
+  "displayName": "Traveling Light Foundation",
+  "categories": ["stem", "education-k12"],
+  "description": "Supports STEAM (science, technology, engineering, arts, and math) education in the McMinnville area, offering awards for students and grants for educators to expand access to hands-on learning.",
+  "website": "https://www.gotlf.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "474877573",
+  "displayName": "Trissy Foundation",
+  "categories": ["philanthropy"],
+  "description": "A Newberg-based private charitable foundation registered with the IRS in 2024; its specific funding focus could not be confirmed from public sources.",
+  "website": null,
+  "confidence": "low",
+  "notes": "No website or NTEE code on file and no public information found beyond Oregon's nonprofit registry listing."
+ },
+ {
+  "id": "821743152",
+  "displayName": "Vivian Lee Foundation",
+  "categories": ["health", "families"],
+  "description": "Supports families affected by cystic fibrosis through scholarships, counseling, support groups, financial assistance, and activity grants, based in Newberg.",
+  "website": "https://www.vivianleefoundation.org/",
+  "confidence": "high",
+  "notes": "This website was listed in the source data under a different record (Equipo Home Building, id 815358724); site content confirms it actually belongs to the Vivian Lee Foundation."
+ },
+ {
+  "id": "821589694",
+  "displayName": "Wallow Foundation",
+  "categories": ["arts"],
+  "description": "A Carlton-based foundation, formed in memory of Oregon watercolor artist Lynn Powers, that promotes fine-art access in underserved Oregon communities and operates the WALLOW virtual-reality art gallery.",
+  "website": "https://wallowfoundation.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "262810801",
+  "displayName": "Yamhill County Mounted Sheriff's Posse Foundation",
+  "categories": ["public-safety"],
+  "description": "Supports the Yamhill County Sheriff's mounted posse, a volunteer horse-mounted unit that assists with search and rescue, patrol, and public events in McMinnville.",
+  "website": "https://www.facebook.com/YCSMP/",
+  "confidence": "medium"
+ },
+ {
+  "id": "992354506",
+  "displayName": "Yamhill County Sheriff's Office Foundation",
+  "categories": ["public-safety"],
+  "description": "Raises funds and community support for the Yamhill County Sheriff's Office, supplementing equipment, training, and community safety programs.",
+  "website": "https://ycsofoundation.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "831889135",
+  "displayName": "Clover Clinic Community Services",
+  "categories": ["health"],
+  "description": "Operates a naturopathic clinic in Newberg providing individualized, whole-body natural healthcare, including diagnostics, physical exams, and specialized programs such as brain health and fertility preparation.",
+  "website": "https://www.thecloverclinic.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "842499842",
+  "displayName": "Community Wellness Collective",
+  "categories": ["basic-needs", "mental-health", "housing"],
+  "description": "Runs a drop-in center in Newberg connecting people experiencing homelessness, mental health challenges, and substance use issues to food, warmth, emergency shelter, and pathways to housing and recovery.",
+  "website": "https://communitywellnesscollective.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930889144",
+  "displayName": "Providence Newberg Health Foundation",
+  "categories": ["health", "philanthropy"],
+  "description": "Raises charitable funds to support patient care programs, equipment, and services at Providence Newberg Medical Center.",
+  "website": "https://foundation.providence.org/oregon/newberg",
+  "confidence": "high"
+ },
+ {
+  "id": "270540733",
+  "displayName": "SNACK Program",
+  "categories": ["health", "families"],
+  "description": "Provides child-centered, weight-neutral nutrition education to families in Yamhill County through medical appointments, cooking classes, and community events, tailored to each family's cultural and economic needs.",
+  "website": "https://www.snackprogram.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "364742731",
+  "displayName": "Yamhill County Care Organization",
+  "categories": ["health"],
+  "description": "A coordinated care organization that manages Oregon Health Plan (Medicaid) funding and services for Yamhill County residents, coordinating physical, dental, and behavioral health care.",
+  "website": "https://yamhillcco.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "814211586",
+  "displayName": "MetaDiagnostics",
+  "categories": ["health"],
+  "description": "A health care-focused nonprofit tied to a Newberg mailing address and led by a neonatologist/healthcare-informatics researcher; its specific diagnostic research programs could not be confirmed from public sources.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Public records show a Solana Beach, CA operating address alongside the Newberg, OR mailing address; the organization may be only nominally connected to Yamhill County."
+ },
+ {
+  "id": "932900917",
+  "displayName": "Asian Heritage Association",
+  "categories": ["arts", "history"],
+  "description": "Unites Asian Americans in Yamhill County, preserves local Asian American history, and promotes Asian social and cultural activities in the McMinnville area.",
+  "website": "https://ahayc.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "452757442",
+  "displayName": "Celtic Heritage Alliance",
+  "categories": ["history", "arts"],
+  "description": "Promotes and preserves Celtic culture and heritage in the McMinnville area, organizing an annual Scottish Festival & Highland Games and related cultural programs.",
+  "website": "https://celticheritage.org/",
+  "confidence": "high",
+  "notes": "Source data lists aka 'Newport Celtic Fest & Highland Game,' but the organization's own website and its McMinnville city listing point to a McMinnville-based Scottish Festival & Highland Games; the aka may be outdated or mismatched."
+ },
+ {
+  "id": "275007826",
+  "displayName": "Pacific Northwest Chapter of SPAAMFAA",
+  "categories": ["history"],
+  "description": "A Newberg-based chapter of the Society for the Preservation and Appreciation of Antique Motor Fire Apparatus in America, dedicated to restoring and preserving historic fire engines and equipment.",
+  "website": "https://pnwspaamfaa.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931069203",
+  "displayName": "Evergreen Aviation & Space Museum",
+  "categories": ["history", "stem"],
+  "description": "A McMinnville museum, home to Howard Hughes's 'Spruce Goose,' that preserves aviation and space history and offers STEM education programs for students and the public.",
+  "website": "https://www.evergreenmuseum.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "936022866",
+  "displayName": "Yamhill DAR",
+  "categories": ["history"],
+  "description": "The McMinnville-area chapter of the Daughters of the American Revolution, promoting historic preservation, education, and genealogical research related to the American Revolution.",
+  "website": "https://yamhilldar.weebly.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "843728843",
+  "displayName": "Newberg Area Historical Society",
+  "categories": ["history"],
+  "description": "Collects, preserves, and shares the history of Newberg and the surrounding area through exhibits, archives, and community programs.",
+  "website": "https://newberghistory.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "320399394",
+  "displayName": "Sheridan Museum of History",
+  "categories": ["history"],
+  "description": "A small museum in Sheridan, Oregon that preserves and shares local history through exhibits and community outreach.",
+  "website": "https://www.sheridanmuseumofhistory.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930762162",
+  "displayName": "Yamhill County Genealogical Society",
+  "categories": ["history"],
+  "description": "Supports family history research in Yamhill County by maintaining genealogical records and helping members trace their ancestry.",
+  "website": "https://www.ycgsociety.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "237090047",
+  "displayName": "Yamhill County Historical Society",
+  "categories": ["history"],
+  "description": "An educational and public service organization that protects, preserves, and shares the history and heritage of Yamhill County through exhibits and events.",
+  "website": "https://yamhillcountyhistory.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "853081668",
+  "displayName": "Encompass Yamhill Valley",
+  "categories": ["housing", "basic-needs"],
+  "description": "Works with people experiencing or at risk of homelessness in the McMinnville area to help them find and keep stable housing.",
+  "website": "https://www.encompassyv.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930677074",
+  "displayName": "Willamette Valley Medical Center Volunteers",
+  "categories": ["health"],
+  "description": "A volunteer auxiliary supporting Willamette Valley Medical Center in McMinnville, including running the hospital gift shop to raise funds for patient services.",
+  "website": "https://www.willamettevalleymedical.com/volunteer-opportunities",
+  "confidence": "medium"
+ },
+ {
+  "id": "412201102",
+  "displayName": "Chehalem Valley Housing Corporation",
+  "categories": ["housing"],
+  "description": "Develops and supports affordable housing in the McMinnville and Chehalem Valley area.",
+  "website": null,
+  "confidence": "low",
+  "notes": "No website on file and limited public information beyond IRS registration; description is based on its name and housing-related classification."
+ },
+ {
+  "id": "815358724",
+  "displayName": "Equipo Home Building",
+  "categories": ["housing"],
+  "description": "A Newberg-based nonprofit organized to build homes; its name ('equipo' means 'team' in Spanish) suggests a focus on Spanish-speaking or underserved families, though specific programs could not be confirmed from public sources.",
+  "website": null,
+  "confidence": "low",
+  "notes": "The website listed in the source data (vivianleefoundation.org) actually belongs to the unrelated Vivian Lee Foundation (id 821743152), so it was not used here; no verified website was found for Equipo Home Building."
+ },
+ {
+  "id": "931025835",
+  "displayName": "Habitat for Humanity McMinnville Area",
+  "categories": ["housing"],
+  "description": "Builds and rehabilitates affordable homes for local families in partnership with volunteers and homeowners in the McMinnville area, part of the international Habitat for Humanity network.",
+  "website": "https://machabitat.org/",
+  "confidence": "high"
+ }
+]

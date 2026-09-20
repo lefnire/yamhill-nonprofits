@@ -1,0 +1,233 @@
+[
+ {
+  "id": "930853864",
+  "displayName": "New Hope Christian Center",
+  "categories": ["faith"],
+  "description": "A Christian church in Sheridan serving the local congregation with worship services and ministry programs.",
+  "website": "https://sheridannewhope.church/",
+  "confidence": "high"
+ },
+ {
+  "id": "261616881",
+  "displayName": "Chehalem Christian Fellowship",
+  "categories": ["faith"],
+  "description": "A gospel-centered, Bible-teaching Christian church in Newberg, founded in 1996, offering Sunday and Wednesday services for the Chehalem Valley community.",
+  "website": "https://chehalemchristianfellowship.org/",
+  "confidence": "high",
+  "notes": "IRS legal name is 'Newberg Fellowship' (aka 'Newberg Christian Fellowship'), but the listed website and contact (James/Jim Courson) match Chehalem Christian Fellowship, which appears to be the current operating name."
+ },
+ {
+  "id": "942943208",
+  "displayName": "Red Hills Church",
+  "categories": ["faith"],
+  "description": "A Christian church in Newberg, originally founded in 1991 as Newberg Foursquare Church and rebranded as Red Hills Church in 2016.",
+  "website": "https://www.redhills.church/",
+  "confidence": "high",
+  "notes": "IRS legal name 'Newberg Foursquare Church' is outdated; the org now operates as Red Hills Church."
+ },
+ {
+  "id": "936026925",
+  "displayName": "Newberg Friends Church",
+  "categories": ["faith"],
+  "description": "A Quaker (Friends) congregation in Newberg offering worship services and community fellowship.",
+  "website": "https://www.newbergfriends.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "911786158",
+  "displayName": "Newberg Spanish Friends Church",
+  "categories": ["faith"],
+  "description": "A Spanish-language Quaker (Friends) congregation in Newberg, also known as Iglesia Amigos en Newberg, serving the local Latino Christian community.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "930913531",
+  "displayName": "Newberg Word of Life",
+  "categories": ["faith"],
+  "description": "A Christian church or ministry registered in Newberg; no current website or independent web presence could be confirmed.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Could not confirm this is still active under this name; a similarly named but distinct 'Newberg Word of Faith Center' exists in the same city."
+ },
+ {
+  "id": "930852835",
+  "displayName": "Lifepoint (Newburg Open Bible Church)",
+  "categories": ["faith"],
+  "description": "An Open Bible Standard Churches congregation in Newberg, also known as Lifepoint, offering worship services and children's ministry.",
+  "website": "https://openbiblelearningcenter.org/",
+  "confidence": "medium",
+  "notes": "The listed website (openbiblelearningcenter.org) appears to belong to an affiliated preschool/daycare rather than the church's own site; no separate church website was confirmed."
+ },
+ {
+  "id": "237149830",
+  "displayName": "North Valley Friends Church",
+  "categories": ["faith"],
+  "description": "A Quaker (Friends) church in Newberg providing worship and congregational life for its members.",
+  "website": "https://northvalleyfriends.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930811883",
+  "displayName": "Northside Community Free Methodist Church",
+  "categories": ["faith"],
+  "description": "A Free Methodist congregation in Newberg offering worship services and community ministry.",
+  "website": "https://www.northsidenewberg.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930509798",
+  "displayName": "Northwest Christian Church (Newberg)",
+  "categories": ["faith"],
+  "description": "The Newberg campus of Northwest Christian Church, a multi-site church network in the Portland metro and Willamette Valley area.",
+  "website": "https://mynw.cc/",
+  "confidence": "high"
+ },
+ {
+  "id": "931311035",
+  "displayName": "Northwest Community Church (McMinnville)",
+  "categories": ["faith"],
+  "description": "The McMinnville campus of Northwest Christian Church, a multi-site church network, offering worship services led locally by John Palacios Jr.",
+  "website": "https://mynw.cc/",
+  "confidence": "high"
+ },
+ {
+  "id": "861849769",
+  "displayName": "Northwest Truth Ministries",
+  "categories": ["faith"],
+  "description": "A small Christian ministry registered in McMinnville led by Matthew Davies; no independent website or additional program details could be found.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "881065778",
+  "displayName": "Forge Life Friends Church",
+  "categories": ["faith"],
+  "description": "A Quaker (Friends) church in Newberg, located on S. College Street, that partners with local groups such as Love INC Newberg to serve the community.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "Source record's website (newbergfriends.org) matches Newberg Friends Church, a separate congregation, not Forge Life Friends Church, so it was not carried over; no confirmed website for this church was found."
+ },
+ {
+  "id": "930480595",
+  "displayName": "Northwest Yearly Meeting of Friends Church",
+  "categories": ["faith"],
+  "description": "The regional Quaker (Friends) denominational body for the Pacific Northwest, headquartered in Newberg, that oversees and supports member Friends churches.",
+  "website": "https://nwfriends.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "593835542",
+  "displayName": "Oregon Professors of Educational Administration",
+  "categories": ["professional", "education-higher"],
+  "description": "A professional association of Oregon university faculty who prepare and support school principals and superintendents, associated with contacts at George Fox University in Newberg.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "Source data's originalFocus field ('Christian church / ministry') is incorrect; NTEE code B90 (Education) and contact Marc Shelton (George Fox University education faculty, past NCPEA president) indicate this is an educational-administration professional association, not a church."
+ },
+ {
+  "id": "931146850",
+  "displayName": "Pacific Northwest Mennonite Conference",
+  "categories": ["faith"],
+  "description": "The regional Mennonite denominational conference office, based in Sheridan, that supports member Mennonite congregations across the Pacific Northwest.",
+  "website": "https://pnmc.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "936026574",
+  "displayName": "Pioneer Evangelical Church",
+  "categories": ["faith"],
+  "description": "An evangelical Christian church in Dayton offering worship services to the local community.",
+  "website": "https://www.pioneerevangelical.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "452426056",
+  "displayName": "Reach the City Ministries",
+  "categories": ["faith"],
+  "description": "A McMinnville-based Christian ministry that trains church members, particularly quieter or introverted believers, in relational evangelism and discipleship skills.",
+  "website": "https://reachthecity.wpcomstaging.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "844346791",
+  "displayName": "Resilient Hope Fellowship",
+  "categories": ["faith"],
+  "description": "A small Christian church fellowship serving the McMinnville area, working with groups like Love INC to coordinate help for people in need across denominational lines.",
+  "website": "https://resilienthopefellowship.org/",
+  "confidence": "medium",
+  "notes": "Their own website indicates weekly services were indefinitely suspended due to the pastor's family health issues; current activity status is unclear."
+ },
+ {
+  "id": "930505007",
+  "displayName": "River-Street Church of God",
+  "categories": ["faith"],
+  "description": "A Church of God congregation in Newberg providing worship services and community fellowship.",
+  "website": "https://rscog.squarespace.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "830504724",
+  "displayName": "Riverbend Baptist Church",
+  "categories": ["faith"],
+  "description": "A Baptist congregation registered in McMinnville; no website or additional program details could be found.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "205773688",
+  "displayName": "Rugged Cross Ranch Ministries (5Rock Ranch)",
+  "categories": ["faith", "families"],
+  "description": "A 108-acre Christian retreat ranch near Yamhill offering free camps and respite retreats for single mothers and their children, plus faith-based camps for young men.",
+  "website": "https://www.5rockranch.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "930578825",
+  "displayName": "St. John Lutheran Church & School",
+  "categories": ["faith", "education-k12"],
+  "description": "A Lutheran Church-Missouri Synod congregation in McMinnville, organized in 1939, that also operates an affiliated Christian school.",
+  "website": "https://www.stjohnmac.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "811311701",
+  "displayName": "Saturate Church",
+  "categories": ["faith"],
+  "description": "A Christian church in Newberg offering worship services and community ministry.",
+  "website": "https://www.saturate.life/",
+  "confidence": "high"
+ },
+ {
+  "id": "931100168",
+  "displayName": "Sheridan Full Gospel Tabernacle",
+  "categories": ["faith"],
+  "description": "A Pentecostal Holiness congregation in Sheridan offering worship services to the local community.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "930930929",
+  "displayName": "Our Lady of Fatima Church",
+  "categories": ["faith"],
+  "description": "A traditionalist Catholic chapel in Dundee operated by the Society of Saint Pius X, serving Latin Mass worshippers.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "922434918",
+  "displayName": "Spirit and Truth Ministries",
+  "categories": ["faith"],
+  "description": "A religious organization in McMinnville led by William Davies that disburses support to religious and charitable ministry activities.",
+  "website": "https://spiritandtruthmin.square.site/",
+  "confidence": "high"
+ },
+ {
+  "id": "263338219",
+  "displayName": "Springhill Community Church",
+  "categories": ["faith"],
+  "description": "A Christian church with a Carlton mailing address that meets in nearby Gaston, tracing its roots to a 1993 church plant later reorganized as Springhill Community Church in 2008.",
+  "website": "http://springhillcommunitychurch.org/index.html",
+  "confidence": "high"
+ }
+]

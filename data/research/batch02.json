@@ -1,0 +1,228 @@
+[
+ {
+  "id": "850557136",
+  "displayName": "Dayton Community Food Pantry",
+  "categories": ["basic-needs"],
+  "description": "Distributes free groceries to residents of Dayton, Oregon on the 2nd and 4th Tuesday of each month, operating out of Dayton First Baptist Church.",
+  "website": "https://daytonfoodpantry.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "931243658",
+  "displayName": "Grand Sheramina Food Bank",
+  "categories": ["basic-needs"],
+  "description": "Operates a food bank in Sheridan, Oregon that provides groceries to residents of Sheridan and Willamina experiencing financial hardship or unemployment.",
+  "website": "https://gsmafoodpantry.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "760736647",
+  "displayName": "Yamhill County Gleaners",
+  "categories": ["basic-needs", "agriculture"],
+  "description": "Gleans surplus produce from local farms and distributes fresh food free of charge to families in need across Yamhill and Polk counties.",
+  "website": "https://www.facebook.com/people/Yamhill-County-Gleaners/100064352722960/",
+  "confidence": "high",
+  "notes": "No dedicated website found; Facebook page used since it is the org's only web presence."
+ },
+ {
+  "id": "930673869",
+  "displayName": "Newberg Fish Emergency Service",
+  "categories": ["basic-needs"],
+  "description": "Provides emergency food boxes and basic assistance to individuals and families in the Newberg, Oregon area, funded in part by community partners like the Newberg Charitable Organization.",
+  "website": "https://www.newbergfish.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "872749999",
+  "displayName": "Saturday Morning Breakfast in Mac",
+  "categories": ["basic-needs"],
+  "description": "Serves a free weekly community breakfast open to anyone in need in McMinnville, Oregon.",
+  "website": "https://www.smbinmac.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "823033431",
+  "displayName": "Sheridan Tree of Giving",
+  "categories": ["basic-needs", "youth"],
+  "description": "Provides Christmas gifts to children from income-challenged families in Sheridan, Oregon through a community giving-tree program run with local service groups.",
+  "website": "https://www.facebook.com/SheridanTreeofGiving/",
+  "confidence": "high"
+ },
+ {
+  "id": "371836550",
+  "displayName": "Swedemom Center of Giving",
+  "categories": ["philanthropy"],
+  "description": "Runs a nonprofit resale shop and online sales platform in McMinnville that turns donated goods into ongoing funding for local charitable organizations.",
+  "website": "https://www.swedemomcenterofgiving.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930464194",
+  "displayName": "Society of St. Vincent de Paul – Mid-Willamette Valley Council",
+  "categories": ["faith", "basic-needs"],
+  "description": "A Catholic charitable council based in McMinnville that coordinates local St. Vincent de Paul conferences providing food, clothing, and financial assistance to people in need.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "260068805",
+  "displayName": "Love INC of Newberg",
+  "categories": ["faith", "basic-needs"],
+  "description": "A faith-based network of Newberg-area churches that mobilizes volunteers and donated resources to help low-income neighbors with food, transportation, and household needs.",
+  "website": "https://loveincnewberg.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "882630630",
+  "displayName": "Love INC of Greater McMinnville",
+  "categories": ["faith", "basic-needs"],
+  "description": "A faith-based network of McMinnville-area churches connecting volunteers and resources to help residents facing poverty with basic needs.",
+  "website": "https://loveincmac.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930964181",
+  "displayName": "St. James Conference of St. Vincent de Paul",
+  "categories": ["faith", "basic-needs"],
+  "description": "A McMinnville parish-based conference of the Society of St. Vincent de Paul that provides direct assistance such as food and financial aid to people in need.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "841911285",
+  "displayName": "With Courage",
+  "categories": ["health"],
+  "description": "Supports women in Yamhill County diagnosed with breast cancer through care packages, financial assistance for treatment-related needs, and peer support groups.",
+  "website": "https://www.withcourage.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "320000467",
+  "displayName": "Willamette Valley Cancer Foundation",
+  "categories": ["health", "philanthropy"],
+  "description": "Raises and grants funds to support cancer patients and cancer-related programs in the McMinnville and Willamette Valley area.",
+  "website": "https://willamettevalleycancerfoundation.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "611506357",
+  "displayName": "Noble Burial Association",
+  "categories": ["cemeteries"],
+  "description": "Maintains Noble Pioneer Cemetery near Newberg, Oregon, a roughly 3-acre burial ground dating to the 1850s that serves area families.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "931145404",
+  "displayName": "Dayton Odd Fellows Cemetery Association",
+  "categories": ["cemeteries"],
+  "description": "Maintains and preserves the historic Odd Fellows cemetery in Dayton, Oregon.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "931107010",
+  "displayName": "Dundee Pioneer Cemetery",
+  "categories": ["cemeteries"],
+  "description": "Maintains and preserves the pioneer cemetery in Dundee, Oregon.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "websiteRaw was just the org's name, not a URL; no working site was found in search."
+ },
+ {
+  "id": "930602395",
+  "displayName": "Fernwood Pioneer Cemetery Association",
+  "categories": ["cemeteries"],
+  "description": "Maintains and preserves Fernwood Pioneer Cemetery near Newberg, Oregon.",
+  "website": "https://fernwoodpioneercemetery.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "936031812",
+  "displayName": "St. James Cemetery Association",
+  "categories": ["cemeteries"],
+  "description": "Maintains a Catholic parish cemetery in McMinnville, Oregon.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "936028424",
+  "displayName": "Yamhill-Carlton Pioneer Memorial Cemetery Association",
+  "categories": ["cemeteries"],
+  "description": "Maintains a pioneer memorial cemetery serving the Yamhill and Carlton, Oregon communities.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "813656742",
+  "displayName": "Foundry Flights",
+  "categories": ["faith", "human-services"],
+  "description": "A volunteer aviation ministry based near Newberg that performs aerial ash scatterings and offers free charitable flights, including medical transport through the Angel Flight West network.",
+  "website": "https://foundryflights.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "273025845",
+  "displayName": "Newberg Charitable Organization",
+  "categories": ["philanthropy"],
+  "description": "A volunteer-run grantmaking organization that has used proceeds from its Newberg thrift shop for over 60 years to fund local nonprofits and service organizations.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "931178086",
+  "displayName": "Yamhill County CASA Program",
+  "categories": ["legal", "youth"],
+  "description": "Trains and coordinates court-appointed volunteer advocates who represent the best interests of abused and neglected children in Yamhill County's court system.",
+  "website": "https://www.yccasa.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "936041286",
+  "displayName": "Camp Yamhill",
+  "categories": ["faith", "youth"],
+  "description": "Operates a Christian camp and retreat center in Yamhill, Oregon offering outdoor ministry and camp programs for youth and families.",
+  "website": "https://campyamhill.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "911826375",
+  "displayName": "2nd Street Community Church",
+  "categories": ["faith"],
+  "description": "A Quaker (Friends) Christian congregation in Newberg, Oregon offering worship services and church community programs.",
+  "website": "http://2ndstreet.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "994412555",
+  "displayName": "Abundant Grace Missions",
+  "categories": ["faith"],
+  "description": "A Christian church in McMinnville, Oregon centered on faith, love, and community outreach.",
+  "website": "https://www.facebook.com/p/Abundant-Grace-Missions-100067023690462/",
+  "confidence": "medium"
+ },
+ {
+  "id": "332629121",
+  "displayName": "Advancing Undeceptions North America",
+  "categories": ["faith", "media"],
+  "description": "The North American branch of Undeceptions, a Christian apologetics ministry based near Newberg that produces media and training to help pastors and believers address religious doubt.",
+  "website": "https://undeceptions.com/auna/",
+  "confidence": "medium"
+ },
+ {
+  "id": "936039838",
+  "displayName": "Allied Christian Foundation",
+  "categories": ["philanthropy", "faith"],
+  "description": "A Newberg-based Christian foundation that provides financial grants to Christian ministries and educational programs worldwide.",
+  "website": "https://www.alliedchristianfoundation.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "822212347",
+  "displayName": "Ambleside of the Willamette Valley",
+  "categories": ["education-k12"],
+  "description": "A private Christian K-10 school in Newberg, Oregon using the Charlotte Mason 'living education' approach, serving students including those with learning differences.",
+  "website": "https://ambleside.info/",
+  "confidence": "high"
+ }
+]

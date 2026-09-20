@@ -1,0 +1,233 @@
+[
+ {
+  "id": "300685163",
+  "displayName": "Sheridan Education Foundation",
+  "categories": ["education-k12"],
+  "description": "Raises funds and provides grants to support students, teachers, and programs in the Sheridan School District in Sheridan, Oregon.",
+  "website": "https://www.sheridan.k12.or.us/sheridan-education-foundation/",
+  "confidence": "high"
+ },
+ {
+  "id": "872202337",
+  "displayName": "The Bridge Learning Community",
+  "categories": ["education-k12", "education-early"],
+  "description": "Runs a self-directed learning cooperative and an early-childhood play-based program for children and families in the Sheridan area, offering enrichment classes outside a traditional school setting.",
+  "website": "https://www.thebridgelearningcommunity.org/",
+  "confidence": "high",
+  "notes": "Shares its website and mission with 'Bridging' (EIN 465657067); likely an earlier name or closely related entity for the same program."
+ },
+ {
+  "id": "760741968",
+  "displayName": "Yamhill-Carlton Education Foundation",
+  "categories": ["education-k12"],
+  "description": "Raises money to support students, teachers, and programs in the Yamhill-Carlton School District in Carlton, Oregon.",
+  "website": "https://www.facebook.com/ycedfoundation/",
+  "confidence": "medium",
+  "notes": "No standalone organization website found; Facebook page appears to be its only web presence."
+ },
+ {
+  "id": "273108159",
+  "displayName": "Youth Educational Travel International (YETI)",
+  "categories": ["youth", "international"],
+  "description": "A Dundee, Oregon organization classified under educational services; its name suggests it organizes educational travel or exchange programs for young people, but no current program details could be confirmed.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Web search turned up no current activity or website for this organization under this name."
+ },
+ {
+  "id": "851571988",
+  "displayName": "Ark Foundation",
+  "categories": ["education-higher", "health"],
+  "description": "Provides Nurse Assistant (CNA) training programs in Newberg, Oregon to build community members' skills and career opportunities in healthcare.",
+  "website": "https://www.arkfoundationcna.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "510161629",
+  "displayName": "Oregon ASCD",
+  "categories": ["professional", "education-k12"],
+  "description": "A McMinnville-based professional association for Oregon educators and school leaders, offering professional development, networking, and resources on curriculum and instructional supervision.",
+  "website": "https://ascdoregon.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931269409",
+  "displayName": "Art Conspiracy",
+  "categories": ["arts", "youth"],
+  "description": "Runs a two-week creative arts program for students from age 9 through high school in Sheridan, Amity, Willamina, Grand Ronde, and neighboring communities.",
+  "website": "https://www.artconspiracywestvalley.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "465657067",
+  "displayName": "Bridging",
+  "categories": ["education-k12", "education-early"],
+  "description": "A Sheridan-area community learning organization associated with The Bridge Learning Community, supporting self-directed and community-based education for local children and families.",
+  "website": "https://www.thebridgelearningcommunity.org/",
+  "confidence": "medium",
+  "notes": "Shares its website and apparent mission with The Bridge Learning Community (EIN 872202337); likely an earlier name or closely related entity for the same program."
+ },
+ {
+  "id": "850560842",
+  "displayName": "Integrity Home Studies",
+  "categories": ["families", "youth"],
+  "description": "Provides adoption home studies and pre- and post-adoption education and support for Oregon families pursuing domestic, international, or foster-system adoption.",
+  "website": "https://integrityhomestudies.org/",
+  "confidence": "high",
+  "notes": "The source data's originalFocus of 'homeschooling' is incorrect — this organization provides adoption home study services, not homeschool support."
+ },
+ {
+  "id": "931219346",
+  "displayName": "Partners in Education (Mabel Rush Elementary)",
+  "categories": ["education-k12"],
+  "description": "A parent support group that raises funds and volunteers on behalf of Mabel Rush Elementary School in the Newberg School District.",
+  "website": "https://www.newberg.k12.or.us/apps/pages/index.jsp?uREC_ID=3686622&type=d&pREC_ID=2421000",
+  "confidence": "high"
+ },
+ {
+  "id": "930862852",
+  "displayName": "Oregon Council for the Social Studies",
+  "categories": ["professional", "education-k12"],
+  "description": "A statewide professional association for Oregon social studies educators from K-12 through college, offering professional development, an academic journal, and advocacy for the field.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "Organization's longtime domain oregonsocialstudies.org now appears lapsed and listed for sale; no current working website found."
+ },
+ {
+  "id": "825356889",
+  "displayName": "Age With Honor",
+  "categories": ["seniors"],
+  "description": "Helps older adults, families, and caregivers in the Dayton, Oregon area navigate elder care decisions and long-term care planning.",
+  "website": "https://agewithhonor.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930478660",
+  "displayName": "Friendsview",
+  "categories": ["seniors", "housing"],
+  "description": "A Quaker-affiliated continuing care retirement community in Newberg, Oregon offering independent living, assisted living, and skilled nursing for seniors.",
+  "website": "https://www.friendsview.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "300568275",
+  "displayName": "Rock of Ages Endowment",
+  "categories": ["seniors", "philanthropy"],
+  "description": "An endowment fund that helps pay for the care of elderly and low-income residents at Rock of Ages Mennonite Home, a senior living community in McMinnville, Oregon.",
+  "website": "https://www.rockofages.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "874575434",
+  "displayName": "Keystone Rescue Services",
+  "categories": ["animals"],
+  "description": "Operating as 'The CRUX,' this Newberg-based organization is working to establish a low-cost spay/neuter, vaccination, and microchipping clinic to support animal rescue groups and low-income pet owners in Yamhill County.",
+  "website": "https://keystonerescueservices.godaddysites.com/",
+  "confidence": "high",
+  "notes": "Name suggests human emergency/rescue services, but this is an animal-welfare organization."
+ },
+ {
+  "id": "923206344",
+  "displayName": "Amity Volunteer Firefighters Association",
+  "categories": ["public-safety"],
+  "description": "Supports the volunteer firefighters of the Amity Fire District in Amity, Oregon through recruitment, training assistance, and community fire safety efforts.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "260310063",
+  "displayName": "Carlton Volunteer Firefighters Association",
+  "categories": ["public-safety"],
+  "description": "Supports the volunteer firefighters of the Carlton Fire District in Carlton, Oregon through recruitment, training assistance, and community fire safety efforts.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "931305641",
+  "displayName": "Dundee Fire-Rescue Volunteers",
+  "categories": ["public-safety"],
+  "description": "Supports the volunteer firefighters of Dundee Fire and Rescue in Dundee, Oregon.",
+  "website": "https://www.facebook.com/DundeeFireAndRescue/",
+  "confidence": "high"
+ },
+ {
+  "id": "933699224",
+  "displayName": "Grassroots Wildland Firefighters",
+  "categories": ["public-safety", "advocacy"],
+  "description": "Advocates nationally for fair pay, accurate job classification, health support, and retirement benefits for federal wildland firefighters; founded by current and former federal wildland firefighters and headquartered in Carlton, Oregon.",
+  "website": "https://www.grassrootswildlandfirefighters.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "475201258",
+  "displayName": "Lafayette Fire Department Volunteers Association",
+  "categories": ["public-safety"],
+  "description": "Supports the volunteer firefighters of the Lafayette Fire Department in Lafayette, Oregon.",
+  "website": "https://www.lfdva.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930666396",
+  "displayName": "McMinnville Volunteer Firefighters Association",
+  "categories": ["public-safety"],
+  "description": "Supports the volunteer firefighters of the McMinnville Fire District in McMinnville, Oregon.",
+  "website": "https://mcminnvillefiredistrict.gov/volunteer/",
+  "confidence": "high"
+ },
+ {
+  "id": "611566399",
+  "displayName": "Sheridan Volunteer Firefighters Association",
+  "categories": ["public-safety"],
+  "description": "Supports the volunteer firefighters of the Sheridan Fire District in Sheridan, Oregon.",
+  "website": "https://www.sheridanfd.org/volunteers/",
+  "confidence": "high"
+ },
+ {
+  "id": "364881154",
+  "displayName": "Yamhill County Amateur Radio Emergency Services (YCARES)",
+  "categories": ["public-safety", "stem"],
+  "description": "A volunteer amateur radio group that provides emergency communications support for Yamhill County, Oregon during disasters and public events.",
+  "website": "https://ycares.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "800548776",
+  "displayName": "Yamhill County CERT Association",
+  "categories": ["public-safety"],
+  "description": "Trains community volunteers in Yamhill County, Oregon through the Community Emergency Response Team (CERT) program to assist with disaster preparedness and response.",
+  "website": "http://www.yccert.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931315642",
+  "displayName": "Yamhill County Sheriff's Search and Rescue",
+  "categories": ["public-safety"],
+  "description": "A volunteer search and rescue team that assists the Yamhill County Sheriff's Office in Oregon with locating missing and endangered persons.",
+  "website": "https://ycsar.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "992886729",
+  "displayName": "Yamhill Fire Protection District Volunteer Association",
+  "categories": ["public-safety"],
+  "description": "Supports the volunteer firefighters of the Yamhill Fire Protection District in Yamhill, Oregon.",
+  "website": "https://www.yamhillfpd.org/volunteer-information",
+  "confidence": "high"
+ },
+ {
+  "id": "930996296",
+  "displayName": "YCOM Employee Association",
+  "categories": ["labor"],
+  "description": "An employee association for staff of the Yamhill Communications Agency (YCOM), the county's 911 emergency dispatch center in McMinnville, Oregon.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "930843837",
+  "displayName": "Chehalem Park Foundation",
+  "categories": ["philanthropy", "sports"],
+  "description": "Raises and manages charitable donations, including memorial park benches and donated parkland, to support the facilities and programs of the Chehalem Park and Recreation District in Newberg, Oregon.",
+  "website": "https://www.cprdnewberg.org/general/page/chehalem-park-foundation",
+  "confidence": "high"
+ }
+]

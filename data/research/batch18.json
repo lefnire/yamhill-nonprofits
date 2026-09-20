@@ -1,0 +1,254 @@
+[
+  {
+    "id": "930830019",
+    "displayName": "Dundee Woman's Club",
+    "categories": ["service-clubs"],
+    "description": "The Dundee Woman's Club is a women's civic and service club in Dundee, Oregon, that raises funds for local community and philanthropic projects.",
+    "website": null,
+    "confidence": "low",
+    "notes": "No website found; description grounded only in name and NTEE T12 (Philanthropy) code."
+  },
+  {
+    "id": "930877435",
+    "displayName": "Sheridan Lodge No. 87, IOOF",
+    "categories": ["service-clubs"],
+    "description": "This is the Sheridan, Oregon lodge of the Independent Order of Odd Fellows, a fraternal organization focused on community service and mutual aid among members.",
+    "website": "http://www.oregonioof.org/",
+    "confidence": "medium",
+    "notes": "Website is the statewide Oregon IOOF site, not lodge-specific, but is the org's own affiliated web presence."
+  },
+  {
+    "id": "930881313",
+    "displayName": "Carlton-Yamhill Lions Club",
+    "categories": ["service-clubs"],
+    "description": "The Carlton-Yamhill Lions Club is a local chapter of Lions Clubs International serving Carlton, Oregon through community service and volunteer projects.",
+    "website": null,
+    "confidence": "medium",
+    "notes": "websiteRaw was a page title, not a URL, and no verified URL could be confirmed (web search budget exhausted this session)."
+  },
+  {
+    "id": "237048601",
+    "displayName": "Lions Clubs International District 36-O",
+    "categories": ["service-clubs"],
+    "description": "This is the administrative district office for Lions Clubs International District 36-O, based in McMinnville, Oregon, which coordinates local Lions clubs across the region.",
+    "website": null,
+    "confidence": "medium",
+    "notes": null
+  },
+  {
+    "id": "510470728",
+    "displayName": "Kiwanis Foundation of Newberg",
+    "categories": ["service-clubs", "youth"],
+    "description": "The Kiwanis Foundation of Newberg supports youth development programs and community service projects in Newberg, Oregon.",
+    "website": "https://newbergkiwanis.com/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "931211628",
+    "displayName": "Kiwanis Foundation of West Valley",
+    "categories": ["service-clubs", "education-k12"],
+    "description": "The Kiwanis Foundation of West Valley, based in Willamina, Oregon, funds scholarships and education-related community projects tied to the local Kiwanis club.",
+    "website": null,
+    "confidence": "medium",
+    "notes": null
+  },
+  {
+    "id": "936030770",
+    "displayName": "Kiwanis Club of McMinnville",
+    "categories": ["service-clubs"],
+    "description": "The Kiwanis Club of McMinnville is a civic service organization in McMinnville, Oregon focused on volunteer projects benefiting children and the local community.",
+    "website": "https://mcminnvillekiwanis.org/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "936030771",
+    "displayName": "Kiwanis Club of Newberg",
+    "categories": ["service-clubs"],
+    "description": "The Kiwanis Club of Newberg is a civic service organization in Newberg, Oregon that carries out volunteer projects benefiting children and the local community.",
+    "website": "https://newbergkiwanis.com/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "237352113",
+    "displayName": "Kiwanis Club of West Valley (Willamina)",
+    "categories": ["service-clubs"],
+    "description": "The Kiwanis Club of West Valley is a civic service organization based in Willamina, Oregon that supports local community and youth-related projects.",
+    "website": null,
+    "confidence": "medium",
+    "notes": null
+  },
+  {
+    "id": "237544752",
+    "displayName": "Knights of Columbus Council 1623 (McMinnville)",
+    "categories": ["service-clubs", "faith"],
+    "description": "Council 1623 of the Knights of Columbus is a Catholic fraternal and charitable organization serving McMinnville, Oregon.",
+    "website": "https://uknight.org/CouncilSite/index.asp?CNO=1623",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "931086457",
+    "displayName": "Knights of Columbus Assembly 2277 - Sts. Peter & James",
+    "categories": ["service-clubs", "faith"],
+    "description": "This is a Knights of Columbus assembly affiliated with Sts. Peter & James Catholic Church and school in McMinnville, Oregon, supporting the parish and community through fraternal service.",
+    "website": "https://www.stjamesmac-school.com/get-involved/knights-of-columbus",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "237406322",
+    "displayName": "Knights of Columbus Council 6602 (St. Peter's, Newberg)",
+    "categories": ["service-clubs", "faith"],
+    "description": "Council 6602 of the Knights of Columbus is affiliated with St. Peter's Catholic Church in Newberg, Oregon, and supports the parish and community through fraternal and charitable service.",
+    "website": "https://stpeternewbergor.org/knights-of-columbus",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "930400919",
+    "displayName": "Dianna Lodge No. 63, Knights of Pythias",
+    "categories": ["service-clubs"],
+    "description": "Dianna Lodge No. 63 is a McMinnville, Oregon chapter of the Knights of Pythias, a fraternal organization focused on friendship, charity, and benevolence among members.",
+    "website": "https://oregonpythian.org/lo/lodges.html",
+    "confidence": "medium",
+    "notes": null
+  },
+  {
+    "id": "204874679",
+    "displayName": "McMinnville Lions Club Charity",
+    "categories": ["service-clubs"],
+    "description": "The McMinnville Lions Club Charity is the charitable arm of the McMinnville Lions Club, funding community service and vision-related projects in the McMinnville, Oregon area.",
+    "website": "https://www.maclionsclub.org/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "412051955",
+    "displayName": "McMinnville Kiwanis Foundation",
+    "categories": ["philanthropy", "service-clubs"],
+    "description": "The McMinnville Kiwanis Foundation is the charitable foundation affiliated with the McMinnville Kiwanis Club, raising and granting funds for local community and youth causes.",
+    "website": "https://mcminnvillekiwanis.org/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "300568614",
+    "displayName": "Newberg Chapter No. 55, Order of the Eastern Star",
+    "categories": ["service-clubs"],
+    "description": "This is the Newberg, Oregon chapter of the Order of the Eastern Star, a Masonic-affiliated fraternal organization engaged in charitable and social activities.",
+    "website": "https://newberg104.wordpress.com/eastern-star/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "203306635",
+    "displayName": "Newberg Early Birds Rotary Foundation",
+    "categories": ["service-clubs", "human-services"],
+    "description": "This foundation supports the charitable and human-services grantmaking of the Newberg Early Birds Rotary Club in Newberg, Oregon.",
+    "website": "https://newbergrotaryearlybirds.org/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "936034650",
+    "displayName": "Newberg Masonic Temple Association",
+    "categories": ["service-clubs"],
+    "description": "This association holds and maintains the Masonic temple property used by the Newberg Masonic Lodge and affiliated fraternal groups in Newberg, Oregon.",
+    "website": "https://newberg104.wordpress.com/",
+    "confidence": "medium",
+    "notes": "501(c)(2) title-holding entity for the lodge building rather than a program-running organization."
+  },
+  {
+    "id": "237371454",
+    "displayName": "Newberg Rotary Foundation",
+    "categories": ["service-clubs", "civic"],
+    "description": "The Newberg Rotary Foundation funds community improvement and service projects carried out by the Newberg Rotary Club in Newberg, Oregon.",
+    "website": "https://www.newbergrotary.org/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "931043552",
+    "displayName": "Rotary Club of McMinnville Foundation",
+    "categories": ["service-clubs", "civic"],
+    "description": "This foundation funds community improvement and service projects carried out by the Rotary Club of McMinnville in McMinnville, Oregon.",
+    "website": "https://mcminnvillerotary.net/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "930747935",
+    "displayName": "Newberg Rotary Club",
+    "categories": ["service-clubs"],
+    "description": "The Newberg Rotary Club is a civic service organization in Newberg, Oregon that carries out volunteer and fundraising projects for the local community.",
+    "website": "https://www.newbergrotary.org/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "203974880",
+    "displayName": "McMinnville Sunrise Rotary Club",
+    "categories": ["service-clubs"],
+    "description": "The McMinnville Sunrise Rotary Club is a civic service organization in McMinnville, Oregon that meets in the morning and carries out community service and fundraising projects.",
+    "website": "https://mcminnvillesunriserotary.com/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "936095068",
+    "displayName": "Rotary Club of McMinnville",
+    "categories": ["service-clubs"],
+    "description": "The Rotary Club of McMinnville is a civic service organization carrying out volunteer and fundraising projects for the McMinnville, Oregon community.",
+    "website": "https://mcminnvillerotary.net/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "931235321",
+    "displayName": "Newberg Early Birds Rotary Club",
+    "categories": ["service-clubs"],
+    "description": "The Newberg Early Birds Rotary Club is an early-morning-meeting Rotary chapter in Newberg, Oregon that carries out community service and fundraising projects.",
+    "website": "https://newbergrotaryearlybirds.org/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "936041518",
+    "displayName": "Soroptimist International of McMinnville",
+    "categories": ["service-clubs", "advocacy"],
+    "description": "Soroptimist International of McMinnville is a women's service club in McMinnville, Oregon that funds programs and grants to improve the lives of women and girls.",
+    "website": "https://simcminnville.org/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "271034885",
+    "displayName": "Soroptimist International of Chehalem Valley",
+    "categories": ["service-clubs", "advocacy"],
+    "description": "Soroptimist International of Chehalem Valley is a women's service club based in Newberg, Oregon that funds programs and grants to improve the lives of women and girls.",
+    "website": "https://www.sicv.org/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "931242459",
+    "displayName": "Sunrise Rotary Foundation of McMinnville",
+    "categories": ["service-clubs", "education-k12"],
+    "description": "This foundation supports scholarship and education-related projects on behalf of the McMinnville Sunrise Rotary Club in McMinnville, Oregon.",
+    "website": "https://mcminnvillesunriserotary.com/",
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "id": "470890514",
+    "displayName": "Sage Beaverton Toastmasters Club",
+    "categories": ["education-higher"],
+    "description": "This is a local Toastmasters International club focused on developing members' public speaking and leadership skills through regular practice meetings.",
+    "website": null,
+    "confidence": "low",
+    "notes": "Record lists city as Newberg but the aka name is 'Sage Beaverton Toastmasters' (club #9387) - likely a Beaverton-area club with a Newberg mailing/contact address; source data appears mismatched."
+  }
+]

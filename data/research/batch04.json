@@ -1,0 +1,236 @@
+[
+ {
+  "id": "936009003",
+  "displayName": "First Christian Church",
+  "categories": ["faith"],
+  "description": "A Disciples of Christ congregation in McMinnville offering Sunday worship and community fellowship.",
+  "website": "https://mfccdoc.webs.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930516333",
+  "displayName": "First Christian Church of Sheridan",
+  "categories": ["faith"],
+  "description": "A Christian congregation serving the town of Sheridan, Oregon.",
+  "website": null,
+  "confidence": "low",
+  "notes": "No working website found; located at 121 NE Yamhill St, Sheridan."
+ },
+ {
+  "id": "930628567",
+  "displayName": "Church on the Hill (First Church of the Nazarene of McMinnville)",
+  "categories": ["faith", "youth"],
+  "description": "A Church of the Nazarene congregation in McMinnville known locally as \"Church on the Hill,\" offering worship services and a youth ministry (Highpoint) that reaches teens across Yamhill County.",
+  "website": "https://hillchurch.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "936034532",
+  "displayName": "First Free Methodist Church of Carlton",
+  "categories": ["faith"],
+  "description": "A Free Methodist congregation serving the town of Carlton, Oregon.",
+  "website": null,
+  "confidence": "low",
+  "notes": "No dedicated website found; may no longer be an active congregation."
+ },
+ {
+  "id": "931090740",
+  "displayName": "First Mennonite Church",
+  "categories": ["faith"],
+  "description": "A Mennonite Church USA congregation in McMinnville offering worship, children's and youth ministry, and community service programs.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "930391571",
+  "displayName": "First United Presbyterian Church",
+  "categories": ["faith"],
+  "description": "A Presbyterian congregation in McMinnville offering worship services and community programs.",
+  "website": "https://fpc-mac.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "872316068",
+  "displayName": "Freedom Church Ministries",
+  "categories": ["faith"],
+  "description": "A recently IRS-recognized (2024) Christian ministry based in McMinnville.",
+  "website": null,
+  "confidence": "low",
+  "notes": "No information found beyond the IRS listing; too new for meaningful web presence."
+ },
+ {
+  "id": "237151063",
+  "displayName": "Friends Church Extension Fund",
+  "categories": ["faith", "philanthropy"],
+  "description": "A Newberg-based fund of the Northwest Yearly Meeting of Friends that provides loans and financial support to Quaker (Friends) churches and related organizations to help them build and grow.",
+  "website": "https://nwfriends.org/related-organizations/",
+  "confidence": "high"
+ },
+ {
+  "id": "562503291",
+  "displayName": "Full Gospel Lighthouse Recovery",
+  "categories": ["faith", "mental-health"],
+  "description": "A small Willamina ministry that holds worship services and does outreach to people in need, with a focus on recovery support.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "931022394",
+  "displayName": "Greater Newberg Area Prayer Ministries",
+  "categories": ["faith"],
+  "description": "A Newberg-based interdenominational prayer ministry organized by local church leaders.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Possibly a predecessor of the newer 'Greater Newberg Area Prayer Breakfast Ministries' (EIN 99-2073228) also in this dataset — same theme, city, and no other web presence found."
+ },
+ {
+  "id": "992073228",
+  "displayName": "Greater Newberg Area Prayer Breakfast Ministries",
+  "categories": ["faith", "civic"],
+  "description": "Organizes the annual Newberg Mayor's Prayer Breakfast, bringing together community and faith leaders to pray for the city's families, schools, and government.",
+  "website": "https://newbergprayerbreakfast.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "931129592",
+  "displayName": "Highpoint Ministries Endowment Fund",
+  "categories": ["youth", "faith"],
+  "description": "An endowment fund supporting Highpoint, the youth ministry of Church on the Hill (First Church of the Nazarene of McMinnville) that reaches teenagers across Yamhill County.",
+  "website": "https://hillchurch.com/",
+  "confidence": "medium",
+  "notes": "Website is for the affiliated church (Church on the Hill); no separate site for the endowment fund itself was found."
+ },
+ {
+  "id": "263637460",
+  "displayName": "Homepdx Church",
+  "categories": ["faith"],
+  "description": "A Christian church based in Newberg.",
+  "website": "https://www.homepdx.net/",
+  "confidence": "medium"
+ },
+ {
+  "id": "237056748",
+  "displayName": "Hopewell Community Church",
+  "categories": ["faith"],
+  "description": "An evangelical Christian congregation in Dayton offering Sunday school and worship services.",
+  "website": "https://www.hopewellcc.com/",
+  "confidence": "high",
+  "notes": "websiteRaw was a page title, not a URL; corrected to the real site found via search."
+ },
+ {
+  "id": "203775239",
+  "displayName": "Iglesia Amigos En McMinnville",
+  "categories": ["faith"],
+  "description": "A Spanish-language Quaker (Friends) congregation serving the Latino Christian community in McMinnville.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "931242881",
+  "displayName": "Iglesia Del Nazareno",
+  "categories": ["faith"],
+  "description": "A Spanish-language Church of the Nazarene congregation in McMinnville.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "931301382",
+  "displayName": "Lafayette Community Church",
+  "categories": ["faith"],
+  "description": "A Conservative Baptist congregation serving the town of Lafayette.",
+  "website": "https://lafayettecommunitychurch.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931278626",
+  "displayName": "Living Waters Christian Fellowship",
+  "categories": ["faith"],
+  "description": "A non-denominational Christian church in Newberg offering weekly worship, communion, and community outreach.",
+  "website": "https://www.livingwatersweb.com",
+  "confidence": "medium"
+ },
+ {
+  "id": "454016382",
+  "displayName": "Lumen Christi Inclusive Catholic Community",
+  "categories": ["faith"],
+  "description": "An independent, inclusive Catholic faith community in McMinnville that welcomes worshippers regardless of background.",
+  "website": "https://www.facebook.com/p/Lumen-Christi-Inclusive-Catholic-Community-100067918437066/",
+  "confidence": "medium"
+ },
+ {
+  "id": "201816376",
+  "displayName": "Mark 2 Ministries",
+  "categories": ["disability"],
+  "description": "A Newberg nonprofit that supports adults with developmental disabilities through daily-living assistance, job coaching, and community social and recreational activities.",
+  "website": "http://www.mark2inc.org/",
+  "confidence": "high",
+  "notes": "originalFocus ('Christian church / ministry') is misleading; this is a disability-services organization despite the name, per NTEE code P82 (Human Services) and multiple third-party sources."
+ },
+ {
+  "id": "911128861",
+  "displayName": "McKinley Hill Friends Church",
+  "categories": ["faith"],
+  "description": "A Quaker (Friends) congregation in Newberg, part of the Northwest Yearly Meeting of Friends.",
+  "website": "https://nwfriends.org/",
+  "confidence": "medium",
+  "notes": "Website is the Northwest Yearly Meeting's general site, not a page specific to this congregation."
+ },
+ {
+  "id": "821880289",
+  "displayName": "McMinnville Apostolic Church",
+  "categories": ["faith"],
+  "description": "An Apostolic Christian congregation in McMinnville offering worship services.",
+  "website": "https://www.mcminnvilleapostolicchurch.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931318303",
+  "displayName": "McMinnville Christian Faith Center",
+  "categories": ["faith"],
+  "description": "A Christian congregation in McMinnville offering worship services and ministry programs.",
+  "website": "https://www.maccfc.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "930810714",
+  "displayName": "McMinnville Covenant Church",
+  "categories": ["faith"],
+  "description": "An Evangelical Covenant congregation in McMinnville offering worship and community programs.",
+  "website": "https://www.maccov.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "263762628",
+  "displayName": "McMinnville Cooperative Ministries",
+  "categories": ["faith", "basic-needs"],
+  "description": "A joint ministry of McMinnville United Methodist Church and Trinity Lutheran Church in downtown McMinnville that runs community outreach programs, including a Saturday morning breakfast, for people who need food and support.",
+  "website": "https://www.mac-coop.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "260675329",
+  "displayName": "Iglesia Cristiana Monte de Sion",
+  "categories": ["faith"],
+  "description": "A Spanish-language Christian congregation in Newberg.",
+  "website": "https://www.facebook.com/reydegloriams/",
+  "confidence": "medium"
+ },
+ {
+  "id": "916087697",
+  "displayName": "Miracle Revival Tabernacle of Nachez",
+  "categories": ["faith"],
+  "description": "A Christian congregation based in Newberg.",
+  "website": null,
+  "confidence": "low",
+  "notes": "No information found beyond the IRS legal name."
+ },
+ {
+  "id": "930953022",
+  "displayName": "New Covenant Christian Fellowship",
+  "categories": ["faith"],
+  "description": "A Christian congregation serving the town of Amity.",
+  "website": null,
+  "confidence": "low",
+  "notes": "No information found beyond the IRS legal name."
+ }
+]

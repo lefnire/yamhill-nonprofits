@@ -1,0 +1,232 @@
+[
+ {
+  "id": "931280510",
+  "displayName": "Oregon Public Information Partnership (OPIP)",
+  "categories": ["media"],
+  "description": "Helps Oregon's independent community newspapers, including the McMinnville News-Register, develop revenue streams and accept tax-deductible donations to keep local journalism sustainable.",
+  "website": "https://www.opip.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "994973799",
+  "displayName": "La Leche League of Yamhill County",
+  "categories": ["families", "health"],
+  "description": "A local chapter of La Leche League USA that provides peer support, education, and encouragement to breastfeeding mothers and families in the Yamhill County area.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "872289188",
+  "displayName": "Yamhill Valley Community Doulas",
+  "categories": ["families", "health"],
+  "description": "Provides doula support, birth education, and postpartum care to families in the Yamhill Valley, with a focus on making maternal health support accessible to those with limited resources.",
+  "website": "https://www.yamhillvalleycommunitydoulas.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "334949979",
+  "displayName": "Jelu International Baby Friends and Mom Helped Maternity",
+  "categories": ["families", "human-services"],
+  "description": "A recently recognized Newberg nonprofit organized around maternal and family support; its IRS classification (Human Services) is the main information available since the organization has little public presence.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Very new (ruling year 2025), no working website found. A group called 'Jelu International' (jeluinternational.org) surfaced in search but its content is too sparse to confirm it is the same organization, so no website was assigned."
+ },
+ {
+  "id": "272044727",
+  "displayName": "Mama Baby Haiti",
+  "categories": ["international", "health"],
+  "description": "Provides maternal and infant health care in Haiti, supporting mothers and babies through medical services and health programs, run out of Newberg.",
+  "website": "https://mamababyhaiti.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "900350383",
+  "displayName": "Pi Mu Epsilon – Oregon Epsilon Chapter",
+  "categories": ["education-higher"],
+  "description": "The Oregon Epsilon chapter of Pi Mu Epsilon, a national mathematics honor society, recognizing and encouraging mathematical scholarship among students at Linfield University in McMinnville.",
+  "website": "https://www.pme-math.org/chapters/states/or.html",
+  "confidence": "high"
+ },
+ {
+  "id": "930121001",
+  "displayName": "Beaver Lodge Alumni Association",
+  "categories": ["education-higher"],
+  "description": "Supports Beaver Lodge, a longtime cooperative student housing community for men at Oregon State University in Corvallis, through alumni engagement and association governance.",
+  "website": "https://www.beaverlodgecorvallis.com/new-page-3",
+  "confidence": "medium",
+  "notes": "IRS record lists the city as Newberg, but the organization itself is an alumni group for a student co-op house at OSU in Corvallis — likely just where the officer/contact lives."
+ },
+ {
+  "id": "753106975",
+  "displayName": "Blue Knights Motorcycle Club – Oregon Chapter II",
+  "categories": ["service-clubs", "public-safety"],
+  "description": "A fraternal motorcycle club for active and retired law enforcement officers in the central Willamette Valley, part of the international Blue Knights law enforcement motorcycle club.",
+  "website": "http://bkor2.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "931107860",
+  "displayName": "FCI Sheridan Employees Club",
+  "categories": ["service-clubs", "public-safety"],
+  "description": "A social welfare club for staff of the Federal Correctional Institution in Sheridan, Oregon, organized to support employee morale and welfare.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "474368917",
+  "displayName": "Deep Water Men",
+  "categories": ["faith"],
+  "description": "A Christian men's ministry in Newberg focused on discipleship, fellowship, and personal spiritual growth.",
+  "website": "https://deepwatermen.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "825383688",
+  "displayName": "Don't Give Up Movement",
+  "categories": ["mental-health"],
+  "description": "A Newberg-founded suicide-prevention and encouragement movement, started by Amy Wolff after a spike in local youth suicides, that distributes \"Don't Give Up\" yard signs and related items to spread messages of hope worldwide.",
+  "website": "https://www.dontgiveupsigns.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "271421933",
+  "displayName": "Life Strategies Counseling",
+  "categories": ["mental-health"],
+  "description": "Provides professional counseling and therapy services to individuals and families in the McMinnville area.",
+  "website": "https://www.lifecounselingandtherapy.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "030539408",
+  "displayName": "142nd Fighter Wing Community Foundation",
+  "categories": ["veterans", "human-services"],
+  "description": "Also known as the 142nd Redhawk Foundation, it supports service members and families of the Oregon Air National Guard's 142nd Fighter Wing with community and morale programs.",
+  "website": "https://www.facebook.com/p/142-Redhawk-Foundation-100064903893594/",
+  "confidence": "medium"
+ },
+ {
+  "id": "770695659",
+  "displayName": "Racers Under the Son – Oregon (RUTS Oregon)",
+  "categories": ["faith", "sports"],
+  "description": "A Christian motorsports fellowship serving the McMinnville area that combines auto racing with faith-based ministry and outreach to drivers and racing fans.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "820836935",
+  "displayName": "Outdoor Education Adventures",
+  "categories": ["environment", "youth"],
+  "description": "Provides nature-based outdoor education, summer camps, nature preschool, and school field trip programs for children and families in McMinnville, with scholarships to widen access to outdoor learning.",
+  "website": "https://outdooredadventures.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "995013118",
+  "displayName": "Unity Adventures NW",
+  "categories": ["sports"],
+  "description": "A newly formed Newberg nonprofit offering recreational and outdoor athletic programs intended to build teamwork and personal development among participants.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Very new (ruling year 2025); little public information exists beyond basic registry listings."
+ },
+ {
+  "id": "465090165",
+  "displayName": "Compass Adventure Outfitters",
+  "categories": ["youth", "sports"],
+  "description": "An all-volunteer youth mentoring nonprofit based in McMinnville that pairs adult mentors with youth ages 9–18, especially those from single-parent homes, through outdoor activities like fishing, hunting, and camping.",
+  "website": "https://www.compassadventures.org/",
+  "confidence": "high",
+  "notes": "Source record's website field pointed to a Facebook page; the organization's own site (compassadventures.org) was found and used instead."
+ },
+ {
+  "id": "882106531",
+  "displayName": "More (MORE School of Revival)",
+  "categories": ["faith"],
+  "description": "A Newberg-based Christian ministry that holds worship gatherings and discipleship events, operating as the \"MORE School of Revival\" for young adults pursuing spiritual formation.",
+  "website": "https://www.morepnw.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "813907343",
+  "displayName": "Penguin Productions",
+  "categories": ["arts"],
+  "description": "A community theater company in Newberg that produces live stage performances for local audiences.",
+  "website": "https://www.penguinsonstage.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "992571566",
+  "displayName": "Performing Arts of Dayton",
+  "categories": ["arts"],
+  "description": "Supports performing arts programs and productions for the Dayton, Oregon community.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "822551191",
+  "displayName": "Breaking Boundaries",
+  "categories": ["civic", "philanthropy"],
+  "description": "A Yamhill, Oregon-based community organization that aims to build connections between people and communities worldwide through sport and volunteer engagement.",
+  "website": "https://www.breakingboundariescommunity.com/",
+  "confidence": "low",
+  "notes": "Search results mostly surfaced a founder's personal bio page; specific programs beyond a general sport-and-community-connection mission could not be confirmed."
+ },
+ {
+  "id": "943065359",
+  "displayName": "Vine Medical Pregnancy Health Clinic",
+  "categories": ["families", "health"],
+  "description": "A faith-based pregnancy resource clinic in Lafayette offering free pregnancy testing, ultrasounds, and support services for women facing pregnancy decisions; it does not provide abortions or abortion referrals.",
+  "website": "https://www.vinemedical.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "843445318",
+  "displayName": "Trel Foundation",
+  "categories": ["philanthropy", "youth"],
+  "description": "A Carlton-based family foundation that makes grants supporting youth literacy and music programs, LGBTQIA+ advocacy, general community support in Yamhill and Carlton, and a student athletic shoe fund.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "261360351",
+  "displayName": "Carlton Business Association",
+  "categories": ["professional", "civic"],
+  "description": "A membership association of businesses in Carlton, Oregon that promotes local commerce and supports community economic development.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "Source websiteRaw field was just the organization's name, not a URL, and no working site was located."
+ },
+ {
+  "id": "262122730",
+  "displayName": "Chehalem Mountains Winegrowers",
+  "categories": ["wine", "professional"],
+  "description": "A trade association representing wine grape growers and wineries in the Chehalem Mountains American Viticultural Area near Newberg, promoting and supporting the region's wine industry.",
+  "website": "https://chehalemmountains.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930235323",
+  "displayName": "Chehalem Valley Chamber of Commerce",
+  "categories": ["civic", "professional"],
+  "description": "The chamber of commerce serving businesses in the Chehalem Valley (Newberg-Dundee area), providing networking, advocacy, and community events.",
+  "website": "https://chehalemvalley.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930223400",
+  "displayName": "Greater McMinnville Chamber of Commerce",
+  "categories": ["civic", "professional"],
+  "description": "The chamber of commerce serving McMinnville-area businesses, offering networking, advocacy, and economic development support.",
+  "website": "https://mcminnville.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "721545407",
+  "displayName": "Women's Council of Realtors – Greater Portland Area Chapter",
+  "categories": ["professional"],
+  "description": "A regional chapter of the Women's Council of Realtors providing professional development, networking, and leadership opportunities for women in real estate across the greater Portland area, including Newberg.",
+  "website": "https://www.wcr.org/network/wcr/western-region/oregon/greater-portland-area/",
+  "confidence": "high"
+ }
+]

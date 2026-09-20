@@ -1,0 +1,230 @@
+[
+ {
+  "id": "811069478",
+  "displayName": "Dayton Grade School PTSO",
+  "categories": ["education-k12"],
+  "description": "Parent-teacher-student organization that runs fundraisers like the Read-A-Thon and Pirate Walk to pay for field trips, playground equipment, and classroom enrichment at Dayton Grade School, the K-5 school in Dayton, Oregon.",
+  "website": "https://dgs.daytonk12.org/parents/ptso",
+  "confidence": "high"
+ },
+ {
+  "id": "843380760",
+  "displayName": "Fendall School Community Center",
+  "categories": ["civic", "history"],
+  "description": "Community association in rural Willamina that restores and maintains the historic 1903 Fendall schoolhouse and rents out the hall for community gatherings.",
+  "website": "http://fendallcommunityclub.blogspot.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "264167936",
+  "displayName": "Heartland Cats",
+  "categories": ["animals"],
+  "description": "Cat rescue and adoption organization based in Yamhill, Oregon.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "No website on file and none found in search; described from NTEE code D20 (Animal-Related)."
+ },
+ {
+  "id": "931156152",
+  "displayName": "Juliette's House",
+  "categories": ["youth", "legal"],
+  "description": "Child abuse assessment center in McMinnville that provides medical exams, forensic interviews, and support services for child abuse victims and their families across Yamhill and Polk counties.",
+  "website": "https://www.julietteshouse.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "822237985",
+  "displayName": "Laurel Valley School of Dance",
+  "categories": ["arts", "youth"],
+  "description": "Nonprofit dance school offering ballet, jazz, tap, and lyrical classes to children and adults, serving the Laurel Valley community and surrounding Washington and Yamhill county towns including McMinnville and Newberg.",
+  "website": "https://www.laurelvalleydance.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931059391",
+  "displayName": "McMinnville Adventist Christian School",
+  "categories": ["faith", "education-k12"],
+  "description": "Christian day school affiliated with the Seventh-day Adventist Church, serving students in McMinnville, Oregon.",
+  "website": "https://mac-school.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930842392",
+  "displayName": "McMinnville Montessori School",
+  "categories": ["education-early", "education-k12"],
+  "description": "Montessori school in McMinnville serving children ages 3 to 12 in preschool and multi-age elementary classrooms, with before- and after-school childcare for Yamhill County families.",
+  "website": "https://www.mcminnvillemontessori.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "943030991",
+  "displayName": "MV Charitable Fund",
+  "categories": ["philanthropy", "disability"],
+  "description": "Charitable fund that raises money in support of MV Advancements, the McMinnville-based nonprofit that provides residential, employment, and day support services to adults with intellectual and developmental disabilities in Yamhill, Marion, and Polk counties.",
+  "website": "https://mvadvancements.org/",
+  "confidence": "medium",
+  "notes": "Shares a website/email domain with MV Advancements but appears to be a separate fundraising-fund EIN, not the direct-service organization itself."
+ },
+ {
+  "id": "202108211",
+  "displayName": "OGWA Memorial Fund",
+  "categories": ["education-k12"],
+  "description": "Dayton, Oregon-based memorial fund classified under education/scholarship services (NTEE code B82); no public information on its specific scholarship program or namesake could be found.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "471435237",
+  "displayName": "Northwest High School Rodeo Club",
+  "categories": ["sports", "youth"],
+  "description": "Yamhill-based local chapter affiliated with the Oregon High School Rodeo Association, organizing rodeo practice and competition for area high school students.",
+  "website": "https://www.facebook.com/p/Nwhsrc-100054224061450/",
+  "confidence": "medium"
+ },
+ {
+  "id": "931271804",
+  "displayName": "Wascher Elementary PTA",
+  "categories": ["education-k12"],
+  "description": "Parent-teacher association supporting students, families, and staff at Wascher Elementary School in Lafayette, Oregon.",
+  "website": "https://wascher.msd.k12.or.us/parents/pta/",
+  "confidence": "high"
+ },
+ {
+  "id": "202741951",
+  "displayName": "Memorial Elementary PTA",
+  "categories": ["education-k12"],
+  "description": "Parent-teacher association supporting students and families at Memorial Elementary School in McMinnville, Oregon.",
+  "website": "https://memorial.msd.k12.or.us/parents/pta/",
+  "confidence": "high"
+ },
+ {
+  "id": "203020948",
+  "displayName": "Grandhaven Elementary PTA",
+  "categories": ["education-k12"],
+  "description": "Parent-teacher association supporting students and families at Grandhaven Elementary School in McMinnville, Oregon.",
+  "website": "https://grandhaven.msd.k12.or.us/parents/pta/",
+  "confidence": "high"
+ },
+ {
+  "id": "311658163",
+  "displayName": "Duniway Middle School PTSA",
+  "categories": ["education-k12"],
+  "description": "Parent-teacher-student association supporting students and families at Duniway Middle School in McMinnville, Oregon.",
+  "website": "https://ptsaduniway.wordpress.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "473346869",
+  "displayName": "Comité Hispano PTA de McMinnville",
+  "categories": ["education-k12"],
+  "description": "PTA chapter that supports Spanish-speaking and Latino families of McMinnville School District students.",
+  "website": "https://www.facebook.com/ptahispanomcminnville/",
+  "confidence": "high"
+ },
+ {
+  "id": "711035740",
+  "displayName": "Newby Elementary PTA",
+  "categories": ["education-k12"],
+  "description": "Parent-teacher association supporting students and families at Newby Elementary School in McMinnville, Oregon.",
+  "website": "https://newby.msd.k12.or.us/parents/pta/",
+  "confidence": "high"
+ },
+ {
+  "id": "930843235",
+  "displayName": "Columbus Elementary PTA",
+  "categories": ["education-k12"],
+  "description": "Parent-teacher association supporting students and families at Columbus Elementary School in McMinnville, Oregon.",
+  "website": "https://willamette.msd.k12.or.us/parents/pta/",
+  "confidence": "medium",
+  "notes": "On-file website links to a 'Willamette' school page rather than Columbus; the school may have been renamed or the link may be outdated."
+ },
+ {
+  "id": "931277615",
+  "displayName": "McMinnville High School PTA",
+  "categories": ["education-k12"],
+  "description": "Parent-teacher association supporting students and families at McMinnville High School.",
+  "website": "https://www.facebook.com/p/McMinnville-High-School-PTA-100083384770129/",
+  "confidence": "high"
+ },
+ {
+  "id": "273973499",
+  "displayName": "Sue Buel PTA",
+  "categories": ["education-k12"],
+  "description": "Parent-teacher association supporting students and families at Sue Buel Elementary School in McMinnville, Oregon.",
+  "website": "https://www.facebook.com/SueBuelPTA/",
+  "confidence": "high"
+ },
+ {
+  "id": "931222072",
+  "displayName": "Veritas School",
+  "categories": ["faith", "education-k12"],
+  "description": "Classical Christian school in Newberg serving students from preschool through 12th grade with a curriculum based on the classical education model.",
+  "website": "https://veritasschool.net/",
+  "confidence": "high"
+ },
+ {
+  "id": "562303489",
+  "displayName": "Willamina PTSO",
+  "categories": ["education-k12"],
+  "description": "Parent-teacher-student organization supporting students and families in the Willamina, Oregon school community.",
+  "website": "https://www.facebook.com/profile.php?id=100057516816337#",
+  "confidence": "medium"
+ },
+ {
+  "id": "844196468",
+  "displayName": "Yamhill Carlton Elementary School PTO",
+  "categories": ["education-k12"],
+  "description": "Parent-teacher organization at Yamhill Carlton Elementary School in Carlton, Oregon that runs the school's single annual fundraiser and family events, with all proceeds staying at the school.",
+  "website": "https://el.ycsd.k12.or.us/link-3",
+  "confidence": "high"
+ },
+ {
+  "id": "822959236",
+  "displayName": "Remnant Initiatives",
+  "categories": ["legal", "human-services"],
+  "description": "Reentry support organization based in Newberg that connects people returning to Yamhill County from incarceration with mentors, volunteers, and community resources to help them reintegrate.",
+  "website": "https://www.remnantinitiatives.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "452509923",
+  "displayName": "The Roots Newberg",
+  "categories": ["faith"],
+  "description": "Religious organization based in Newberg, Oregon, classified under religion-related services; specific programs could not be confirmed through public sources.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "930517948",
+  "displayName": "Michelbook Country Club",
+  "categories": ["sports"],
+  "description": "Private golf and country club in McMinnville with an 18-hole course, restaurant, and social facilities for its members.",
+  "website": "https://www.michelbook.com/",
+  "confidence": "high",
+  "notes": "IRS legal name is 'Michelbook Estates Inc'; the club operates publicly as Michelbook Country Club."
+ },
+ {
+  "id": "460844608",
+  "displayName": "West Valley Community Campus",
+  "categories": ["civic", "arts"],
+  "description": "Nonprofit in Willamina that renovates and maintains the historic former Willamina Union High School building, hosting arts classes, music events, fitness and wellness programs, and community gatherings for Willamina, Sheridan, and Grand Ronde.",
+  "website": "https://westvalleycommunitycampus.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "922513545",
+  "displayName": "Mac Community",
+  "categories": ["civic"],
+  "description": "Recently registered (2024) social welfare organization in McMinnville classified under community improvement and capacity building; specific programs could not be confirmed through public sources.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "264119519",
+  "displayName": "Dayton Community Development Association",
+  "categories": ["civic"],
+  "description": "Downtown revitalization organization, part of the Oregon Main Street Program, that works to improve the economic, physical, and cultural environment of downtown Dayton, Oregon and organizes community events like Friday Nights and the Caravan of Lights.",
+  "website": "https://www.daytonoregon.org/dcda-2/",
+  "confidence": "high"
+ }
+]

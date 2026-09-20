@@ -1,0 +1,228 @@
+[
+ {
+  "id": "930568833",
+  "displayName": "MV Advancements",
+  "categories": ["disability", "human-services"],
+  "description": "MV Advancements supports adults with disabilities in Yamhill, Marion, and Polk counties through supported employment, job coaching, group homes, and community living services. It was founded in 1966 as Mid-Valley Workshop and renamed in 2015.",
+  "website": "https://mvadvancements.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "204405443",
+  "displayName": "Sherwood Dog Training Club",
+  "categories": ["animals", "sports"],
+  "description": "A member club offering dog obedience, rally, and agility classes and hosting AKC-sanctioned trials in the Sherwood/Newberg area.",
+  "website": "https://www.sherwooddtc.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930786506",
+  "displayName": "Henderson House",
+  "categories": ["legal", "housing"],
+  "description": "Henderson House (Family Crisis Shelter and Services for Yamhill County) provides emergency shelter, a 24-hour crisis line, and advocacy for survivors of domestic violence and sexual assault in Yamhill County.",
+  "website": "https://www.hendersonhouse.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931048886",
+  "displayName": "Henderson House Foundation",
+  "categories": ["philanthropy", "legal"],
+  "description": "A supporting foundation that raises and manages funds on behalf of Henderson House, the McMinnville-based domestic violence shelter and services agency.",
+  "website": "https://www.hendersonhousefoundation.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930845978",
+  "displayName": "Care for Kids",
+  "categories": ["education-early"],
+  "description": "Care for Kids provides licensed childcare and early education for young children in McMinnville.",
+  "website": "https://careforkidschildcare.wordpress.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "474551068",
+  "displayName": "Grace Place Learning Center",
+  "categories": ["education-early"],
+  "description": "Grace Place Learning Center is a preschool and early childhood learning center serving families in McMinnville.",
+  "website": "https://www.graceplacemac.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930928640",
+  "displayName": "Head Start of Yamhill County",
+  "categories": ["education-early", "human-services"],
+  "description": "Head Start of Yamhill County provides free preschool education, health screenings, and family support services to low-income children and their families across the county.",
+  "website": "https://yamhillheadstart.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931114219",
+  "displayName": "McMinnville Playschool",
+  "categories": ["education-early"],
+  "description": "McMinnville Playschool is a nonprofit, parent-cooperative preschool founded in 1993 that meets at a local church building but offers a secular, play-based early learning program.",
+  "website": "https://www.mcminnvilleplayschool.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "872056747",
+  "displayName": "Wildflower Preschool and Learning Center",
+  "categories": ["education-early"],
+  "description": "Wildflower Preschool and Learning Center provides preschool and early childhood education in Amity.",
+  "website": "https://wildflowerspreschool.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "463366970",
+  "displayName": "Red Bucket Preschool",
+  "categories": ["education-early", "faith"],
+  "description": "Red Bucket Preschool (formerly Zion Preschool) is a church-affiliated preschool in Newberg offering early childhood education.",
+  "website": "https://redbucketpreschool.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "823460861",
+  "displayName": "McMinnville Economic Development Partnership",
+  "categories": ["civic"],
+  "description": "A business league that works to attract, retain, and support businesses and jobs in the McMinnville area through economic development programs.",
+  "website": "https://www.mcminnvillebusiness.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "931308915",
+  "displayName": "ABC Foundation - Dayton Education Foundation",
+  "categories": ["education-k12"],
+  "description": "The ABC (A Better Community) Foundation raises money for the Dayton School District to fund teacher grants and scholarships for graduating Dayton High School seniors.",
+  "website": "https://www.daytonk12.org/abc-foundation",
+  "confidence": "high"
+ },
+ {
+  "id": "931250106",
+  "displayName": "Amity School District Foundation",
+  "categories": ["education-k12"],
+  "description": "A school foundation that supports students and programs in the Amity School District, though its specific programs are not documented online.",
+  "website": null,
+  "confidence": "low",
+  "notes": "websiteRaw was the school district's generic homepage title, not the foundation's own site; no dedicated foundation website was found in search."
+ },
+ {
+  "id": "832018988",
+  "displayName": "Amity Senior Parents",
+  "categories": ["education-k12", "youth"],
+  "description": "A parent volunteer group at Amity High School that appears to organize activities and celebrations, such as grad night, for graduating seniors, based on its NTEE youth-development classification.",
+  "website": null,
+  "confidence": "low",
+  "notes": "No dedicated website or program details found; description is inferred from the org's name and NTEE code."
+ },
+ {
+  "id": "830933281",
+  "displayName": "Arbores Classical Community",
+  "categories": ["education-k12"],
+  "description": "Arbores Classical Community is a homeschool co-op in Newberg using classical and Charlotte Mason methods, meeting weekly for group classes serving students from preschool through high school.",
+  "website": "https://www.arboresclassicalcommunity.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "721621203",
+  "displayName": "C.S. Lewis Academy",
+  "categories": ["education-k12", "faith"],
+  "description": "C.S. Lewis Academy is a private Christian K-12 school in Newberg.",
+  "website": "https://www.cslewisacademy.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "463008234",
+  "displayName": "Country Faith Christian Academy",
+  "categories": ["education-k12", "faith"],
+  "description": "Country Faith Christian Academy is a small private Christian school in Newberg.",
+  "website": "https://www.facebook.com/iluvcfca/",
+  "confidence": "low"
+ },
+ {
+  "id": "930630376",
+  "displayName": "Delphian School",
+  "categories": ["education-k12"],
+  "description": "Delphian School (operated by Delphi Schools) is a private K-12 day and boarding school on a large campus near Sheridan, serving mostly students in grades 8-12, including many international boarding students.",
+  "website": "https://www.delphian.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "853310545",
+  "displayName": "Educational Therapy Foundation",
+  "categories": ["education-k12", "disability"],
+  "description": "The Educational Therapy Foundation, based in Newberg, connects students with educational therapists and helps fund evaluations and therapy for children with learning differences, and supports training and certification of educational therapists in Oregon.",
+  "website": "https://educationaltherapyfoundation.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930386839",
+  "displayName": "George Fox University",
+  "categories": ["education-higher", "faith"],
+  "description": "George Fox University is a private Christian university in Newberg offering undergraduate, graduate, and doctoral programs.",
+  "website": "https://www.georgefox.edu/",
+  "confidence": "high"
+ },
+ {
+  "id": "930391586",
+  "displayName": "Linfield University",
+  "categories": ["education-higher"],
+  "description": "Linfield University is a private liberal arts university based in McMinnville.",
+  "website": "https://www.linfield.edu/",
+  "confidence": "high"
+ },
+ {
+  "id": "932210682",
+  "displayName": "Mac Hoops Sports Academy",
+  "categories": ["sports", "youth"],
+  "description": "Mac Hoops Sports Academy is a McMinnville-based organization offering basketball training and athletic programs, based on its recreation and sports NTEE classification.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "471364469",
+  "displayName": "McMinnville Christian Academy",
+  "categories": ["education-k12", "faith"],
+  "description": "McMinnville Christian Academy is a private Christian K-12 school in McMinnville.",
+  "website": "https://www.mcminnvillechristianacademy.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931242941",
+  "displayName": "Mac 40 Kids (McMinnville School District 40 Education Foundation)",
+  "categories": ["education-k12"],
+  "description": "Mac 40 Kids raises funds and community support for programs, grants, and needs in the McMinnville School District that go beyond the regular school budget.",
+  "website": "https://mac40kids.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "922549801",
+  "displayName": "Medical Training Academy",
+  "categories": ["education-higher", "health"],
+  "description": "Medical Training Academy, based in Newberg, provides vocational training and certification courses for entry-level healthcare careers.",
+  "website": "https://medicaltrainingacademy.us/",
+  "confidence": "medium"
+ },
+ {
+  "id": "936031393",
+  "displayName": "Oregon Academy of Science",
+  "categories": ["stem", "education-k12"],
+  "description": "The Oregon Academy of Science promotes science education and research among Oregon students and educators, including coordinating student science fairs; it is administratively based at Linfield University in McMinnville.",
+  "website": "https://oregonacademyofscience.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "931178270",
+  "displayName": "Psi Chi - George Fox University Chapter",
+  "categories": ["education-higher"],
+  "description": "A chapter of Psi Chi, the international honor society in psychology, for students at George Fox University in Newberg.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "270723181",
+  "displayName": "Sheridan AllPrep Academy",
+  "categories": ["education-k12"],
+  "description": "Sheridan AllPrep Academy is a public charter school in Sheridan serving K-12 students.",
+  "website": "https://sheridanallprep.org/",
+  "confidence": "high"
+ }
+]

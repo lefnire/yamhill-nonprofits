@@ -1,0 +1,233 @@
+[
+ {
+  "id": "930555036",
+  "displayName": "St Barnabas Episcopal Church",
+  "categories": ["faith"],
+  "description": "An Episcopal parish in McMinnville affiliated with the Episcopal Diocese of Oregon, offering worship services and church community life.",
+  "website": "https://stbmac.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931255384",
+  "displayName": "Stedfast Church of God",
+  "categories": ["faith"],
+  "description": "A Church of God congregation in McMinnville providing Christian worship services for the local community.",
+  "website": "https://mcminnvillechurchofgod.churchtrac.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "311227534",
+  "displayName": "Sunrise Christian Reformed Church",
+  "categories": ["faith"],
+  "description": "A Christian Reformed congregation in McMinnville offering worship services and church programs for its members.",
+  "website": "https://sunrisechurch.us/",
+  "confidence": "high",
+  "notes": "IRS name 'Sunrise Crc' is shorthand for Christian Reformed Church, confirmed by the church's own site."
+ },
+ {
+  "id": "454183288",
+  "displayName": "Tilikum Center for Retreats and Outdoor Ministries",
+  "categories": ["faith", "youth"],
+  "description": "A Newberg-based Christian camp and retreat center that hosts outdoor ministry programs, retreats, and camps for churches, schools, and youth groups.",
+  "website": "https://camptilikum.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930717773",
+  "displayName": "Our Lady of Guadalupe Trappist Abbey",
+  "categories": ["faith"],
+  "description": "A Roman Catholic Trappist (Cistercian) monastery near Carlton where monks live a life of prayer and work, supporting themselves through activities such as fruitcake baking and forestry.",
+  "website": "https://www.trappistabbey.org/",
+  "confidence": "high",
+  "notes": "websiteRaw was a page title, not a URL; found the abbey's actual site via search."
+ },
+ {
+  "id": "930579198",
+  "displayName": "Trinity Lutheran Church",
+  "categories": ["faith"],
+  "description": "A Lutheran congregation in Sheridan offering worship services and church community programs.",
+  "website": "https://www.sheridantlc.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "936034561",
+  "displayName": "Trinity Lutheran Church of Sheridan",
+  "categories": ["faith"],
+  "description": "A Lutheran congregation in Sheridan offering worship services and church community programs.",
+  "website": "https://www.sheridantlc.org/",
+  "confidence": "high",
+  "notes": "Appears to be a duplicate IRS record (different EIN, same name/city/website) for record 930579198."
+ },
+ {
+  "id": "942807169",
+  "displayName": "United Evangelical Churches Holy Spirit Ministries",
+  "categories": ["faith"],
+  "description": "A small independent Christian ministry based in Dayton with no public website found; little is known beyond its religious classification.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "930510068",
+  "displayName": "McMinnville United Methodist Church",
+  "categories": ["faith"],
+  "description": "A United Methodist congregation in McMinnville that shares staff, building, and worship with Trinity Lutheran Church as McMinnville Cooperative Ministries.",
+  "website": "https://www.mac-coop.org/",
+  "confidence": "high",
+  "notes": "The 'mac-coop.org' site is a joint ministry site shared with Trinity Lutheran Church of McMinnville."
+ },
+ {
+  "id": "930847073",
+  "displayName": "Valley Baptist Church of McMinnville",
+  "categories": ["faith"],
+  "description": "A Baptist congregation in McMinnville offering worship services and church programs.",
+  "website": "http://macvalleybaptist.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "821879326",
+  "displayName": "Wayside Friends Church",
+  "categories": ["faith"],
+  "description": "A Quaker (Friends) congregation in Newberg offering worship services and church community programs.",
+  "website": "https://waysidefriends.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "936100102",
+  "displayName": "West Chehalem Friends Church",
+  "categories": ["faith"],
+  "description": "A Quaker (Friends) monthly meeting congregation near Newberg offering worship services and church community programs.",
+  "website": "https://westchehalemfriends.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930505837",
+  "displayName": "Willamina Christian Church",
+  "categories": ["faith"],
+  "description": "A Christian congregation in Willamina offering worship services and church community programs.",
+  "website": "https://www.willaminachristianchurch.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "930858687",
+  "displayName": "Willamina Free Methodist Church",
+  "categories": ["faith"],
+  "description": "A Free Methodist congregation in Willamina offering worship services and church community programs.",
+  "website": "https://www.facebook.com/WillaminaFMC/",
+  "confidence": "high"
+ },
+ {
+  "id": "200758858",
+  "displayName": "Yamhill County Gospel Rescue Mission",
+  "categories": ["basic-needs", "housing", "faith"],
+  "description": "A faith-based rescue mission in McMinnville that provides shelter, meals, and other basic-needs support to people experiencing homelessness in Yamhill County.",
+  "website": "https://ycgrm.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930915559",
+  "displayName": "Zion Lutheran Church",
+  "categories": ["faith"],
+  "description": "A Lutheran congregation in Newberg offering worship services and church community programs.",
+  "website": "https://www.newbergzion.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930939022",
+  "displayName": "New Creation Celebration",
+  "categories": ["faith", "civic"],
+  "description": "A McMinnville-based organization associated with a Christian community celebration/festival; classified in IRS records under civic multi-arts fairs and festivals.",
+  "website": null,
+  "confidence": "low",
+  "notes": "No working website found; description is based on IRS/NTEE classification (civic fairs and festivals) plus original 'Christian community event' focus."
+ },
+ {
+  "id": "271981769",
+  "displayName": "Impact Biblical Counseling",
+  "categories": ["mental-health", "faith"],
+  "description": "A Newberg-based Christian counseling practice that provides biblically based counseling services to individuals and families.",
+  "website": "https://impactbiblicalcounseling.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "480599882",
+  "displayName": "Christian Education Commission of Evangelical Friends Alliance",
+  "categories": ["faith", "education-higher"],
+  "description": "A Newberg-based commission that develops and supports Christian education and Sunday school programming for the Evangelical Friends Alliance (Quaker) churches.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "452563709",
+  "displayName": "Men in the Arena",
+  "categories": ["faith"],
+  "description": "A McMinnville-based Christian men's ministry (operating as 'Men in the Arena') that runs faith-based programs and events for men.",
+  "website": "https://meninthearena.org/",
+  "confidence": "high",
+  "notes": "IRS legal name is 'Great Hunt for God INC'; the org operates publicly as 'Men in the Arena.'"
+ },
+ {
+  "id": "680564705",
+  "displayName": "Godsong Community Church",
+  "categories": ["faith"],
+  "description": "A nondenominational Christian church in Newberg offering worship services, children's ministry, and community outreach.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "No official website found in search; operates as 'Godsong Community Church' at 1025 Industrial Pkwy, Newberg."
+ },
+ {
+  "id": "742327309",
+  "displayName": "International House of Philoxenia",
+  "categories": ["faith", "international"],
+  "description": "A Dundee-based Christian ministry that grew out of International Students, Inc. and does missionary outreach and hospitality to international students.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "936022837",
+  "displayName": "Okinawa Christian Mission",
+  "categories": ["faith", "international"],
+  "description": "A Newberg-based Christian mission organization, affiliated with First Christian Church, that has supported gospel outreach in Okinawa, Japan since the early 1960s.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "843864856",
+  "displayName": "Unstoppable Prayer Movement",
+  "categories": ["faith"],
+  "description": "A Newberg-based Christian prayer ministry with no public website found; little is known beyond its religious classification.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "030408441",
+  "displayName": "Barclay Press",
+  "categories": ["faith", "media"],
+  "description": "A Newberg-based Christian (Quaker) publisher that produces books, curriculum, and a newsletter for the Friends church community.",
+  "website": "https://www.barclaypress.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "920876740",
+  "displayName": "International Christian Community for Teacher Education (ICCTE)",
+  "categories": ["education-higher", "faith"],
+  "description": "A Newberg-based academic association of Christian teacher educators that publishes a scholarly journal and holds a biennial conference on faith and teacher preparation.",
+  "website": "https://www.iccte.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "936041507",
+  "displayName": "Pi Kappa Alpha Fraternity - Delta Rho Chapter",
+  "categories": ["education-higher"],
+  "description": "The Delta Rho chapter of Pi Kappa Alpha fraternity at Linfield University in McMinnville, providing a social and residential fraternity organization for students.",
+  "website": "https://www.linfieldpikes.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "946077619",
+  "displayName": "Charis Fund",
+  "categories": ["philanthropy", "basic-needs"],
+  "description": "A Newberg-based family charitable trust that makes grants to nonprofits in Oregon, California, Washington, and Nevada focused on hunger, housing, homelessness, at-risk youth, health, and education.",
+  "website": "https://www.charisfund.org/",
+  "confidence": "high"
+ }
+]

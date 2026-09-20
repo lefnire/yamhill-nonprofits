@@ -1,0 +1,230 @@
+[
+ {
+  "id": "850889349",
+  "displayName": "Operation Generation",
+  "categories": ["housing", "families"],
+  "description": "Operation Generation is a McMinnville nonprofit classified under housing and shelter with a focus on family support; its listed website could not be reached to confirm current programs.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Listed website (operationgeneration.org) did not resolve during research; may be inactive or expired."
+ },
+ {
+  "id": "332468354",
+  "displayName": "Penelope's Promise Foundation",
+  "categories": ["animals"],
+  "description": "Penelope's Promise Foundation funds scholarships for veterinary students pursuing rural practice, supports canine cancer research, and helps fund dog rescue and veterinary care.",
+  "website": "https://penelopespromise.org/",
+  "confidence": "medium",
+  "notes": "The foundation's website emphasizes a Kansas origin story; its specific McMinnville/Yamhill County activity could not be independently confirmed beyond the IRS registration address."
+ },
+ {
+  "id": "930764541",
+  "displayName": "Chehalem Youth & Family Services",
+  "categories": ["mental-health", "families"],
+  "description": "Chehalem Youth & Family Services is a Newberg nonprofit that supports children, youth, and families through programs including the Yoop! young-adult support program and supervised parenting services in Yamhill County.",
+  "website": "https://cyfs.net/",
+  "confidence": "high"
+ },
+ {
+  "id": "930870224",
+  "displayName": "Friends of Chehalem House",
+  "categories": ["human-services"],
+  "description": "Friends of Chehalem House is a Newberg-based human services nonprofit; specific programs beyond its IRS human-services classification were not found in public sources.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "930672056",
+  "displayName": "Camp Smith Corporation",
+  "categories": ["youth"],
+  "description": "Camp Smith Corporation is a McMinnville-based nonprofit classified under youth development; details of its camp programs were not found in public sources.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "934202428",
+  "displayName": "Children of Firm Foundation",
+  "categories": ["youth"],
+  "description": "Children of Firm Foundation is a Sheridan nonprofit classified under youth development; its specific programs are not documented in public sources.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "993354046",
+  "displayName": "For US by US (FUBU) Kinship Coalition",
+  "categories": ["youth", "families"],
+  "description": "For US by US Kinship Coalition is a Newberg program affiliated with HOLLA Mentors, a nonprofit that builds culturally responsive mentoring relationships for youth of color; the coalition supports kinship caregivers raising relatives' children.",
+  "website": "https://www.hollamentors.org/fubu",
+  "confidence": "medium"
+ },
+ {
+  "id": "823779978",
+  "displayName": "Keikis",
+  "categories": ["youth", "education-k12"],
+  "description": "Keikis is a McMinnville nonprofit that funds and organizes field trips and enriching educational programs for children, supported by teachers, donors, and community members.",
+  "website": "https://keikisnonprofit.wixsite.com/forkids",
+  "confidence": "high"
+ },
+ {
+  "id": "931031070",
+  "displayName": "Kids on the Block",
+  "categories": ["youth", "disability"],
+  "description": "Kids on the Block appears to be a local chapter of a puppet-based educational program that teaches children about disability awareness, bullying, and diversity through school presentations.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "Name matches a well-known national children's puppet-education program; this specific small McMinnville organization (about $19,600 revenue) was not independently verified beyond the name match."
+ },
+ {
+  "id": "237237233",
+  "displayName": "Northwest Youth Rodeo Association",
+  "categories": ["sports", "youth"],
+  "description": "The Northwest Youth Rodeo Association is a volunteer-run nonprofit, active since 1974, that gives young cowboys and cowgirls throughout the Pacific Northwest the chance to compete in rodeo events.",
+  "website": "https://www.nwyra.net/",
+  "confidence": "high"
+ },
+ {
+  "id": "273102701",
+  "displayName": "Plan for the Children Humanitarian Aid",
+  "categories": ["youth", "international"],
+  "description": "Plan for the Children Humanitarian Aid is a McMinnville nonprofit classified under youth development that provides humanitarian aid for children; specific program details are not documented beyond its Facebook presence.",
+  "website": "https://www.facebook.com/PlanfortheChildrenHumanitarianAid/",
+  "confidence": "low"
+ },
+ {
+  "id": "933710722",
+  "displayName": "Teen Travel Experience",
+  "categories": ["youth"],
+  "description": "Teen Travel Experience is a McMinnville nonprofit classified under youth development; its website did not provide further detail on specific programs beyond its name.",
+  "website": "https://teentravelexperience.org/",
+  "confidence": "low"
+ },
+ {
+  "id": "930818479",
+  "displayName": "Tina Miller Teen Club (Tina Miller Center)",
+  "categories": ["disability", "youth"],
+  "description": "Tina Miller Teen Club, also known as the Tina Miller Center, is a Willamina-based nonprofit; its contact email suggests a focus on youth with special needs, though specific programs are not documented publicly.",
+  "website": "https://www.facebook.com/tinamillercenter/",
+  "confidence": "low"
+ },
+ {
+  "id": "830475973",
+  "displayName": "Prospect Future",
+  "categories": ["youth", "stem"],
+  "description": "Prospect Future is a Newberg nonprofit that advances education and mentoring opportunities for young people, with a current emphasis on STEM education.",
+  "website": "https://prospectfuture.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "260428368",
+  "displayName": "LifeQuest Northwest",
+  "categories": ["mental-health"],
+  "description": "LifeQuest Northwest provides affordable, faith-based counseling, coaching, and speaking services, primarily for people with disabilities or limited incomes, addressing issues such as anxiety, depression, addiction, and trauma.",
+  "website": "https://www.lifequestnw.org/",
+  "confidence": "high",
+  "notes": "originalFocus in source data ('youth development / outdoor programs') does not match the counseling/coaching mission described on the organization's own website."
+ },
+ {
+  "id": "992758872",
+  "displayName": "Yamhill County Sheriff's Office Cadet Unit",
+  "categories": ["public-safety", "youth"],
+  "description": "The Yamhill County Sheriff's Office Cadet Unit is a youth program that introduces young people in McMinnville to law enforcement careers through training and mentorship alongside sheriff's deputies.",
+  "website": "https://www.facebook.com/YamhillCountyCadets/",
+  "confidence": "high"
+ },
+ {
+  "id": "452405135",
+  "displayName": "Amity Track Club",
+  "categories": ["sports", "youth"],
+  "description": "Amity Track Club organizes youth track and field activities for young athletes in the Amity, Oregon area.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "611863629",
+  "displayName": "Amity Youth Sports",
+  "categories": ["sports", "youth"],
+  "description": "Formerly Amity Volleyball Club, this organization merged with Amity Basketball, Peewee Football, and Amity softball/baseball into a single nonprofit, now known as Amity Youth Sports, serving youth athletes in Amity.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "205055132",
+  "displayName": "Eola Hills Charter School",
+  "categories": ["education-k12"],
+  "description": "Eola Hills Charter School is a public charter school serving students in Amity, Oregon.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "863052711",
+  "displayName": "Share Inc of Yamhill County",
+  "categories": ["human-services"],
+  "description": "Share Inc of Yamhill County is a Carlton-based nonprofit; its specific services are not documented in available public records.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "936034950",
+  "displayName": "Winona Cemetery Association",
+  "categories": ["cemeteries"],
+  "description": "Winona Cemetery Association maintains a cemetery serving the Carlton, Oregon community.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "263794976",
+  "displayName": "Dayton Education Association",
+  "categories": ["labor"],
+  "description": "The Dayton Education Association is a labor organization representing teachers and school employees in the Dayton, Oregon school district.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "813681516",
+  "displayName": "Christopher's Gift",
+  "categories": ["mental-health"],
+  "description": "Christopher's Gift is a Dayton-based nonprofit classified under mental health and crisis intervention; its specific programs are not documented in public sources.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "460511105",
+  "displayName": "J & W Charitable Trust",
+  "categories": ["philanthropy"],
+  "description": "J & W Charitable Trust is a private charitable trust based in Dundee, Oregon that makes grants to other charitable causes.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "133056110",
+  "displayName": "Mayflower Group",
+  "categories": ["professional", "civic"],
+  "description": "The Mayflower Group is a McMinnville-based business league classified under community improvement and capacity building; its specific activities are not documented in public sources.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "204621060",
+  "displayName": "McMinnville United States Bowling Congress",
+  "categories": ["sports"],
+  "description": "This is the McMinnville-area local association of the United States Bowling Congress, which sanctions and organizes recreational bowling leagues and tournaments.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "311028351",
+  "displayName": "American Legion Auxiliary, McMinnville",
+  "categories": ["veterans", "service-clubs"],
+  "description": "The American Legion Auxiliary is a McMinnville-based veterans' family service organization that supports veterans, military families, and community service programs.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "460891476",
+  "displayName": "Living Word",
+  "categories": ["faith"],
+  "description": "Living Word is a McMinnville-based religious congregation, according to its IRS classification; further program details are not documented in public sources.",
+  "website": null,
+  "confidence": "low"
+ }
+]

@@ -1,0 +1,230 @@
+[
+ {
+  "id": "061359199",
+  "displayName": "Infusion Nurses Society – Lower Columbia Chapter",
+  "categories": ["professional", "health"],
+  "description": "A regional chapter of the national Infusion Nurses Society, providing continuing education and professional networking for nurses who specialize in IV and infusion therapy in the Newberg/lower Columbia area.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "936033119",
+  "displayName": "Oregon FSA (National Association of FSA County Office Employees)",
+  "categories": ["professional", "agriculture"],
+  "description": "The Oregon chapter of the National Association of FSA County Office Employees, an association representing and supporting county-level staff of the USDA Farm Service Agency who administer farm programs.",
+  "website": "https://www.fsa.usda.gov/state-offices/oregon",
+  "confidence": "medium",
+  "notes": "Listed website is the USDA Farm Service Agency's official Oregon state office page, not a dedicated association site; kept since it is the only web presence given."
+ },
+ {
+  "id": "931256956",
+  "displayName": "National Association of Hispanic Nurses – Portland Oregon Chapter",
+  "categories": ["professional", "health"],
+  "description": "The Portland, Oregon chapter of the National Association of Hispanic Nurses, supporting Hispanic nurses and nursing students through mentorship, education, and professional networking.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "273451788",
+  "displayName": "NATS Cascade Chapter",
+  "categories": ["professional", "arts"],
+  "description": "The Cascade Chapter of the National Association of Teachers of Singing, serving voice teachers and choral conductors in the Pacific Northwest through student auditions, master classes, and workshops on vocal education.",
+  "website": "https://www.natscascade.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "454129117",
+  "displayName": "Northwest Oregon Dairy Goat Association",
+  "categories": ["agriculture", "animals"],
+  "description": "A breed and hobbyist association based in Yamhill for dairy goat owners in northwest Oregon, promoting dairy goat husbandry through shows and educational activities.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "943158472",
+  "displayName": "Oregon Bed and Breakfast Guild",
+  "categories": ["professional", "civic"],
+  "description": "A statewide trade association (now operating as the Oregon Association of Independent Inns) for independent bed-and-breakfasts and small inns, setting inspection standards for members and promoting Oregon lodging to travelers and tourism agencies since 1989.",
+  "website": "https://www.obbg.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930967163",
+  "displayName": "Oregon Welsh Pony Society",
+  "categories": ["animals"],
+  "description": "A breed club for Welsh pony owners and breeders in Oregon, based in Carlton, that organizes shows and promotes the breed among members.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "237382209",
+  "displayName": "Portland Triumph Owners Association",
+  "categories": ["sports"],
+  "description": "A social club for owners of Triumph automobiles in the Portland area, based in Newberg, that organizes car meets and gatherings for enthusiasts.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "237065108",
+  "displayName": "Society of American Foresters – Oregon (Dayton)",
+  "categories": ["professional", "environment"],
+  "description": "A local chapter of the Society of American Foresters based in Dayton, connecting forestry professionals in Oregon through education and professional development related to forest management and conservation.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "936025727",
+  "displayName": "Society of American Military Engineers – Portland Post",
+  "categories": ["professional", "veterans"],
+  "description": "The Portland Post of the Society of American Military Engineers, a professional association connecting military, government, and civilian engineers for education, networking, and support of engineering readiness.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "203869186",
+  "displayName": "Dundee Hills Winegrowers Association",
+  "categories": ["wine", "professional"],
+  "description": "A trade association of wineries and vineyards in the Dundee Hills AVA that promotes the sub-appellation's wines and represents growers' shared interests in viticulture and marketing.",
+  "website": "https://dundeehills.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931709470",
+  "displayName": "Western Milk Seminar",
+  "categories": ["agriculture", "professional"],
+  "description": "An educational seminar organization, based in McMinnville, focused on training and continuing education for dairy and milk industry professionals in the western United States.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Very recent IRS ruling (2025) and no independent web presence found; description is grounded only in the name and NTEE education code."
+ },
+ {
+  "id": "930943532",
+  "displayName": "Yamhill County Association of Realtors",
+  "categories": ["professional"],
+  "description": "A business league for licensed real estate agents in Yamhill County, McMinnville, that provides member services, continuing education, and a REALTOR directory connecting the public to local agents.",
+  "website": "https://yamhillcountyrealtors.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "474972100",
+  "displayName": "Yamhill County Association of Realtors Charitable Foundation",
+  "categories": ["philanthropy", "housing"],
+  "description": "The charitable foundation affiliated with the Yamhill County Association of Realtors, which raises and grants funds for local community and housing-related causes.",
+  "website": "https://yamhillcountyrealtors.com/",
+  "confidence": "low",
+  "notes": "No dedicated foundation page or grant details were found; the parent association's website does not describe the foundation's specific giving programs."
+ },
+ {
+  "id": "471797741",
+  "displayName": "Yamhill County Bar Association",
+  "categories": ["professional"],
+  "description": "A professional membership organization for attorneys, judges, and law students in Yamhill County, McMinnville, offering continuing legal education, networking, and community service programs.",
+  "website": "https://yamhillcobar.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "812001552",
+  "displayName": "Yamhill County Human Resource Association",
+  "categories": ["professional"],
+  "description": "A local SHRM-affiliated chapter in McMinnville for human resources professionals, providing education, networking, and professional development in HR practice.",
+  "website": "https://ychra.shrm.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "050627807",
+  "displayName": "Yamhill County Livestock Association",
+  "categories": ["agriculture"],
+  "description": "An association in Carlton that organizes a county livestock auction, supporting local livestock producers and youth agricultural sale programs.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "823406334",
+  "displayName": "Yamhill Utility Coordinating Council",
+  "categories": ["utilities", "professional"],
+  "description": "A Newberg-based local council of the Oregon Utility Coordinating Council, where utility companies and contractors coordinate excavation and construction projects to prevent conflicts and damage to buried utility lines.",
+  "website": "http://www.oucc.net/ucc_yamhill.asp",
+  "confidence": "medium",
+  "notes": "The listed site returned a server error at the time of research; it may be temporarily down."
+ },
+ {
+  "id": "205309445",
+  "displayName": "Yamhill-Carlton Winegrowers Association",
+  "categories": ["wine", "professional"],
+  "description": "A trade association of wineries and vineyards in the Yamhill-Carlton AVA that promotes the appellation and represents shared grower and winemaking interests.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "273291438",
+  "displayName": "Amity Parents and Teachers Together (APATT)",
+  "categories": ["education-k12"],
+  "description": "A parent-teacher organization supporting students and staff of the Amity School District in Amity through volunteer efforts and fundraising for school programs.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "936039243",
+  "displayName": "Crater PTO",
+  "categories": ["education-k12"],
+  "description": "The parent-teacher organization for Antonia Crater Elementary School in Newberg, which funds enrichment programs like field trips, STEM and art supplies, and organizes community events such as an annual Fun Run and auction.",
+  "website": "https://www.craterpto.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "936007980",
+  "displayName": "Yamhill County Sheriffs Mounted Posse",
+  "categories": ["public-safety"],
+  "description": "A volunteer, horse-mounted unit that assists the Yamhill County Sheriff's Office in McMinnville with search operations, patrols, and public events.",
+  "website": "https://www.facebook.com/YCSMP/",
+  "confidence": "medium"
+ },
+ {
+  "id": "510641220",
+  "displayName": "Newberg-Dundee Public Safety Association",
+  "categories": ["labor", "public-safety"],
+  "description": "An employee association representing public safety personnel (police and/or fire) who serve the Newberg-Dundee area.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "930943184",
+  "displayName": "Newberg Unprogrammed Meeting of Friends",
+  "categories": ["faith"],
+  "description": "A Quaker (Religious Society of Friends) worship meeting in Newberg that follows the unprogrammed, silent-worship tradition rather than a pastor-led service.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "364810121",
+  "displayName": "Serenity House",
+  "categories": ["mental-health", "housing"],
+  "description": "A McMinnville organization providing residential recovery support for people recovering from substance use and behavioral health challenges.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "455413286",
+  "displayName": "Yamhill County Treatment Courts Foundation",
+  "categories": ["mental-health", "legal"],
+  "description": "A McMinnville-based foundation that supports Yamhill County's treatment court programs, which offer supervised addiction and behavioral health treatment as an alternative to incarceration.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "453155924",
+  "displayName": "Provoking Hope Recovery Support Services",
+  "categories": ["mental-health", "human-services"],
+  "description": "A McMinnville-based provider of addiction and recovery wrap-around services across the greater Willamette Valley, offering peer mentors, support groups, and recovery-mentor employment training in a non-judgmental, substance-free environment.",
+  "website": "https://provokinghope.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "901106705",
+  "displayName": "Church of Scientology Mission of McMinnville",
+  "categories": ["faith"],
+  "description": "A local Church of Scientology mission in McMinnville offering Dianetics- and Scientology-based counseling and community programs addressing personal and relationship challenges.",
+  "website": "https://www.missionofmcminnville.com/",
+  "confidence": "high"
+ }
+]

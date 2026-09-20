@@ -1,0 +1,173 @@
+[
+ {
+  "id": "521538560",
+  "displayName": "Psi Chi (Linfield University Chapter)",
+  "categories": ["education-higher"],
+  "description": "Psi Chi is the international honor society in psychology; this McMinnville-based chapter recognizes and supports undergraduate and graduate psychology students at Linfield University.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "No websiteRaw or website field provided; could not verify via search (web search budget was exhausted for this session)."
+ },
+ {
+  "id": "753156839",
+  "displayName": "Adventure Christian Church",
+  "categories": ["faith"],
+  "description": "Adventure Christian Church is a Christian congregation in McMinnville, planted with support from a church-planting network, offering worship services and ministry programs.",
+  "website": null,
+  "confidence": "medium",
+  "notes": null
+ },
+ {
+  "id": "760758126",
+  "displayName": "Spirit Hawk Inc",
+  "categories": ["arts"],
+  "description": "Spirit Hawk Inc is a McMinnville-based arts and culture organization; the IRS NTEE code places it in arts/cultural programming, but no further program detail was available.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Name is ambiguous and web search was unavailable (session search budget exhausted); classification relies on NTEE code A25 (Arts, Culture & Humanities) only."
+ },
+ {
+  "id": "822201669",
+  "displayName": "YC Community Pet Heroes",
+  "categories": ["animals"],
+  "description": "YC Community Pet Heroes is a Yamhill County (McMinnville) organization focused on animal welfare, per its IRS animal-related classification.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Could not verify specific programs via search (budget exhausted); description grounded in NTEE code D20 only."
+ },
+ {
+  "id": "822384121",
+  "displayName": "Transitional Life Care Clinic",
+  "categories": ["health"],
+  "description": "Transitional Life Care Clinic is a McMinnville health care organization classified as a community/ambulatory clinic by the IRS; specific services could not be confirmed.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Web search was unavailable; classification relies on NTEE code E32 (Ambulatory Health Center) only, name suggests transitional/step-down care."
+ },
+ {
+  "id": "880590369",
+  "displayName": "Bikers for Christ - Marion County Corp",
+  "categories": ["faith"],
+  "description": "Bikers for Christ is a Christian motorcycle ministry chapter based in McMinnville, organizing riders around faith-based outreach and fellowship.",
+  "website": null,
+  "confidence": "medium",
+  "notes": null
+ },
+ {
+  "id": "930495113",
+  "displayName": "Yamhill County Farm Bureau",
+  "categories": ["agriculture"],
+  "description": "The Yamhill County Farm Bureau is a farmer-membership organization that advocates for local agricultural interests and supports the county's farming community.",
+  "website": null,
+  "confidence": "medium",
+  "notes": null
+ },
+ {
+  "id": "930978343",
+  "displayName": "McMinnville Toastmasters",
+  "categories": ["education-higher"],
+  "description": "McMinnville Toastmasters is a local club of Toastmasters International that helps adult members develop public speaking and leadership skills through regular practice meetings.",
+  "website": null,
+  "confidence": "medium",
+  "notes": null
+ },
+ {
+  "id": "931054093",
+  "displayName": "Yamhill Community Development Company",
+  "categories": ["civic"],
+  "description": "Yamhill Community Development Company is a McMinnville nonprofit that works on local economic and community development, though its specific programs could not be confirmed.",
+  "website": null,
+  "confidence": "low",
+  "notes": "IRS NTEE code is unclassified (Z99Z) and web search was unavailable; category is a best inference from the name."
+ },
+ {
+  "id": "923128618",
+  "displayName": "Wellness Healing Institute Organization",
+  "categories": ["mental-health"],
+  "description": "Wellness Healing Institute Organization is a Newberg nonprofit classified under mental health and crisis intervention; specific programs could not be confirmed.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Very new organization (ruled 2023); description grounded in NTEE code F12 only."
+ },
+ {
+  "id": "923827562",
+  "displayName": "Oregon Pet Project",
+  "categories": ["animals"],
+  "description": "Oregon Pet Project is a Newberg-based animal welfare organization, per its IRS animal-related classification, though specific programs could not be confirmed.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Web search was unavailable to verify; description grounded in NTEE code D20 only."
+ },
+ {
+  "id": "930872199",
+  "displayName": "Assembly of God (Newberg)",
+  "categories": ["faith"],
+  "description": "Assembly of God is a Christian congregation in Newberg offering worship services and ministry to the local community.",
+  "website": null,
+  "confidence": "medium",
+  "notes": null
+ },
+ {
+  "id": "936031511",
+  "displayName": "Newberg Toastmasters Club",
+  "categories": ["education-higher"],
+  "description": "Newberg Toastmasters Club is a local club of Toastmasters International that helps adult members build public speaking and leadership skills through regular practice meetings.",
+  "website": null,
+  "confidence": "medium",
+  "notes": null
+ },
+ {
+  "id": "743067545",
+  "displayName": "Sheridan Japanese School Foundation",
+  "categories": ["history"],
+  "description": "The Sheridan Japanese School Foundation is a Sheridan-area organization focused on education tied to the local Japanese community's history, per its IRS education classification.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Web search was unavailable; Yamhill County has a documented early-1900s Japanese immigrant farming community, so this may relate to preserving a historic Japanese-language schoolhouse, but this is unconfirmed."
+ },
+ {
+  "id": "850728378",
+  "displayName": "Misophonia Resource Center",
+  "categories": ["mental-health", "health"],
+  "description": "The Misophonia Resource Center, based in Willamina, provides information and support related to misophonia, a sound-sensitivity condition, though specific services could not be confirmed.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Web search was unavailable; description grounded in the organization's name and NTEE Human Services code only."
+ },
+ {
+  "id": "name:yamhillsoilandwaterconservationdistrict",
+  "displayName": "Yamhill Soil and Water Conservation District",
+  "categories": ["agriculture", "environment"],
+  "description": "The Yamhill Soil and Water Conservation District plans and oversees programs to conserve, restore, and enhance natural resources across Yamhill County.",
+  "website": null,
+  "confidence": "high",
+  "notes": null
+ },
+ {
+  "id": "name:housingauthorityofyamhillcountyhayc",
+  "displayName": "Housing Authority of Yamhill County (HAYC)",
+  "categories": ["housing"],
+  "description": "The Housing Authority of Yamhill County offers programs that provide safe, decent, and affordable housing for individuals and families in the community.",
+  "website": "https://www.hayc.org/home",
+  "confidence": "high",
+  "notes": null
+ },
+ {
+  "id": "name:mcminnvilleareahabitatforhumanity",
+  "displayName": "McMinnville Area Habitat for Humanity",
+  "categories": ["housing"],
+  "description": "McMinnville Area Habitat for Humanity brings volunteers and homeowner families together to build affordable homes and strengthen community in the McMinnville area.",
+  "website": "https://machabitat.org/",
+  "confidence": "high",
+  "notes": null
+ },
+ {
+  "id": "name:afamilyplace",
+  "displayName": "A Family Place",
+  "categories": ["families", "basic-needs"],
+  "description": "A Family Place, in McMinnville, strengthens local families through a diaper bank, clothing closet, parent education groups, a relief nursery, and mental health and family support services.",
+  "website": "https://familyplacerelief.org/",
+  "confidence": "high",
+  "notes": null
+ }
+]

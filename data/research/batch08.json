@@ -1,0 +1,231 @@
+[
+ {
+  "id": "931311480",
+  "displayName": "Dundee Community Committee",
+  "categories": ["civic", "youth"],
+  "description": "Organizes community events and family-focused activities, such as Movie in the Park, to build a sense of community in Dundee, Oregon.",
+  "website": "https://www.facebook.com/dundeecommunitycommittee/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930523488",
+  "displayName": "Gibbs Community Club",
+  "categories": ["civic", "youth"],
+  "description": "Operates a historic community center on Chehalem Mountain near Newberg, Oregon that hosts youth hunter-safety and marksmanship training, school field trips, and family events.",
+  "website": "https://gibbscommunityclub.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "900989542",
+  "displayName": "Ladd Hill Neighborhood Association",
+  "categories": ["civic"],
+  "description": "A neighborhood association representing residents of the Ladd Hill area of Newberg, Oregon on local community and civic matters.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "881888604",
+  "displayName": "Lafayette Downtown Association",
+  "categories": ["civic"],
+  "description": "Promotes the revitalization and economic vitality of downtown Lafayette, Oregon through business support and community events.",
+  "website": "https://www.facebook.com/profile.php?id=61566848335274",
+  "confidence": "medium"
+ },
+ {
+  "id": "930930394",
+  "displayName": "McMinnville Downtown Association",
+  "categories": ["civic"],
+  "description": "A business association that promotes and supports the economic vitality of downtown McMinnville, Oregon.",
+  "website": "https://downtownmcminnville.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "271747061",
+  "displayName": "Newberg Downtown Coalition",
+  "categories": ["civic"],
+  "description": "Works to revitalize and promote downtown Newberg, Oregon through business support, community events, and beautification efforts.",
+  "website": "https://www.newbergdowntown.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "845175703",
+  "displayName": "Sheridan Revitalization Movement",
+  "categories": ["civic"],
+  "description": "Works to revitalize downtown and support community improvement efforts in Sheridan, Oregon.",
+  "website": "https://www.revitalizesheridan.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930933077",
+  "displayName": "Newberg City Club",
+  "categories": ["civic"],
+  "description": "A civic club, founded in 1986, that hosts biweekly luncheons with local speakers on community issues and topics affecting Newberg, Oregon.",
+  "website": "https://newbergcityclub.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931314220",
+  "displayName": "Yamhill Community Club",
+  "categories": ["civic", "service-clubs"],
+  "description": "Supports local parks and organizes the annual Derby Days community celebration in Yamhill, Oregon.",
+  "website": "https://www.yamhillcommunityclub.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "844234195",
+  "displayName": "Yamhill Downtown Association",
+  "categories": ["civic"],
+  "description": "Promotes the economic vitality and improvement of downtown Yamhill, Oregon.",
+  "website": "https://yamhilldowntown.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "872246101",
+  "displayName": "Yamhill Neighborhood Association",
+  "categories": ["civic"],
+  "description": "A neighborhood association representing residents and local civic interests in the Yamhill, Oregon area.",
+  "website": "https://yamhillneighborhoodassociation.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "831251740",
+  "displayName": "Cruising McMinnville",
+  "categories": ["civic", "education-k12"],
+  "description": "Hosts an annual classic car show and cruise in historic downtown McMinnville, Oregon, using proceeds to fund scholarships for local students pursuing careers in the trades.",
+  "website": "https://www.cruisingmcminnville.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "931077597",
+  "displayName": "Newberg Old Fashioned Festival Association",
+  "categories": ["civic"],
+  "description": "Organizes the annual Old Fashioned Festival, a community festival held in Newberg, Oregon.",
+  "website": "https://www.newbergoldfashionedfestival.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "320235366",
+  "displayName": "Amity Downtown Improvement Group",
+  "categories": ["civic"],
+  "description": "Works to build and enhance the image, atmosphere, and economic vitality of downtown Amity, Oregon.",
+  "website": "https://www.amitydig.org",
+  "confidence": "high"
+ },
+ {
+  "id": "931294231",
+  "displayName": "McMinnville Community Media",
+  "categories": ["media"],
+  "description": "Operates community access television (MCM11) with local programming and event coverage serving McMinnville, Oregon.",
+  "website": "https://www.mcm11.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "262295794",
+  "displayName": "Living Stone Outreach",
+  "categories": ["international", "youth"],
+  "description": "A Newberg, Oregon based nonprofit that funds schools, wells, and educational scholarships for children in Liberia and runs a foster-care support program for Liberian children.",
+  "website": "https://livingstoneoutreach.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930833433",
+  "displayName": "Joyful Servant Lutheran Church",
+  "categories": ["faith", "basic-needs"],
+  "description": "A Lutheran (ELCA) congregation in Newberg, Oregon offering worship and education programs, plus a free community meal twice a month.",
+  "website": "https://www.joyfulservantlc.org/",
+  "confidence": "high",
+  "notes": "Record name 'Joyful Servant' is a shortened form; operating name is Joyful Servant Lutheran Church."
+ },
+ {
+  "id": "930758732",
+  "displayName": "Yamhill Community Action Partnership",
+  "categories": ["basic-needs", "housing", "human-services"],
+  "description": "A community action agency serving Yamhill County, Oregon with housing stabilization, energy assistance, a food bank, and youth services for low-income residents.",
+  "website": "https://yamhillcap.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "237334843",
+  "displayName": "Eden Hills Inc",
+  "categories": ["human-services"],
+  "description": "A Carlton, Oregon nonprofit organized to provide community support services; specific programs could not be confirmed from available public information.",
+  "website": null,
+  "confidence": "low",
+  "notes": "No website or NTEE code in source data and no distinct Oregon-specific web presence found; description is a best-effort placeholder."
+ },
+ {
+  "id": "992412884",
+  "displayName": "Love Multiplied",
+  "categories": ["human-services"],
+  "description": "A Yamhill, Oregon nonprofit classified under human services; specific programs have not yet been publicly reported.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Not to be confused with same-named nonprofits in Houston, TX and elsewhere; this is a distinct, newly-ruled (2024) Yamhill, OR entity."
+ },
+ {
+  "id": "680618733",
+  "displayName": "Michaels Place",
+  "categories": ["human-services"],
+  "description": "A Newberg, Oregon nonprofit classified under human services (independence-focused support for a specific population); specific programs could not be confirmed from available public information.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Not to be confused with the similarly named grief-support nonprofit in Michigan."
+ },
+ {
+  "id": "453700432",
+  "displayName": "Sparks of Hope",
+  "categories": ["legal", "youth", "mental-health"],
+  "description": "Provides healing camps, mentoring, and support groups for children and teens who are survivors of abuse, serving youth across Oregon.",
+  "website": "https://www.sparksofhope.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "851617602",
+  "displayName": "Sustaining Hope and Partnering to Empower",
+  "categories": ["human-services"],
+  "description": "A McMinnville, Oregon nonprofit organized under human services; specific programs have not yet been publicly reported.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "208904928",
+  "displayName": "Hope on the Hill",
+  "categories": ["basic-needs", "human-services"],
+  "description": "Runs a food pantry, a free clothing closet, and personal care item distribution for individuals and families in need in McMinnville, Oregon.",
+  "website": "https://www.hopeonthehill.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "365047257",
+  "displayName": "Cycle Yamhill County",
+  "categories": ["sports", "civic"],
+  "description": "Promotes cycling and active transportation in Yamhill County, Oregon through group rides, advocacy, and community events.",
+  "website": "https://cycleyamhillcounty.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "931272391",
+  "displayName": "Peacebike",
+  "categories": ["international", "youth"],
+  "description": "A Lafayette, Oregon nonprofit founded by Kathy Beckwith that promotes cross-cultural understanding and peace through long-distance bicycle journeys that visit schools and connect students worldwide.",
+  "website": "https://peacebike.ngo/",
+  "confidence": "medium",
+  "notes": "Original site appears to have moved; peacebike.ngo found in search but could not be independently loaded to confirm it is still active."
+ },
+ {
+  "id": "311132055",
+  "displayName": "American Committee World Friendship Center",
+  "categories": ["international"],
+  "description": "Serves as the U.S. fundraising and support arm for the World Friendship Center in Hiroshima, Japan, which was founded in 1965 to promote peace and nuclear-awareness education.",
+  "website": null,
+  "confidence": "high"
+ },
+ {
+  "id": "270390419",
+  "displayName": "Oregon Self Advocacy Coalition",
+  "categories": ["disability"],
+  "description": "Advocates for and supports self-advocacy among people with intellectual and developmental disabilities across Oregon, based in Newberg.",
+  "website": "https://www.askosac.org/",
+  "confidence": "high"
+ }
+]

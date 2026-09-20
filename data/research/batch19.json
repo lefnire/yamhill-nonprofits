@@ -1,0 +1,229 @@
+[
+ {
+  "id": "930300968",
+  "displayName": "Union Lodge No. 3, A.F. & A.M.",
+  "categories": ["service-clubs"],
+  "description": "A Masonic fraternal lodge in McMinnville that provides fellowship among members and supports charitable and community programs, including historical and cemetery upkeep.",
+  "website": "https://unionno3afandam.godaddysites.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "300046616",
+  "displayName": "Mule Skinner Club",
+  "categories": ["agriculture", "service-clubs"],
+  "description": "A social club in Yamhill for people interested in mules, draft animals, and wagon/packing traditions; classified by the IRS under philanthropy/voluntarism.",
+  "website": null,
+  "confidence": "low",
+  "notes": "Name strongly suggests a mule-driving/teamster hobby club, but no website was found and IRS NTEE code (T30) does not match the name; could not verify current activities."
+ },
+ {
+  "id": "930819006",
+  "displayName": "Amity Valley Women's Club",
+  "categories": ["service-clubs", "civic"],
+  "description": "A historic community women's club in Amity, Oregon organized as a social welfare group that supports local civic and charitable activities.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "205695789",
+  "displayName": "Soul Care Resources",
+  "categories": ["faith", "mental-health"],
+  "description": "A Newberg-based religion-related nonprofit that provides spiritual care and counseling support, per its IRS classification.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "920930963",
+  "displayName": "Companioning Center",
+  "categories": ["faith", "mental-health"],
+  "description": "A Newberg nonprofit that trains and supports \"soul friends\" through spiritual direction formation programs, supervision training, courses, and a membership community for people who accompany others in their spiritual journeys.",
+  "website": "https://www.companioningcenter.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "874296126",
+  "displayName": "Aftershock Fastpitch Softball",
+  "categories": ["sports", "youth"],
+  "description": "A youth fastpitch softball program based in Newberg that provides competitive softball opportunities for girls.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "843880912",
+  "displayName": "Agile Volleyball Club",
+  "categories": ["sports", "youth"],
+  "description": "A youth volleyball club based in Sheridan offering club volleyball training and competition for young athletes.",
+  "website": "https://www.facebook.com/agilevolleyballclub/",
+  "confidence": "medium"
+ },
+ {
+  "id": "834304203",
+  "displayName": "Amity Babe Ruth",
+  "categories": ["sports", "youth"],
+  "description": "A youth baseball league affiliated with Babe Ruth Baseball serving the Amity/Sheridan area.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "923618616",
+  "displayName": "Amity Boosters",
+  "categories": ["education-k12", "sports"],
+  "description": "A booster club supporting Amity School District students and athletic programs through fundraising and volunteer support.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "814360037",
+  "displayName": "Amity Warriors Youth Fastpitch",
+  "categories": ["sports", "youth"],
+  "description": "A youth fastpitch softball program in Amity that gives local girls the chance to play organized softball.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "814529526",
+  "displayName": "Dayton Pirates JBO",
+  "categories": ["sports", "youth"],
+  "description": "A junior baseball organization in Dayton that runs youth baseball leagues for local kids, operating as the \"Dayton Pirates.\"",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "861544826",
+  "displayName": "Bald Peak Baseball",
+  "categories": ["sports", "youth"],
+  "description": "A youth baseball club based in Newberg providing recreational and competitive baseball for local kids.",
+  "website": "https://www.facebook.com/p/Bald-Peak-Baseball-100083413263634/",
+  "confidence": "medium"
+ },
+ {
+  "id": "204857327",
+  "displayName": "Black Rock Mountain Bike Association",
+  "categories": ["sports", "environment"],
+  "description": "An all-volunteer nonprofit based in McMinnville that builds and maintains the Black Rock mountain bike trail network in partnership with the Oregon Department of Forestry and organizes trail work days and community rides.",
+  "website": "https://www.brmba.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "813883446",
+  "displayName": "Bridge City Autosports",
+  "categories": ["sports"],
+  "description": "A motorsports club that organizes autocross events and driving instruction to teach vehicle-control skills in a safe environment, based in the Newberg/Portland area.",
+  "website": "https://www.bcautosports.club/",
+  "confidence": "high"
+ },
+ {
+  "id": "931656731",
+  "displayName": "Friends of Champoeg Disc Golf",
+  "categories": ["sports"],
+  "description": "A club in Newberg that supports and maintains a disc golf course at Champoeg State Park for local players.",
+  "website": "https://www.facebook.com/groups/FriendsOfChampoegDiscGolf/",
+  "confidence": "medium"
+ },
+ {
+  "id": "931249676",
+  "displayName": "Chehalem Valley Aquatics Club",
+  "categories": ["sports", "youth"],
+  "description": "A competitive swim club based in Newberg that provides swim team training and competition for youth swimmers.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "010944988",
+  "displayName": "Chehalem Valley BMX",
+  "categories": ["sports", "youth"],
+  "description": "A BMX racing club in Newberg that operates a local BMX track and organizes races for youth and adult riders.",
+  "website": "https://www.chehalemvalleybmx.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "824698985",
+  "displayName": "Chehalem Valley Soccer Club",
+  "categories": ["sports", "youth"],
+  "description": "A youth soccer club serving the Newberg area with recreational and competitive soccer teams.",
+  "website": "https://www.chehalemvalleysc.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930940414",
+  "displayName": "Dayton Little Guy Football",
+  "categories": ["sports", "youth"],
+  "description": "A youth tackle football program in Dayton that offers local kids the chance to play organized football.",
+  "website": "https://www.facebook.com/DaytonLittleGuyFootball/",
+  "confidence": "medium"
+ },
+ {
+  "id": "932869153",
+  "displayName": "Gals With Mals Running Co",
+  "categories": ["animals", "sports"],
+  "description": "A McMinnville-based club organized around running with Alaskan Malamutes and other dogs, combining animal companionship with a running/hobby community.",
+  "website": "https://galswithmalsrunningco.com/",
+  "confidence": "low",
+  "notes": "Website is JavaScript-rendered and could not be read directly; categorization is inferred from the club name and its IRS animal-related (D12) NTEE code."
+ },
+ {
+  "id": "562583773",
+  "displayName": "Grizzlies ASA Softball",
+  "categories": ["sports", "youth"],
+  "description": "A youth amateur softball association program in McMinnville affiliated with ASA/USA Softball, known as the \"Grizzlies.\"",
+  "website": "https://www.grizzliessoftball.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "933213962",
+  "displayName": "Yamhill-Carlton Basketball Club (Hoops4All)",
+  "categories": ["sports", "youth"],
+  "description": "A youth basketball club serving Carlton and the Yamhill-Carlton area, offering recreational and competitive basketball programs for kids.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "430662894",
+  "displayName": "Timber Country Little League (Tri-City LL)",
+  "categories": ["sports", "youth"],
+  "description": "A Little League Baseball chapter serving Sheridan and the surrounding Tri-City area, providing organized youth baseball and softball.",
+  "website": "https://www.timbercountrylittleleague.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "844193532",
+  "displayName": "Mac Pickleball Club",
+  "categories": ["sports"],
+  "description": "A pickleball club in McMinnville that organizes play, leagues, and social events for local pickleball enthusiasts.",
+  "website": "https://www.macpickleballclub.net/",
+  "confidence": "medium"
+ },
+ {
+  "id": "930932344",
+  "displayName": "McMinnville Athletic Club",
+  "categories": ["sports"],
+  "description": "A McMinnville athletic/social club offering recreational sports and fitness activities for its members.",
+  "website": "https://mac-club.square.site/",
+  "confidence": "low",
+  "notes": "Website is JavaScript-rendered and could not be read directly, so specific programs could not be confirmed."
+ },
+ {
+  "id": "272020047",
+  "displayName": "McMinnville Athletic Competitive Club",
+  "categories": ["sports", "youth"],
+  "description": "A McMinnville-based competitive sports club providing organized athletic training and competition, per its IRS recreation & sports classification.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "261790774",
+  "displayName": "McMinnville Baseball Association (MAC JBO)",
+  "categories": ["sports", "youth"],
+  "description": "A junior baseball organization in McMinnville that runs youth baseball leagues and teams for local kids.",
+  "website": "https://www.macjbo.com/",
+  "confidence": "medium"
+ },
+ {
+  "id": "931160165",
+  "displayName": "McMinnville Basketball Association",
+  "categories": ["sports", "youth"],
+  "description": "A youth basketball association in McMinnville that organizes recreational and competitive basketball leagues for local kids.",
+  "website": "https://www.mcminnvillebasketball.com/",
+  "confidence": "medium"
+ }
+]

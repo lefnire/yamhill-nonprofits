@@ -1,0 +1,231 @@
+[
+ {
+  "id": "931141508",
+  "displayName": "Habitat for Humanity Newberg Area",
+  "categories": ["housing"],
+  "description": "Builds and repairs affordable homes for low-income families in the Newberg area, working with volunteers and partner homebuyers.",
+  "website": "https://newberghabitat.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931327751",
+  "displayName": "Yamhill County Affordable Housing Corporation",
+  "categories": ["housing"],
+  "description": "A nonprofit affiliate of the Housing Authority of Yamhill County that develops and manages affordable rental housing for low-income residents of McMinnville and the surrounding county.",
+  "website": "https://www.hayc.org/",
+  "confidence": "medium"
+ },
+ {
+  "id": "453964505",
+  "displayName": "Clara's Closet",
+  "categories": ["basic-needs"],
+  "description": "A small human-services nonprofit based in Willamina; public sources confirm only its IRS classification, not its specific programs.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "270727402",
+  "displayName": "Security With Compassion",
+  "categories": ["human-services", "disability"],
+  "description": "Provides Social Security representative payee services in Oregon, managing benefits on behalf of people who cannot handle their own finances due to disability, age, or other challenges.",
+  "website": "https://securitywithcompassion.org",
+  "confidence": "medium",
+  "notes": "Source website field had a typo domain (secruitywithcompassion.org); corrected to securitywithcompassion.org based on search results and the org's email domain."
+ },
+ {
+  "id": "884208388",
+  "displayName": "Noah's Haven",
+  "categories": ["animals"],
+  "description": "An animal rescue based in McMinnville, indicated by its rescue-focused contact email and animal-related IRS classification.",
+  "website": "https://noahs-haven.com/",
+  "confidence": "medium",
+  "notes": "Source data's originalFocus said 'Human services / shelter,' but the NTEE code (D60, Animal-Related) and email (noahshavenrescue@gmail.com) indicate this is an animal rescue, not a human shelter."
+ },
+ {
+  "id": "931289155",
+  "displayName": "Oregon Hunters Association – Yamhill County Chapter",
+  "categories": ["environment", "sports"],
+  "description": "A local chapter of the Oregon Hunters Association that promotes science-based wildlife management and supports hunting-related conservation activities in Yamhill County.",
+  "website": "https://ohayamhill.com/",
+  "confidence": "high",
+  "notes": "websiteRaw was a page title, not a URL; found the real site via search."
+ },
+ {
+  "id": "850771682",
+  "displayName": "Good News India Development Support Association",
+  "categories": ["international", "philanthropy"],
+  "description": "A small Yamhill-based nonprofit classified under philanthropy and grantmaking, apparently supporting development work in India, though its specific programs could not be confirmed.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "843182182",
+  "displayName": "Global Transformations",
+  "categories": ["international", "faith"],
+  "description": "A McMinnville-based religious nonprofit focused on international development work; specific programs are not documented beyond its IRS classification.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "204574623",
+  "displayName": "Marafiki",
+  "categories": ["international", "education-higher"],
+  "description": "A Newberg-based nonprofit that uses education, including scholarships, to support underserved communities and women and girls in developing countries such as Kenya.",
+  "website": "https://www.marafiki.us/",
+  "confidence": "high"
+ },
+ {
+  "id": "300351624",
+  "displayName": "BLET Division 416 (Sheridan)",
+  "categories": ["labor"],
+  "description": "A local division of the Brotherhood of Locomotive Engineers and Trainmen representing railroad workers, based in Sheridan.",
+  "website": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "930658121",
+  "displayName": "United Steelworkers Local 8378",
+  "categories": ["labor"],
+  "description": "A McMinnville local of the United Steelworkers union representing area workers.",
+  "website": "https://uswlocals.org/local-8378-mcminnville-oregon",
+  "confidence": "high"
+ },
+ {
+  "id": "471851391",
+  "displayName": "Yamhill-Carlton Teachers Association",
+  "categories": ["labor", "education-k12"],
+  "description": "A labor union representing teachers in the Yamhill-Carlton School District.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "websiteRaw pointed to the school district's own site, not an independent union website, so website was set to null."
+ },
+ {
+  "id": "930870911",
+  "displayName": "IAFF Local 3099 (McMinnville Firefighters)",
+  "categories": ["labor", "public-safety"],
+  "description": "A McMinnville local of the International Association of Fire Fighters representing career firefighters.",
+  "website": "https://www.iaff3099.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "931191292",
+  "displayName": "Friends of Yamhill County",
+  "categories": ["environment", "advocacy"],
+  "description": "A McMinnville-based advocacy group working on land-use and conservation issues to protect farmland, forestland, and natural resources in Yamhill County.",
+  "website": "https://www.friendsofyamhillcounty.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "421769190",
+  "displayName": "Valley Latin Assembly",
+  "categories": ["faith"],
+  "description": "A Latino Christian congregation and ministry based in McMinnville.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "300808779",
+  "displayName": "Unidos",
+  "categories": ["advocacy", "human-services"],
+  "description": "A McMinnville-based organization that supports and advocates for the Latino community in Yamhill County, connecting residents to services and resources.",
+  "website": "https://unidosyamhillcounty.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "874346106",
+  "displayName": "Wine Country Pride",
+  "categories": ["advocacy", "civic"],
+  "description": "An LGBTQ+ advocacy and community organization in McMinnville that hosts Pride events and supports the LGBTQ+ community in the Willamette Valley wine region.",
+  "website": "https://winecountrypride.com/",
+  "confidence": "high"
+ },
+ {
+  "id": "831829376",
+  "displayName": "PFLAG Newberg",
+  "categories": ["advocacy", "families"],
+  "description": "A Newberg chapter of PFLAG that provides support, education, and advocacy for LGBTQ+ people and their families.",
+  "website": "https://pflagnewberg.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "851804888",
+  "displayName": "Table14",
+  "categories": ["faith", "advocacy"],
+  "description": "A Newberg nonprofit that creates safe, welcoming, and affirming spaces for LGBTQ+ students and alumni connected to George Fox University.",
+  "website": "https://table14.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "331936734",
+  "displayName": "Friends of Sheridan Public Library",
+  "categories": ["literacy"],
+  "description": "A volunteer group that supports the Sheridan Public Library through fundraising and community programs.",
+  "website": "https://www.facebook.com/p/Friends-of-Sheridan-Public-Library-61569901260865/",
+  "confidence": "high"
+ },
+ {
+  "id": "481264359",
+  "displayName": "Friends of the Amity Library",
+  "categories": ["literacy"],
+  "description": "A volunteer group that supports the Amity Public Library, including community programs such as school-supply drives for local students.",
+  "website": null,
+  "confidence": "medium",
+  "notes": "websiteRaw was a page title, not a URL, and the real site could not be confirmed with the remaining search budget."
+ },
+ {
+  "id": "936028453",
+  "displayName": "Friends of the McMinnville Public Library",
+  "categories": ["literacy"],
+  "description": "A volunteer organization that raises funds and support for the McMinnville Public Library.",
+  "website": "https://www.friendsmaclibrary.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "933612754",
+  "displayName": "Love Our Library (Friends of the Willamina Public Library)",
+  "categories": ["literacy"],
+  "description": "A volunteer group supporting the Willamina Public Library through fundraising and community engagement.",
+  "website": "https://www.lolwillamina.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "930871514",
+  "displayName": "Library Foundation of McMinnville",
+  "categories": ["literacy"],
+  "description": "A foundation that raises funds to support programs and resources at the McMinnville Public Library.",
+  "website": "https://www.mcminnvilleoregon.gov/library/page/library-foundation-mcminnville",
+  "confidence": "high"
+ },
+ {
+  "id": "931068906",
+  "displayName": "Library Foundation of Newberg",
+  "categories": ["literacy"],
+  "description": "A foundation that supports the Newberg Public Library by raising funds for its programs and services.",
+  "website": "https://www.libraryfoundationofnewberg.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "872810039",
+  "displayName": "Madeline's Library",
+  "categories": ["literacy"],
+  "description": "A small Yamhill-based nonprofit classified under community improvement and capacity building, likely a small or specialty library or book-access effort, though specific details could not be confirmed.",
+  "website": null,
+  "confidence": "low"
+ },
+ {
+  "id": "990467454",
+  "displayName": "McMinnville Tool Library",
+  "categories": ["civic"],
+  "description": "A volunteer-run tool-lending library that gives Yamhill County residents affordable access to tools for home repair, gardening, and other DIY projects, plus related workshops.",
+  "website": "https://www.mactoollibrary.org/",
+  "confidence": "high"
+ },
+ {
+  "id": "871360662",
+  "displayName": "Newberg Library Friends",
+  "categories": ["literacy"],
+  "description": "A volunteer group that supports the Newberg Public Library through fundraising and community programs.",
+  "website": "https://www.newbergoregon.gov/government/departments/library/newberg_library_friends.php",
+  "confidence": "high"
+ }
+]
