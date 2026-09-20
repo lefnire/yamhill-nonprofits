@@ -33,6 +33,13 @@ jobs:
 
       - run: npm run build
 
+      # A custom domain lives in CNAME at the repo root, where the Pages UI writes
+      # it. Branch-based publishing picks it up from there, but an Actions deploy
+      # only serves what is inside the artifact -- so without this copy, switching
+      # Source to GitHub Actions silently drops the custom domain.
+      - name: Carry CNAME into the build output
+        run: '[ -f CNAME ] && cp CNAME dist/ || echo "no CNAME at repo root; skipping"'
+
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
