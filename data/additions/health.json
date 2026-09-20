@@ -1,0 +1,41 @@
+[
+  {
+    "name": "NAMI Yamhill County",
+    "categories": ["mental-health"],
+    "description": "Local affiliate of the National Alliance on Mental Illness offering free peer-led education and support programs (NAMI Basics, Family-to-Family, Connection, Peer-to-Peer, In Our Own Voice) for people living with mental illness and their families in Yamhill County.",
+    "city": "McMinnville",
+    "website": null,
+    "email": null,
+    "phone": "503-877-2683",
+    "parentOrg": "National Alliance on Mental Illness (NAMI)",
+    "registrationNote": "Local chapter/affiliate of the national NAMI organization; likely no separate Yamhill-addressed IRS registration.",
+    "evidenceUrl": "https://www.nami.org/affiliate/oregon/nami-yamhill-county/",
+    "confidence": "medium"
+  },
+  {
+    "name": "Blanchet Farm",
+    "categories": ["mental-health", "housing"],
+    "description": "A residential addiction-recovery program on a working farm in Carlton where men recovering from substance use disorder receive up to a year of free room, board and structure while doing farm work, gardening and woodworking; the site also hosts AA/NA meetings for Yamhill County.",
+    "city": "Carlton",
+    "website": "https://blanchethouse.org/blanchet-farm-residential-recovery-program/",
+    "email": null,
+    "phone": null,
+    "parentOrg": "Blanchet House of Hospitality",
+    "registrationNote": "Program/site of Blanchet House of Hospitality (Portland-based nonprofit); operates under Blanchet House's EIN, no separate Yamhill-addressed IRS registration expected.",
+    "evidenceUrl": "https://blanchethouse.org/blanchet-farm-residential-recovery-program/",
+    "confidence": "high"
+  },
+  {
+    "name": "Special Olympics Oregon – Yamhill County",
+    "categories": ["disability", "sports"],
+    "description": "Local Special Olympics program providing year-round sports training and competition (athletics, bocce, golf, bowling, swimming, volleyball, basketball, powerlifting, cornhole) for children and adults with intellectual disabilities in Yamhill County.",
+    "city": "McMinnville",
+    "website": "https://soor.org/program/yamhill/",
+    "email": "yamhill@soor.org",
+    "phone": "971-238-5983",
+    "parentOrg": "Special Olympics Oregon",
+    "registrationNote": "Local county program of Special Olympics Oregon; no separate Yamhill-addressed IRS registration expected.",
+    "evidenceUrl": "https://soor.org/program/yamhill/",
+    "confidence": "medium"
+  }
+]

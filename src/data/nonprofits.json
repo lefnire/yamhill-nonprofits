@@ -1,6 +1,6 @@
 {
  "generatedAt": "2026-09-20",
- "count": 663,
+ "count": 697,
  "categories": [
   {
    "id": "animals",
@@ -12,31 +12,31 @@
    "id": "arts",
    "label": "Arts & Culture",
    "desc": "Visual/performing arts, theater, music, galleries, film, literary arts, cultural festivals",
-   "count": 38
+   "count": 48
   },
   {
    "id": "basic-needs",
    "label": "Basic Needs & Food",
    "desc": "Food banks, pantries, meal programs, clothing closets, emergency financial assistance, poverty relief",
-   "count": 26
+   "count": 34
   },
   {
    "id": "housing",
    "label": "Housing & Homelessness",
    "desc": "Affordable housing, shelters, homeless services, housing authorities, home repair",
-   "count": 17
+   "count": 19
   },
   {
    "id": "youth",
    "label": "Children & Youth",
    "desc": "Youth development, mentoring, scouting, after-school programs, child advocacy, foster care",
-   "count": 76
+   "count": 82
   },
   {
    "id": "families",
    "label": "Families & Parenting",
    "desc": "Family support, parenting education, relief nurseries, maternal health, pregnancy support",
-   "count": 17
+   "count": 18
   },
   {
    "id": "seniors",
@@ -54,7 +54,7 @@
    "id": "education-early",
    "label": "Early Childhood Education",
    "desc": "Preschools, Head Start, childcare, kindergarten readiness",
-   "count": 9
+   "count": 10
   },
   {
    "id": "education-higher",
@@ -78,7 +78,7 @@
    "id": "environment",
    "label": "Environment & Conservation",
    "desc": "Land trusts, watershed councils, conservation, recycling, climate, native habitat restoration",
-   "count": 24
+   "count": 30
   },
   {
    "id": "agriculture",
@@ -102,31 +102,31 @@
    "id": "mental-health",
    "label": "Mental Health & Recovery",
    "desc": "Counseling, behavioral health, addiction recovery, suicide prevention, crisis support",
-   "count": 21
+   "count": 23
   },
   {
    "id": "disability",
    "label": "Disability Services",
    "desc": "Disability support, self-advocacy, adaptive programs, supported employment",
-   "count": 9
+   "count": 10
   },
   {
    "id": "human-services",
    "label": "Human & Social Services",
    "desc": "Broad social service providers, case management, community action agencies, personal support services",
-   "count": 22
+   "count": 23
   },
   {
    "id": "faith",
    "label": "Faith & Religion",
    "desc": "Churches, congregations, ministries, missions, religious orders, faith-based camps and education",
-   "count": 158
+   "count": 157
   },
   {
    "id": "sports",
    "label": "Sports & Recreation",
    "desc": "Youth and adult sports leagues, athletic clubs, gyms, swim/BMX/equestrian, outdoor recreation, hobby clubs",
-   "count": 70
+   "count": 74
   },
   {
    "id": "history",
@@ -138,7 +138,7 @@
    "id": "civic",
    "label": "Civic & Community Development",
    "desc": "Chambers of commerce, downtown associations, neighborhood associations, community centers, civic events and festivals, economic development, tourism",
-   "count": 48
+   "count": 52
   },
   {
    "id": "service-clubs",
@@ -168,7 +168,7 @@
    "id": "advocacy",
    "label": "Advocacy & Civil Rights",
    "desc": "Civil rights, LGBTQ+ support, women's rights, immigrant/Latino community support, voter engagement, policy advocacy",
-   "count": 11
+   "count": 12
   },
   {
    "id": "legal",
@@ -666,7 +666,6 @@
   {
    "id": "931256092",
    "name": "American Legion Auxiliary Post 75 (Sheridan Ladies Auxiliary)",
-   "aka": "Sheridan Ladies Auxiliary",
    "legalName": "AMERICAN LEGION AUXILIARY",
    "description": "The ladies auxiliary supporting American Legion Post 75 in Sheridan, Oregon.",
    "categories": [
@@ -753,7 +752,6 @@
   {
    "id": "237026603",
    "name": "American Legion Post 57 (Lester C. Rees)",
-   "aka": "Lester C Rees",
    "legalName": "AMERICAN LEGION",
    "description": "A veterans service organization post serving Newberg-area veterans, named for Lester C. Rees.",
    "categories": [
@@ -799,7 +797,6 @@
   {
    "id": "930868211",
    "name": "American Rental Association of Oregon",
-   "aka": "Oregon",
    "legalName": "AMERICAN RENTAL ASSOCIATION",
    "description": "The Oregon chapter of the American Rental Association, a trade association for equipment rental businesses.",
    "categories": [
@@ -809,7 +806,6 @@
    "state": "OR",
    "zip": "97128",
    "address": "2800 NE Lafayette Ave",
-   "website": "https://bottensrental.com/",
    "email": "info@bottensrental.com",
    "contact": "Annette Lawrence",
    "ein": "930868211",
@@ -947,7 +943,6 @@
   {
    "id": "273291438",
    "name": "Amity Parents and Teachers Together (APATT)",
-   "aka": "Apatt",
    "legalName": "AMITY PARENTS AND TEACHERS TOGETHER",
    "description": "A parent-teacher organization supporting students and staff of the Amity School District in Amity through volunteer efforts and fundraising for school programs.",
    "categories": [
@@ -1215,6 +1210,36 @@
    "confidence": "high"
   },
   {
+   "id": "add:artharveststudiotourofyamhillcounty",
+   "name": "Art Harvest Studio Tour of Yamhill County",
+   "description": "An annual self-guided studio tour, running since 1993, in which dozens of Yamhill County artists open their working studios to the public over two weekends each October so visitors can meet artists and see their creative process firsthand.",
+   "categories": [
+    "arts"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "website": "http://www.artharveststudiotour.org/",
+   "parentOrg": "Arts Alliance of Yamhill County",
+   "sourceUrl": "https://newberggraphic.com/2026/09/02/art-harvest-studio-tour-begins-in-october-across-yamhill-county/",
+   "source": "community-research",
+   "confidence": "high"
+  },
+  {
+   "id": "add:artworks",
+   "name": "Art Works",
+   "description": "A group of Yamhill County visual artists who gather monthly to share exhibit opportunities, visit studios and installations, and organize public exhibitions, life-drawing sessions and the annual McMinnville Art Festival.",
+   "categories": [
+    "arts"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "website": "https://aaycor.org/Artworks",
+   "parentOrg": "Arts Alliance of Yamhill County",
+   "sourceUrl": "https://aaycor.org/Artworks",
+   "source": "community-research",
+   "confidence": "medium"
+  },
+  {
    "id": "931004833",
    "name": "Arts Alliance of Yamhill County",
    "description": "Supports local arts and culture across Yamhill County through student mentorship, community partnerships, arts events, and sponsorship of creative programs.",
@@ -1355,7 +1380,6 @@
   {
    "id": "205241510",
    "name": "Baha'i Faith Community of Newberg",
-   "aka": "Newberg",
    "legalName": "BAHAIS OF NEWBERG",
    "description": "The local Baha'i religious community (Spiritual Assembly) serving Baha'is in Newberg, Oregon.",
    "categories": [
@@ -1376,7 +1400,6 @@
   {
    "id": "010934461",
    "name": "Baha'i Faith Community of Yamhill County",
-   "aka": "Yamhill County",
    "legalName": "BAHAIS OF YAMHILL COUNTY",
    "description": "The local Baha'i religious community (Spiritual Assembly) serving Baha'is across Yamhill County, Oregon.",
    "categories": [
@@ -1392,6 +1415,22 @@
    "rulingYear": 1995,
    "deductible": true,
    "originalFocus": "Baha’i faith",
+   "confidence": "medium"
+  },
+  {
+   "id": "add:bakercreekcommunitychurchfoodboxprogram",
+   "name": "Baker Creek Community Church Food Box Program",
+   "description": "A weekly food box and bread distribution program run by Baker Creek Community Church in McMinnville for Yamhill County residents, limited to one box per family per month.",
+   "categories": [
+    "basic-needs"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "website": "https://bakercreekcommunity.org/",
+   "phone": "503-434-5541",
+   "parentOrg": "Baker Creek Community Church",
+   "sourceUrl": "https://yamhillcco.org/wp-content/uploads/2025/11/Yamhill-County-Resources_Food-Access.pdf",
+   "source": "community-research",
    "confidence": "medium"
   },
   {
@@ -1615,9 +1654,24 @@
    "confidence": "low"
   },
   {
+   "id": "add:blanchetfarm",
+   "name": "Blanchet Farm",
+   "description": "A residential addiction-recovery program on a working farm in Carlton where men recovering from substance use disorder receive up to a year of free room, board and structure while doing farm work, gardening and woodworking; the site also hosts AA/NA meetings for Yamhill County.",
+   "categories": [
+    "mental-health",
+    "housing"
+   ],
+   "city": "Carlton",
+   "state": "OR",
+   "website": "https://blanchethouse.org/blanchet-farm-residential-recovery-program/",
+   "parentOrg": "Blanchet House of Hospitality",
+   "sourceUrl": "https://blanchethouse.org/blanchet-farm-residential-recovery-program/",
+   "source": "community-research",
+   "confidence": "high"
+  },
+  {
    "id": "300351624",
    "name": "BLET Division 416 (Sheridan)",
-   "aka": "Blet",
    "legalName": "BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN",
    "description": "A local division of the Brotherhood of Locomotive Engineers and Trainmen representing railroad workers, based in Sheridan.",
    "categories": [
@@ -1671,7 +1725,6 @@
    "state": "OR",
    "zip": "97128",
    "address": "1321 SW Phyllis Dr",
-   "website": "https://www.umoi.org/persondetail/68454",
    "email": "raledden32@gmail.com",
    "contact": "Bob Ledden",
    "ein": "760539180",
@@ -1781,7 +1834,6 @@
   {
    "id": "237510699",
    "name": "Buell Grange #637",
-   "aka": "Buell",
    "legalName": "OREGON STATE GRANGE PATRONS OF HUSBANDRY",
    "description": "A local Grange lodge near Sheridan that brings together farm families and neighbors for community service, social events, and support of agriculture.",
    "categories": [
@@ -1799,6 +1851,23 @@
    "deductible": true,
    "originalFocus": "Agriculture / community service",
    "confidence": "low"
+  },
+  {
+   "id": "add:bulletholesbullseyes4hshootingsportsclub",
+   "name": "Bullet Holes & Bullseyes 4-H Shooting Sports Club",
+   "description": "A 4-H shooting sports club based in McMinnville offering certified youth instruction in archery, pistol, rifle and shotgun, open to youth in Yamhill and Washington counties.",
+   "categories": [
+    "sports",
+    "youth"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "email": "bulletholesbullseyes@gmail.com",
+   "phone": "503-434-8913",
+   "parentOrg": "Yamhill County 4-H Association / OSU Extension Service",
+   "sourceUrl": "https://youthshootingsa.com/product/bullet-holes-bullseyes-4-h-shooting-sports-club/",
+   "source": "community-research",
+   "confidence": "high"
   },
   {
    "id": "721621203",
@@ -1830,7 +1899,6 @@
   {
    "id": "930635026",
    "name": "Calvary Chapel of McMinnville",
-   "aka": "Calvary Chapel",
    "description": "A nondenominational evangelical Christian church in McMinnville holding worship services and Bible teaching.",
    "categories": [
     "faith"
@@ -2106,7 +2174,6 @@
   {
    "id": "237174397",
    "name": "Catholic Daughters of the Americas Court #1489, Christ the King",
-   "aka": "Christ the King",
    "legalName": "CATHOLIC DAUGHTERS OF THE AMERICAS",
    "description": "A local court of the Catholic Daughters of the Americas, a Catholic women's fraternal and service organization affiliated with St. Peter Parish in Newberg.",
    "categories": [
@@ -2197,6 +2264,21 @@
    "assetAmt": 3156412,
    "deductible": true,
    "originalFocus": "Community / charitable support",
+   "confidence": "high"
+  },
+  {
+   "id": "add:cheahmillchapternativeplantsocietyoforegon",
+   "name": "Cheahmill Chapter, Native Plant Society of Oregon",
+   "description": "Local chapter of the Native Plant Society of Oregon serving Yamhill County; maintains a native plant garden at the McMinnville Public Library, partners with the Soil and Water Conservation District on native tree/shrub sales, and works with Yamhill County Parks on native habitat restoration.",
+   "categories": [
+    "environment"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "website": "https://www.npsoregon.org/wp/ch/",
+   "parentOrg": "Native Plant Society of Oregon",
+   "sourceUrl": "https://www.npsoregon.org/wp/ch/",
+   "source": "community-research",
    "confidence": "high"
   },
   {
@@ -2677,7 +2759,6 @@
   {
    "id": "901106705",
    "name": "Church of Scientology Mission of McMinnville",
-   "aka": "Mission of McMinnville",
    "legalName": "CHURCH OF SCIENTOLOGY",
    "description": "A local Church of Scientology mission in McMinnville offering Dianetics- and Scientology-based counseling and community programs addressing personal and relationship challenges.",
    "categories": [
@@ -2834,7 +2915,6 @@
   {
    "id": "930843235",
    "name": "Columbus Elementary PTA",
-   "aka": "Columbus PTA",
    "legalName": "PTA OREGON CONGRESS",
    "description": "Parent-teacher association supporting students and families at Columbus Elementary School in McMinnville, Oregon.",
    "categories": [
@@ -3023,6 +3103,21 @@
    "confidence": "low"
   },
   {
+   "id": "add:coveorchardfoodpantry",
+   "name": "Cove Orchard Food Pantry",
+   "description": "A by-appointment food box pantry run by the Community of Christ congregation in Yamhill (Cove Orchard area), serving Yamhill County residents.",
+   "categories": [
+    "basic-needs"
+   ],
+   "city": "Yamhill",
+   "state": "OR",
+   "phone": "503-804-0333",
+   "parentOrg": "Community of Christ",
+   "sourceUrl": "https://yamhillcco.org/wp-content/uploads/2025/11/Yamhill-County-Resources_Food-Access.pdf",
+   "source": "community-research",
+   "confidence": "medium"
+  },
+  {
    "id": "930817750",
    "name": "Cove Orchard Water Association",
    "description": "A member-owned mutual water association providing domestic water service near Yamhill, Oregon.",
@@ -3094,7 +3189,6 @@
   {
    "id": "994457786",
    "name": "Creative Tides Ministry",
-   "aka": "Creative Tides",
    "description": "A Newberg-based ministry, founded by a Red Hills Church worship pastor, that equips worship and creative-arts teams at churches with training, resources, and an annual Summit Conference for creatives in ministry.",
    "categories": [
     "faith",
@@ -3160,6 +3254,21 @@
    "confidence": "high"
   },
   {
+   "id": "add:cubscoutpack454",
+   "name": "Cub Scout Pack 454",
+   "description": "A Cub Scout pack serving kindergarten through 5th-grade children in McMinnville with weekly den meetings focused on camping, service and STEM activities.",
+   "categories": [
+    "youth"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "website": "https://www.cubscoutpack454.org",
+   "parentOrg": "First Baptist Church, McMinnville (BSA charter organization) / Scouting America - Cascade Pacific Council",
+   "sourceUrl": "https://www.cubscoutpack454.org/",
+   "source": "community-research",
+   "confidence": "high"
+  },
+  {
    "id": "365047257",
    "name": "Cycle Yamhill County",
    "legalName": "CYCLE YAHILL COUNTY",
@@ -3213,7 +3322,6 @@
   {
    "id": "943437382",
    "name": "DAV Auxiliary Chapter 5 (Yamhill County)",
-   "aka": "5 Yamhill County",
    "legalName": "DISABLED AMERICAN VETERANS AUXILIARY INC",
    "description": "The auxiliary supporting Disabled American Veterans Chapter 5 in Yamhill County, based in McMinnville.",
    "categories": [
@@ -3554,7 +3662,6 @@
   {
    "id": "930400919",
    "name": "Dianna Lodge No. 63, Knights of Pythias",
-   "aka": "Dianna",
    "legalName": "KNIGHTS OF PYTHIAS OREGON",
    "description": "Dianna Lodge No. 63 is a McMinnville, Oregon chapter of the Knights of Pythias, a fraternal organization focused on friendship, charity, and benevolence among members.",
    "categories": [
@@ -3579,7 +3686,6 @@
   {
    "id": "311128998",
    "name": "Disabled American Veterans Chapter 5 (Yamhill County)",
-   "aka": "5 Yamhill County",
    "legalName": "DISABLED AMERICAN VETERANS",
    "description": "A chapter of Disabled American Veterans serving disabled veterans in Yamhill County, based in Sheridan.",
    "categories": [
@@ -4099,7 +4205,6 @@
    "state": "OR",
    "zip": "97132",
    "address": "23225 NE Dillon Rd",
-   "website": "https://www.vivianleefoundation.org/",
    "email": "contact@vivianleefoundation.org",
    "ein": "815358724",
    "ntee": "L20",
@@ -4339,7 +4444,6 @@
   {
    "id": "237510755",
    "name": "Fernwood Grange #770",
-   "aka": "Fernwood",
    "legalName": "OREGON STATE GRANGE PATRONS OF HUSBANDRY",
    "description": "A local Grange lodge in Newberg that brings together farm families and neighbors for community service, social events, and support of agriculture.",
    "categories": [
@@ -4501,6 +4605,23 @@
    "confidence": "medium"
   },
   {
+   "id": "add:firstpresbyterianchurchofmcminnvillecommunitydin",
+   "name": "First Presbyterian Church of McMinnville Community Dinner",
+   "description": "A free community dinner served every Saturday evening at First Presbyterian Church in McMinnville, open to anyone needing a meal or fellowship; the program has run since 2006 and serves about 5,000 meals a year.",
+   "categories": [
+    "basic-needs"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "website": "https://fpc-mac.org/mission/community-dinner/",
+   "email": "fpc.mcminnville@gmail.com",
+   "phone": "503-472-6256",
+   "parentOrg": "First Presbyterian Church of McMinnville",
+   "sourceUrl": "https://fpc-mac.org/mission/community-dinner/",
+   "source": "community-research",
+   "confidence": "high"
+  },
+  {
    "id": "823075991",
    "name": "First Try Foundation",
    "legalName": "FIRST TRY FOUNDATION INC",
@@ -4578,7 +4699,6 @@
    "state": "OR",
    "zip": "97132",
    "address": "PO Box 817",
-   "website": "https://www.newbergfriends.org/",
    "email": "office@newbergfriends.org",
    "ein": "881065778",
    "subsection": "501(c)(3) charitable",
@@ -4721,6 +4841,36 @@
    "deductible": true,
    "originalFocus": "Youth & family services support",
    "confidence": "low"
+  },
+  {
+   "id": "add:friendsofchehalemtrails",
+   "name": "Friends of Chehalem Trails",
+   "description": "Volunteer-led group connecting Newberg and Dundee residents to local trails through community hikes, bike rides, trail workdays, and habitat-restoration tree plantings, often in partnership with Chehalem Park and Recreation District.",
+   "categories": [
+    "environment",
+    "civic"
+   ],
+   "city": "Newberg",
+   "state": "OR",
+   "website": "https://chehalemtrails.org/",
+   "sourceUrl": "https://newberggraphic.com/2025/05/28/join-friends-of-chehalem-trails-in-work-project-at-ewing-young-park/",
+   "source": "community-research",
+   "confidence": "medium"
+  },
+  {
+   "id": "add:friendsofewingyoungpark",
+   "name": "Friends of Ewing Young Park",
+   "description": "Volunteer community group in Newberg that explores, supports and advocates for Ewing Young Park, organizing guided walks, volunteer cleanup days, and public input to the Chehalem Park and Recreation District on trail and bridge improvements.",
+   "categories": [
+    "environment",
+    "civic"
+   ],
+   "city": "Newberg",
+   "state": "OR",
+   "website": "https://ewingyoungpark.org/",
+   "sourceUrl": "https://ewingyoungpark.org/",
+   "source": "community-research",
+   "confidence": "high"
   },
   {
    "id": "831665904",
@@ -4983,7 +5133,6 @@
   {
    "id": "825517180",
    "name": "Generous Friends Rescue & Rehab",
-   "aka": "Generous Friends",
    "description": "An animal rescue and rehabilitation organization based in Amity that takes in and rehomes animals in need.",
    "categories": [
     "animals"
@@ -5267,7 +5416,6 @@
   {
    "id": "203020948",
    "name": "Grandhaven Elementary PTA",
-   "aka": "Grandhaven PTA",
    "legalName": "PTA OREGON CONGRESS",
    "description": "Parent-teacher association supporting students and families at Grandhaven Elementary School in McMinnville, Oregon.",
    "categories": [
@@ -5358,7 +5506,6 @@
   {
    "id": "931022394",
    "name": "Greater Newberg Area Prayer Ministries",
-   "aka": "Prayer Ministries",
    "legalName": "GREATER NEWBERG AREA",
    "description": "A Newberg-based interdenominational prayer ministry organized by local church leaders.",
    "categories": [
@@ -5429,7 +5576,6 @@
   {
    "id": "931025835",
    "name": "Habitat for Humanity McMinnville Area",
-   "aka": "McMinnville Area",
    "legalName": "HABITAT FOR HUMANITY INTERNATIONAL INC",
    "description": "Builds and rehabilitates affordable homes for local families in partnership with volunteers and homeowners in the McMinnville area, part of the international Habitat for Humanity network.",
    "categories": [
@@ -5438,7 +5584,7 @@
    "city": "McMinnville",
    "state": "OR",
    "zip": "97128",
-   "address": "PO Box 301",
+   "address": "1040 SE 1st St",
    "website": "https://machabitat.org/",
    "email": "info@machabitat.org",
    "contact": "Marianne Mills",
@@ -5449,12 +5595,12 @@
    "assetAmt": 5158307,
    "deductible": true,
    "originalFocus": "Housing",
-   "confidence": "high"
+   "confidence": "high",
+   "phone": "503-434-6810"
   },
   {
    "id": "931141508",
    "name": "Habitat for Humanity Newberg Area",
-   "aka": "Newberg Area",
    "legalName": "HABITAT FOR HUMANITY INTERNATIONAL INC",
    "description": "Builds and repairs affordable homes for low-income families in the Newberg area, working with volunteers and partner homebuyers.",
    "categories": [
@@ -5595,7 +5741,6 @@
   {
    "id": "800679409",
    "name": "Helping Hands Horse Rescue and Equine Therapy",
-   "aka": "Helping Hands Horse Rescue",
    "legalName": "HELPING HANDS HORSE RESCUE AND EQUINE THERAPY INC",
    "description": "A Newberg horse and donkey rescue that partners its rescued animals in equine-assisted psychotherapy for people coping with trauma, addiction, grief, and other mental health challenges.",
    "categories": [
@@ -5985,7 +6130,6 @@
   {
    "id": "061359199",
    "name": "Infusion Nurses Society – Lower Columbia Chapter",
-   "aka": "Lower Columbia Chapter",
    "legalName": "INFUSION NURSES SOCIETY INC",
    "description": "A regional chapter of the national Infusion Nurses Society, providing continuing education and professional networking for nurses who specialize in IV and infusion therapy in the Newberg/lower Columbia area.",
    "categories": [
@@ -6053,7 +6197,6 @@
   {
    "id": "920876740",
    "name": "International Christian Community for Teacher Education (ICCTE)",
-   "aka": "Iccte",
    "legalName": "INTERNATIONAL CHRISTIAN COMMUNITY FOR TEACHER EDUCATION",
    "description": "A Newberg-based academic association of Christian teacher educators that publishes a scholarly journal and holds a biennial conference on faith and teacher preparation.",
    "categories": [
@@ -6429,7 +6572,6 @@
   {
    "id": "237544752",
    "name": "Knights of Columbus Council 1623 (McMinnville)",
-   "aka": "McMinnville Council",
    "legalName": "KNIGHTS OF COLUMBUS",
    "description": "Council 1623 of the Knights of Columbus is a Catholic fraternal and charitable organization serving McMinnville, Oregon.",
    "categories": [
@@ -6681,7 +6823,6 @@
   {
    "id": "930852835",
    "name": "Lifepoint (Newburg Open Bible Church)",
-   "aka": "Lifepoint",
    "legalName": "NEWBURG OPEN BIBLE CHURCH",
    "description": "An Open Bible Standard Churches congregation in Newberg, also known as Lifepoint, offering worship services and children's ministry.",
    "categories": [
@@ -6801,7 +6942,6 @@
   {
    "id": "237048601",
    "name": "Lions Clubs International District 36-O",
-   "aka": "36 O District",
    "legalName": "INTERNATIONAL ASSOCIATION OF LIONS CLUBS",
    "description": "This is the administrative district office for Lions Clubs International District 36-O, based in McMinnville, Oregon, which coordinates local Lions clubs across the region.",
    "categories": [
@@ -6965,7 +7105,6 @@
   {
    "id": "933612754",
    "name": "Love Our Library (Friends of the Willamina Public Library)",
-   "aka": "Love Our Library",
    "legalName": "FRIENDS OF THE WILLAMINA PUBLIC LIBRARY INC",
    "description": "A volunteer group supporting the Willamina Public Library through fundraising and community engagement.",
    "categories": [
@@ -7008,6 +7147,21 @@
    "rulingYear": 2012,
    "deductible": true,
    "originalFocus": "Christian church / ministry",
+   "confidence": "medium"
+  },
+  {
+   "id": "add:lydiascloset",
+   "name": "Lydia's Closet",
+   "description": "A community clothing closet in Amity affiliated with Amity Christian Church, providing clean clothing, bedding, linens, toiletries, toys and shoes to Yamhill County residents, including emergency support after local house fires.",
+   "categories": [
+    "basic-needs"
+   ],
+   "city": "Amity",
+   "state": "OR",
+   "phone": "503-835-2551",
+   "parentOrg": "Amity Christian Church",
+   "sourceUrl": "https://www.yamhillcounty.gov/1258/Donation-Locations-by-City",
+   "source": "community-research",
    "confidence": "medium"
   },
   {
@@ -7121,6 +7275,21 @@
    "deductible": true,
    "originalFocus": "Library support",
    "confidence": "low"
+  },
+  {
+   "id": "add:makemusicmcminnville",
+   "name": "Make Music McMinnville",
+   "description": "An annual, free, all-day community music celebration held on the summer solstice (June 21) at multiple outdoor locations across McMinnville, open to musicians of every age, genre and skill level.",
+   "categories": [
+    "arts"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "website": "https://aaycor.org/make-music-mcminnville",
+   "parentOrg": "Arts Alliance of Yamhill County",
+   "sourceUrl": "https://www.orartswatch.org/make-music-mcminnville-hits-the-high-notes-on-summer-solstice/",
+   "source": "community-research",
+   "confidence": "high"
   },
   {
    "id": "272044727",
@@ -7352,19 +7521,19 @@
    "confidence": "high"
   },
   {
-   "id": "name:mcminnvilleareahabitatforhumanity",
-   "name": "McMinnville Area Habitat for Humanity",
-   "description": "McMinnville Area Habitat for Humanity brings volunteers and homeowner families together to build affordable homes and strengthen community in the McMinnville area.",
+   "id": "add:mcminnvilleartfestivalmacartsfestival",
+   "name": "McMinnville Art Festival (Mac Arts Festival)",
+   "description": "An annual visual-arts festival organized by the Arts Alliance of Yamhill County's Art Works artist group, showcasing local artists and their work to the McMinnville community.",
    "categories": [
-    "housing"
+    "arts"
    ],
    "city": "McMinnville",
    "state": "OR",
-   "zip": "97128",
-   "address": "1040 SE 1st St",
-   "website": "https://machabitat.org/",
-   "phone": "503-434-6810",
-   "confidence": "high"
+   "website": "https://aaycor.org/mac-arts-festival",
+   "parentOrg": "Arts Alliance of Yamhill County",
+   "sourceUrl": "https://aaycor.org/mac-arts-festival",
+   "source": "community-research",
+   "confidence": "medium"
   },
   {
    "id": "930932344",
@@ -7667,7 +7836,6 @@
   {
    "id": "930122425",
    "name": "McMinnville Elks Lodge #1283",
-   "aka": "McMinnville",
    "legalName": "BENEVOLENT & PROTECTIVE ORDER OF ELKS OF THE USA",
    "description": "A local lodge of the Benevolent and Protective Order of Elks in McMinnville that runs member social activities and community charitable fundraising.",
    "categories": [
@@ -7739,7 +7907,6 @@
   {
    "id": "237510753",
    "name": "McMinnville Grange #31",
-   "aka": "McMinnville",
    "legalName": "OREGON STATE GRANGE PATRONS OF HUSBANDRY",
    "description": "A local Grange lodge in McMinnville that brings together farm families and neighbors for community service, social events, and support of agriculture.",
    "categories": [
@@ -8271,7 +8438,6 @@
   {
    "id": "202741951",
    "name": "Memorial Elementary PTA",
-   "aka": "Memorial PTA",
    "legalName": "PTA OREGON CONGRESS",
    "description": "Parent-teacher association supporting students and families at Memorial Elementary School in McMinnville, Oregon.",
    "categories": [
@@ -8629,9 +8795,23 @@
    "confidence": "low"
   },
   {
+   "id": "add:namiyamhillcounty",
+   "name": "NAMI Yamhill County",
+   "description": "Local affiliate of the National Alliance on Mental Illness offering free peer-led education and support programs (NAMI Basics, Family-to-Family, Connection, Peer-to-Peer, In Our Own Voice) for people living with mental illness and their families in Yamhill County.",
+   "categories": [
+    "mental-health"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "phone": "503-877-2683",
+   "parentOrg": "National Alliance on Mental Illness (NAMI)",
+   "sourceUrl": "https://www.nami.org/affiliate/oregon/nami-yamhill-county/",
+   "source": "community-research",
+   "confidence": "medium"
+  },
+  {
    "id": "931256956",
    "name": "National Association of Hispanic Nurses – Portland Oregon Chapter",
-   "aka": "Portland Oregon Chapter",
    "legalName": "NATIONAL ASSOCIATION OF HISPANIC NURSES",
    "description": "The Portland, Oregon chapter of the National Association of Hispanic Nurses, supporting Hispanic nurses and nursing students through mentorship, education, and professional networking.",
    "categories": [
@@ -8736,7 +8916,6 @@
   {
    "id": "471842500",
    "name": "Newberg Ambush Fastpitch Softball",
-   "aka": "Newberg Ambush",
    "legalName": "NEWBERG AMBUSH FASTPITCH SOFTBALL ASSOCIATION",
    "description": "A fastpitch softball club fielding youth teams in the Newberg, Oregon area.",
    "categories": [
@@ -9221,6 +9400,37 @@
    "confidence": "medium"
   },
   {
+   "id": "add:newbergpickleballclub",
+   "name": "Newberg Pickleball Club",
+   "description": "A community pickleball club in Newberg that runs recreational and competitive play for members of all skill levels, aiming to foster fitness and friendship through the sport.",
+   "categories": [
+    "sports"
+   ],
+   "city": "Newberg",
+   "state": "OR",
+   "website": "https://www.newbergpickleballclub.org/",
+   "sourceUrl": "https://www.newbergpickleballclub.org/",
+   "source": "community-research",
+   "confidence": "medium"
+  },
+  {
+   "id": "add:newbergpublicartcouncil",
+   "name": "Newberg Public Art Council",
+   "description": "A volunteer public-art program formed in 2019 from the merger of the Newberg Downtown Coalition's beautification committee and the grassroots Reverberations Project, coordinating sculpture installations, murals (including the Camellia Trail), and events like First Friday ARTwalk throughout Newberg.",
+   "categories": [
+    "arts",
+    "civic"
+   ],
+   "city": "Newberg",
+   "state": "OR",
+   "website": "https://www.newbergpublicart.com/",
+   "email": "publicart@newbergdowntown.org",
+   "parentOrg": "Newberg Downtown Coalition",
+   "sourceUrl": "https://www.newbergpublicart.com/about",
+   "source": "community-research",
+   "confidence": "high"
+  },
+  {
    "id": "473057758",
    "name": "Newberg Rifle and Pistol Club",
    "legalName": "NEWBERG RIFLE AND PISTOL CLUB INC",
@@ -9245,9 +9455,22 @@
    "confidence": "high"
   },
   {
+   "id": "add:newbergrodandgunclub",
+   "name": "Newberg Rod and Gun Club",
+   "description": "A volunteer-run shooting sports club founded in 1946 that operates the only shotgun range in Yamhill County, hosting youth and adult trap shooting and supporting three local high school trapshooting teams with facilities and coaching.",
+   "categories": [
+    "sports"
+   ],
+   "city": "Newberg",
+   "state": "OR",
+   "website": "http://newberggunclub.org/",
+   "sourceUrl": "http://newberggunclub.org/about-us.html",
+   "source": "community-research",
+   "confidence": "high"
+  },
+  {
    "id": "930747935",
    "name": "Newberg Rotary Club",
-   "aka": "Newberg Rotary",
    "legalName": "ROTARY INTERNATIOAL",
    "description": "The Newberg Rotary Club is a civic service organization in Newberg, Oregon that carries out volunteer and fundraising projects for the local community.",
    "categories": [
@@ -9610,6 +9833,22 @@
    "confidence": "high"
   },
   {
+   "id": "add:northwestchristianchurchcommunitykitchen",
+   "name": "Northwest Christian Church Community Kitchen",
+   "description": "A free hot meal program at Northwest Christian Church's Newberg campus, serving prepared meals every Thursday evening to anyone in the community; running since 2005 and has served over 50,000 meals.",
+   "categories": [
+    "basic-needs"
+   ],
+   "city": "Newberg",
+   "state": "OR",
+   "website": "https://mynw.cc/ck/",
+   "phone": "503-538-3104",
+   "parentOrg": "Northwest Christian Church",
+   "sourceUrl": "https://mynw.cc/ck/",
+   "source": "community-research",
+   "confidence": "high"
+  },
+  {
    "id": "810592137",
    "name": "Northwest Christian Fly Fishers",
    "description": "A McMinnville, Oregon group that combines fly fishing outings with Christian fellowship for its members.",
@@ -9873,7 +10112,6 @@
    "state": "OR",
    "zip": "97128",
    "address": "PO Box 18",
-   "website": "https://www.operationgeneration.org/",
    "email": "jessica@operationgeneration.org",
    "contact": "Joe Pearson",
    "ein": "850889349",
@@ -10068,7 +10306,6 @@
   {
    "id": "936033119",
    "name": "Oregon FSA (National Association of FSA County Office Employees)",
-   "aka": "Oregon Fsa",
    "legalName": "NATIONAL ASSOCIATION OF FSA COUNTY OFFICE EMPLOYEES",
    "description": "The Oregon chapter of the National Association of FSA County Office Employees, an association representing and supporting county-level staff of the USDA Farm Service Agency who administer farm programs.",
    "categories": [
@@ -10139,7 +10376,6 @@
   {
    "id": "931289155",
    "name": "Oregon Hunters Association – Yamhill County Chapter",
-   "aka": "Yamhill County Chapter",
    "legalName": "OREGON HUNTERS ASSOCIATION",
    "description": "A local chapter of the Oregon Hunters Association that promotes science-based wildlife management and supports hunting-related conservation activities in Yamhill County.",
    "categories": [
@@ -10278,7 +10514,6 @@
   {
    "id": "930793913",
    "name": "Oregon Small Woodlands Association - Yamhill Chapter",
-   "aka": "Yamhill Chapter",
    "legalName": "OREGON SMALL WOODLANDS ASSOCIATION",
    "description": "The Yamhill County chapter of a statewide association that supports and educates small-acreage forest landowners on sustainable woodland management, based in Dayton.",
    "categories": [
@@ -10473,6 +10708,21 @@
    "rulingYear": 2013,
    "deductible": true,
    "originalFocus": "Christian church / ministry",
+   "confidence": "high"
+  },
+  {
+   "id": "add:papergardenswritingcontest",
+   "name": "Paper Gardens Writing Contest",
+   "description": "An annual creative writing contest, running since 1993, open to writers who live, work or attend school in Yamhill County; winning poetry and prose are published each year in an anthology given to local authors.",
+   "categories": [
+    "arts"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "website": "https://aaycor.org/paper-gardens",
+   "parentOrg": "Arts Alliance of Yamhill County",
+   "sourceUrl": "https://www.clmp.org/readers/publisher/arts-alliance-of-yamhill-county-paper-gardens/",
+   "source": "community-research",
    "confidence": "high"
   },
   {
@@ -10824,7 +11074,6 @@
   {
    "id": "936041507",
    "name": "Pi Kappa Alpha Fraternity - Delta Rho Chapter",
-   "aka": "Delta Rho Chapter",
    "legalName": "PI KAPPA ALPHA FRATERNITY",
    "description": "The Delta Rho chapter of Pi Kappa Alpha fraternity at Linfield University in McMinnville, providing a social and residential fraternity organization for students.",
    "categories": [
@@ -10846,7 +11095,6 @@
   {
    "id": "900350383",
    "name": "Pi Mu Epsilon – Oregon Epsilon Chapter",
-   "aka": "Oregon Epsilon Chapter",
    "legalName": "PI MU EPSILON INC",
    "description": "The Oregon Epsilon chapter of Pi Mu Epsilon, a national mathematics honor society, recognizing and encouraging mathematical scholarship among students at Linfield University in McMinnville.",
    "categories": [
@@ -10928,6 +11176,38 @@
    "rulingYear": 1975,
    "deductible": false,
    "originalFocus": "Professional / trade association",
+   "confidence": "medium"
+  },
+  {
+   "id": "add:progressiveyamhill",
+   "name": "Progressive Yamhill",
+   "description": "A nonpartisan, community-based network of Yamhill County residents working toward a region rooted in equity, inclusion, safety, and freedom from fear or hate, through education, civic engagement, and accountability efforts at the local and state level; founded in 2016.",
+   "categories": [
+    "advocacy",
+    "civic"
+   ],
+   "city": "Yamhill County (countywide)",
+   "state": "OR",
+   "website": "https://www.progressiveyamhill.org/",
+   "email": "progressive.yamhill@gmail.com",
+   "sourceUrl": "https://www.progressiveyamhill.org/",
+   "source": "community-research",
+   "confidence": "medium"
+  },
+  {
+   "id": "add:promisechurchfoodpantry",
+   "name": "Promise Church Food Pantry",
+   "description": "A Sunday food pantry run by Promise Church in Dundee, providing income-based food boxes to Yamhill County families in need.",
+   "categories": [
+    "basic-needs"
+   ],
+   "city": "Dundee",
+   "state": "OR",
+   "website": "https://promisecenter.org/",
+   "phone": "503-554-9070",
+   "parentOrg": "Promise Church",
+   "sourceUrl": "https://yamhillcco.org/wp-content/uploads/2025/11/Yamhill-County-Resources_Food-Access.pdf",
+   "source": "community-research",
    "confidence": "medium"
   },
   {
@@ -11051,7 +11331,6 @@
   {
    "id": "931178270",
    "name": "Psi Chi - George Fox University Chapter",
-   "aka": "George Fox University",
    "legalName": "PSI CHI THE NATIONAL HONOR SOCIETY IN PSYCHOLOGY",
    "description": "A chapter of Psi Chi, the international honor society in psychology, for students at George Fox University in Newberg.",
    "categories": [
@@ -11092,7 +11371,6 @@
   {
    "id": "770695659",
    "name": "Racers Under the Son – Oregon (RUTS Oregon)",
-   "aka": "Ruts Oregon",
    "legalName": "RACERS UNDER THE SON-OREGON",
    "description": "A Christian motorsports fellowship serving the McMinnville area that combines auto racing with faith-based ministry and outreach to drivers and racing fans.",
    "categories": [
@@ -11159,6 +11437,21 @@
    "deductible": true,
    "originalFocus": "Christian church / ministry",
    "confidence": "high"
+  },
+  {
+   "id": "add:recycledartartistinresidenceprogram",
+   "name": "Recycled Art Artist in Residence Program",
+   "description": "A joint artist-residency program with Recology Western Oregon in which two selected Yamhill (and Polk County/Grand Ronde) artists work with discarded materials recovered from the McMinnville transfer station, culminating in a public exhibition during the Art Harvest Studio Tour, with a share of sale proceeds benefiting the Arts Alliance.",
+   "categories": [
+    "arts",
+    "environment"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "parentOrg": "Arts Alliance of Yamhill County",
+   "sourceUrl": "https://newsregister.com/article?articleTitle=recology-arts-alliance-offer-artist-residency--1775575999--54927--1home-news",
+   "source": "community-research",
+   "confidence": "medium"
   },
   {
    "id": "463366970",
@@ -11372,7 +11665,6 @@
   {
    "id": "936095068",
    "name": "Rotary Club of McMinnville",
-   "aka": "McMinnville",
    "legalName": "ROTARY INTERNATIONAL",
    "description": "The Rotary Club of McMinnville is a civic service organization carrying out volunteer and fundraising projects for the McMinnville, Oregon community.",
    "categories": [
@@ -11516,7 +11808,6 @@
   {
    "id": "470890514",
    "name": "Sage Beaverton Toastmasters Club",
-   "aka": "Sage Beaverton Toastmasters",
    "legalName": "TOASTMASTERS INTERNATIONAL",
    "description": "This is a local Toastmasters International club focused on developing members' public speaking and leadership skills through regular practice meetings.",
    "categories": [
@@ -11585,7 +11876,6 @@
   {
    "id": "811311701",
    "name": "Saturate Church",
-   "aka": "Saturate",
    "description": "A Christian church in Newberg offering worship services and community ministry.",
    "categories": [
     "faith"
@@ -11603,6 +11893,21 @@
    "rulingYear": 2022,
    "deductible": true,
    "originalFocus": "Christian church / ministry",
+   "confidence": "high"
+  },
+  {
+   "id": "add:saturdayfilmclub",
+   "name": "Saturday Film Club",
+   "description": "A year-round, all-skill-levels volunteer filmmaking program hosted by McMinnville Community Media, guiding participants through script workshopping, production and editing of a short film submitted each year to the McMinnville Short Film Festival.",
+   "categories": [
+    "arts"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "website": "https://www.mcm11.org/saturday-film-club",
+   "parentOrg": "McMinnville Community Media",
+   "sourceUrl": "https://www.mcm11.org/saturday-film-club",
+   "source": "community-research",
    "confidence": "high"
   },
   {
@@ -11627,6 +11932,20 @@
    "deductible": true,
    "originalFocus": "Basic needs / food assistance",
    "confidence": "high"
+  },
+  {
+   "id": "add:scoutingamericatroop92657265newberg",
+   "name": "Scouting America Troop 9265 / 7265 (Newberg)",
+   "description": "Girl and boy Scout troops serving Newberg-area teens, sponsored by the local American Legion post; produces Eagle Scouts and runs regular troop meetings and outdoor activities.",
+   "categories": [
+    "youth"
+   ],
+   "city": "Newberg",
+   "state": "OR",
+   "parentOrg": "American Legion Lester C. Rees Post 57, Newberg / Scouting America - Cascade Pacific Council",
+   "sourceUrl": "https://newberggraphic.com/2022/04/13/newbergs-latest-eagle-scout-breaks-new-ground/",
+   "source": "community-research",
+   "confidence": "medium"
   },
   {
    "id": "141855622",
@@ -11902,7 +12221,6 @@
   {
    "id": "930877435",
    "name": "Sheridan Lodge No. 87, IOOF",
-   "aka": "Sheridan Lodge No 87 Ioof",
    "legalName": "INDEPENDENT ORDER OF ODD FELLOWS",
    "description": "This is the Sheridan, Oregon lodge of the Independent Order of Odd Fellows, a fraternal organization focused on community service and mutual aid among members.",
    "categories": [
@@ -11968,6 +12286,21 @@
    "rulingYear": 2020,
    "deductible": true,
    "originalFocus": "Community development / civic engagement",
+   "confidence": "medium"
+  },
+  {
+   "id": "add:sheridanscoutingunitspack215troop215troop9215",
+   "name": "Sheridan Scouting Units (Pack 215 / Troop 215 / Troop 9215)",
+   "description": "Local Scouting America units serving Sheridan-area children and teens: Cub Scout Pack 215 (ages 5-10, founded 1990) and linked Boy/Girl Scout Troops 215 and 9215 (ages 11-17), all meeting weekly in Sheridan.",
+   "categories": [
+    "youth"
+   ],
+   "city": "Sheridan",
+   "state": "OR",
+   "website": "https://www.sheridanscouts.com",
+   "parentOrg": "Scouting America - Cascade Pacific Council",
+   "sourceUrl": "https://www.sheridanscouts.com/",
+   "source": "community-research",
    "confidence": "medium"
   },
   {
@@ -12068,7 +12401,6 @@
   {
    "id": "237065108",
    "name": "Society of American Foresters – Oregon (Dayton)",
-   "aka": "Oregon",
    "legalName": "SOCIETY OF AMERICAN FORESTERS",
    "description": "A local chapter of the Society of American Foresters based in Dayton, connecting forestry professionals in Oregon through education and professional development related to forest management and conservation.",
    "categories": [
@@ -12114,7 +12446,6 @@
   {
    "id": "930464194",
    "name": "Society of St. Vincent de Paul – Mid-Willamette Valley Council",
-   "aka": "St Vincent de Paul",
    "legalName": "COUNCIL OF MID-WILLAMETTE VALLEY SOCIETY OF ST VINCENT DE PAUL",
    "description": "A Catholic charitable council based in McMinnville that coordinates local St. Vincent de Paul conferences providing food, clothing, and financial assistance to people in need.",
    "categories": [
@@ -12238,6 +12569,24 @@
    "confidence": "high"
   },
   {
+   "id": "add:specialolympicsoregonyamhillcounty",
+   "name": "Special Olympics Oregon – Yamhill County",
+   "description": "Local Special Olympics program providing year-round sports training and competition (athletics, bocce, golf, bowling, swimming, volleyball, basketball, powerlifting, cornhole) for children and adults with intellectual disabilities in Yamhill County.",
+   "categories": [
+    "disability",
+    "sports"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "website": "https://soor.org/program/yamhill/",
+   "email": "yamhill@soor.org",
+   "phone": "971-238-5983",
+   "parentOrg": "Special Olympics Oregon",
+   "sourceUrl": "https://soor.org/program/yamhill/",
+   "source": "community-research",
+   "confidence": "medium"
+  },
+  {
    "id": "922434918",
    "name": "Spirit and Truth Ministries",
    "description": "A religious organization in McMinnville led by William Davies that disburses support to religious and charitable ministry activities.",
@@ -12284,32 +12633,10 @@
    "confidence": "low"
   },
   {
-   "id": "911796483",
-   "name": "Spiritual Assembly of the Baha'is of McMinnville",
-   "aka": "McMinnville",
-   "legalName": "SPIRITUAL ASSEMBLY OF THE BAHAIS OF MCMINNVILLE",
-   "description": "The local Baha'i religious community (Spiritual Assembly) serving Baha'is in McMinnville, Oregon.",
-   "categories": [
-    "faith"
-   ],
-   "city": "McMinnville",
-   "state": "OR",
-   "zip": "97128",
-   "address": "PO Box 1103",
-   "contact": "Mrs Delane E Hein",
-   "ein": "911796483",
-   "subsection": "501(c)(3) charitable",
-   "rulingYear": 1995,
-   "deductible": true,
-   "originalFocus": "Baha’i faith",
-   "confidence": "medium"
-  },
-  {
    "id": "931122908",
    "name": "Spiritual Assembly of the Baha'is of McMinnville",
-   "aka": "McMinnville",
    "legalName": "SPIRITUAL ASSEMBLY OF THE BAHAIS OF MCMINNVILLE",
-   "description": "The local Baha'i religious community (Spiritual Assembly) serving Baha'is in McMinnville, Oregon.",
+   "description": "The local Baha'i religious community (Spiritual Assembly) serving Baha'is in McMinnville, Oregon. The IRS lists two registrations under this name (EINs 93-1122908 and 91-1796483).",
    "categories": [
     "faith"
    ],
@@ -12603,6 +12930,19 @@
    "confidence": "medium"
   },
   {
+   "id": "add:sustainablesolutionsgroupofthenewbergdundeearea",
+   "name": "Sustainable Solutions Group of the Newberg-Dundee Area",
+   "description": "Volunteer coalition working to reduce greenhouse gas emissions and build climate resilience in the Newberg-Dundee area; runs recurring hard-to-recycle plastics and Styrofoam collection events (with Zero Waste McMinnville) and speaks at local government meetings on tree and park issues.",
+   "categories": [
+    "environment"
+   ],
+   "city": "Newberg",
+   "state": "OR",
+   "sourceUrl": "https://newsberg.org/2025/04/01/beyond-the-bin-diverting-plastics-from-landfills/",
+   "source": "community-research",
+   "confidence": "high"
+  },
+  {
    "id": "851617602",
    "name": "Sustaining Hope and Partnering to Empower",
    "description": "A McMinnville, Oregon nonprofit organized under human services; specific programs have not yet been publicly reported.",
@@ -12800,6 +13140,21 @@
    "confidence": "medium"
   },
   {
+   "id": "add:terroircreativewritingfestival",
+   "name": "Terroir Creative Writing Festival",
+   "description": "An annual daylong creative-writing festival, started in 2010, held at a Yamhill County wine-country venue with workshops, a keynote address, panel discussions and an open mic for novice and experienced writers.",
+   "categories": [
+    "arts"
+   ],
+   "city": "Dayton",
+   "state": "OR",
+   "website": "https://aaycor.org/terroir-writing-festival",
+   "parentOrg": "Arts Alliance of Yamhill County",
+   "sourceUrl": "https://www.orartswatch.org/terroir-creative-writing-festival-returns-to-newberg-with-workshops-and-advice/",
+   "source": "community-research",
+   "confidence": "high"
+  },
+  {
    "id": "872202337",
    "name": "The Bridge Learning Community",
    "description": "Runs a self-directed learning cooperative and an early-childhood play-based program for children and families in the Sheridan area, offering enrichment classes outside a traditional school setting.",
@@ -12841,6 +13196,23 @@
    "deductible": true,
    "originalFocus": "Community / faith-based support",
    "confidence": "low"
+  },
+  {
+   "id": "add:thesalvationarmymcminnvillecorps",
+   "name": "The Salvation Army - McMinnville Corps",
+   "description": "The local Salvation Army corps (also known as the Yamhill County Service and Ministry Center), providing a food pantry, clothing donations, and financial assistance to Yamhill County residents facing poverty, hunger and homelessness.",
+   "categories": [
+    "basic-needs",
+    "housing"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "website": "https://mcminnville.salvationarmy.org/",
+   "phone": "503-472-1009",
+   "parentOrg": "The Salvation Army",
+   "sourceUrl": "https://mcminnville.salvationarmy.org/",
+   "source": "community-research",
+   "confidence": "high"
   },
   {
    "id": "472067593",
@@ -13137,7 +13509,6 @@
   {
    "id": "930300968",
    "name": "Union Lodge No. 3, A.F. & A.M.",
-   "aka": "3 Union Lodge",
    "legalName": "ANCIENT FREE & ACCEPTED MASONS OF OREGON",
    "description": "A Masonic fraternal lodge in McMinnville that provides fellowship among members and supports charitable and community programs, including historical and cemetery upkeep.",
    "categories": [
@@ -13201,7 +13572,6 @@
   {
    "id": "930658121",
    "name": "United Steelworkers Local 8378",
-   "aka": "Local",
    "legalName": "UNITED STEELWORKERS",
    "description": "A McMinnville local of the United Steelworkers union representing area workers.",
    "categories": [
@@ -13444,7 +13814,6 @@
   {
    "id": "930859425",
    "name": "VFW Post 10626 (Don Hampton), Dayton",
-   "aka": "Don Hampton",
    "legalName": "VETERANS OF FOREIGN WARS OF THE UNITED STATES DEPT OF OREGON",
    "description": "A Veterans of Foreign Wars post serving Dayton-area veterans.",
    "categories": [
@@ -13454,7 +13823,6 @@
    "state": "OR",
    "zip": "97114",
    "address": "606 4th St",
-   "website": "https://www.daytonoregon.gov/page/city_helpful_links_veterans_affairs",
    "contact": "Cheryl Campos",
    "ein": "930859425",
    "subsection": "501(c)(4) social welfare",
@@ -14311,6 +14679,22 @@
    "confidence": "low"
   },
   {
+   "id": "add:yamhillconservationtrust",
+   "name": "Yamhill Conservation Trust",
+   "description": "A newly formed land trust serving Yamhill County, working with Yamhill Soil and Water Conservation District to protect and restore land and building on the region's decades-long conservation efforts.",
+   "categories": [
+    "environment"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "website": "https://www.yamhillconservationtrust.org/",
+   "email": "Hello@YamhillConservationTrust.org",
+   "phone": "503-798-8611",
+   "sourceUrl": "https://www.yamhillconservationtrust.org/",
+   "source": "community-research",
+   "confidence": "high"
+  },
+  {
    "id": "930853526",
    "name": "Yamhill County 4-H Association",
    "legalName": "OREGON 4-H FOUNDATION",
@@ -14366,7 +14750,6 @@
   {
    "id": "364881154",
    "name": "Yamhill County Amateur Radio Emergency Services (YCARES)",
-   "aka": "Ycares",
    "legalName": "YAMHILL COUNTY AMATEUR RADIO EMERGENCY SERVICES",
    "description": "A volunteer amateur radio group that provides emergency communications support for Yamhill County, Oregon during disasters and public events.",
    "categories": [
@@ -14722,7 +15105,6 @@
   {
    "id": "300986391",
    "name": "Yamhill County Master Gardener Association",
-   "aka": "Yamhill County",
    "legalName": "MASTER GARDENERS ASSOCIATION",
    "description": "A McMinnville-based volunteer organization affiliated with the OSU Extension Master Gardener program that trains volunteers and educates the public on home gardening and sustainable landscaping in Yamhill County.",
    "categories": [
@@ -14933,6 +15315,23 @@
    "confidence": "medium"
   },
   {
+   "id": "add:yamhillearlylearninghub",
+   "name": "Yamhill Early Learning Hub",
+   "description": "A collaborative program connecting Yamhill County families with young children to child care referrals, free preschool programs, parent classes and early-childhood resources, bringing together early education, health, and social-service partners.",
+   "categories": [
+    "education-early",
+    "families"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "website": "https://yamhillearlylearning.org",
+   "email": "earlylearning@yamhillcco.org",
+   "parentOrg": "Yamhill Community Care Organization (YCCO)",
+   "sourceUrl": "https://yamhillcco.org/early-learning/",
+   "source": "community-research",
+   "confidence": "medium"
+  },
+  {
    "id": "274846178",
    "name": "Yamhill Enrichment Society",
    "description": "A McMinnville-based nonprofit that supports youth and community enrichment programs in Yamhill County.",
@@ -15068,6 +15467,20 @@
    "confidence": "high"
   },
   {
+   "id": "add:yamhillwritersworkshop",
+   "name": "Yamhill Writers Workshop",
+   "description": "A free, all-genre writers' group open to all Yamhill-area writers, meeting monthly (second Monday) in the Carnegie Room of the McMinnville Public Library to share and critique work.",
+   "categories": [
+    "arts"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "email": "yamhillwritersworkshop@gmail.com",
+   "sourceUrl": "https://www.mcminnvilleoregon.gov/library/page/yamhill-writers-workshop-1",
+   "source": "community-research",
+   "confidence": "low"
+  },
+  {
    "id": "933213962",
    "name": "Yamhill-Carlton Basketball Club (Hoops4All)",
    "legalName": "HOOPS4ALL",
@@ -15155,6 +15568,20 @@
    "rulingYear": 1974,
    "deductible": false,
    "originalFocus": "Cemetery preservation",
+   "confidence": "medium"
+  },
+  {
+   "id": "add:yamhillcarltonstorehouse",
+   "name": "Yamhill-Carlton Storehouse",
+   "description": "A volunteer-run food pantry in Carlton providing food, personal care items, and blankets to Yamhill County residents in need, open Wednesdays and Fridays.",
+   "categories": [
+    "basic-needs"
+   ],
+   "city": "Carlton",
+   "state": "OR",
+   "phone": "503-852-6031",
+   "sourceUrl": "https://yamhillcarlton.org/community/",
+   "source": "community-research",
    "confidence": "medium"
   },
   {
@@ -15322,9 +15749,41 @@
    "confidence": "medium"
   },
   {
+   "id": "add:yobergyomacyouthdropincenters",
+   "name": "YO Berg / YO Mac Youth Drop-In Centers",
+   "description": "Drop-in centers and related services (YO Berg emergency shelter for ages 11-17, YO Mac transitional living/drop-in for ages 18-24, and street outreach) for homeless and at-risk youth, with locations in Newberg and McMinnville.",
+   "categories": [
+    "youth",
+    "housing"
+   ],
+   "city": "Newberg",
+   "state": "OR",
+   "website": "http://yamhillcap.org/youth",
+   "phone": "503-538-8023",
+   "parentOrg": "Yamhill Community Action Partnership (YCAP)",
+   "sourceUrl": "http://yamhillcap.org/youth",
+   "source": "community-research",
+   "confidence": "high"
+  },
+  {
+   "id": "add:yoopyouthopportunityprogram",
+   "name": "Yoop! Youth Opportunity Program",
+   "description": "A program providing tutoring, job-skill building, GED/diploma completion help, internships and career-pathway services for Yamhill County youth ages 16-24 who face barriers such as dropping out, homelessness, foster care involvement or parenthood, with skill centers in McMinnville and Newberg.",
+   "categories": [
+    "youth",
+    "human-services"
+   ],
+   "city": "McMinnville",
+   "state": "OR",
+   "website": "https://www.myyoop.org",
+   "parentOrg": "Chehalem Youth & Family Services",
+   "sourceUrl": "https://www.myyoop.org/about/",
+   "source": "community-research",
+   "confidence": "high"
+  },
+  {
    "id": "273108159",
    "name": "Youth Educational Travel International (YETI)",
-   "aka": "Yeti",
    "legalName": "YOUTH EDUCATIONAL TRAVEL INTERNATIONAL",
    "description": "A Dundee, Oregon organization classified under educational services; its name suggests it organizes educational travel or exchange programs for young people, but no current program details could be confirmed.",
    "categories": [

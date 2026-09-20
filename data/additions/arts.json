@@ -1,0 +1,154 @@
+[
+ {
+  "name": "Make Music McMinnville",
+  "categories": [
+   "arts"
+  ],
+  "description": "An annual, free, all-day community music celebration held on the summer solstice (June 21) at multiple outdoor locations across McMinnville, open to musicians of every age, genre and skill level.",
+  "city": "McMinnville",
+  "website": "https://aaycor.org/make-music-mcminnville",
+  "email": null,
+  "phone": null,
+  "parentOrg": "Arts Alliance of Yamhill County",
+  "registrationNote": "Program of the Arts Alliance of Yamhill County; no separate IRS registration.",
+  "evidenceUrl": "https://www.orartswatch.org/make-music-mcminnville-hits-the-high-notes-on-summer-solstice/",
+  "confidence": "high"
+ },
+ {
+  "name": "Art Harvest Studio Tour of Yamhill County",
+  "categories": [
+   "arts"
+  ],
+  "description": "An annual self-guided studio tour, running since 1993, in which dozens of Yamhill County artists open their working studios to the public over two weekends each October so visitors can meet artists and see their creative process firsthand.",
+  "city": "McMinnville",
+  "website": "http://www.artharveststudiotour.org/",
+  "email": null,
+  "phone": null,
+  "parentOrg": "Arts Alliance of Yamhill County",
+  "registrationNote": "Program of the Arts Alliance of Yamhill County (launched as its fundraiser); no separate IRS registration.",
+  "evidenceUrl": "https://newberggraphic.com/2026/09/02/art-harvest-studio-tour-begins-in-october-across-yamhill-county/",
+  "confidence": "high"
+ },
+ {
+  "name": "Paper Gardens Writing Contest",
+  "categories": [
+   "arts"
+  ],
+  "description": "An annual creative writing contest, running since 1993, open to writers who live, work or attend school in Yamhill County; winning poetry and prose are published each year in an anthology given to local authors.",
+  "city": "McMinnville",
+  "website": "https://aaycor.org/paper-gardens",
+  "email": null,
+  "phone": null,
+  "parentOrg": "Arts Alliance of Yamhill County",
+  "registrationNote": "Program of the Arts Alliance of Yamhill County; no separate IRS registration.",
+  "evidenceUrl": "https://www.clmp.org/readers/publisher/arts-alliance-of-yamhill-county-paper-gardens/",
+  "confidence": "high"
+ },
+ {
+  "name": "Terroir Creative Writing Festival",
+  "categories": [
+   "arts"
+  ],
+  "description": "An annual daylong creative-writing festival, started in 2010, held at a Yamhill County wine-country venue with workshops, a keynote address, panel discussions and an open mic for novice and experienced writers.",
+  "city": "Dayton",
+  "website": "https://aaycor.org/terroir-writing-festival",
+  "email": null,
+  "phone": null,
+  "parentOrg": "Arts Alliance of Yamhill County",
+  "registrationNote": "Program of the Arts Alliance of Yamhill County; no separate IRS registration.",
+  "evidenceUrl": "https://www.orartswatch.org/terroir-creative-writing-festival-returns-to-newberg-with-workshops-and-advice/",
+  "confidence": "high"
+ },
+ {
+  "name": "McMinnville Art Festival (Mac Arts Festival)",
+  "categories": [
+   "arts"
+  ],
+  "description": "An annual visual-arts festival organized by the Arts Alliance of Yamhill County's Art Works artist group, showcasing local artists and their work to the McMinnville community.",
+  "city": "McMinnville",
+  "website": "https://aaycor.org/mac-arts-festival",
+  "email": null,
+  "phone": null,
+  "parentOrg": "Arts Alliance of Yamhill County",
+  "registrationNote": "Program of the Arts Alliance of Yamhill County; no separate IRS registration.",
+  "evidenceUrl": "https://aaycor.org/mac-arts-festival",
+  "confidence": "medium"
+ },
+ {
+  "name": "Art Works",
+  "categories": [
+   "arts"
+  ],
+  "description": "A group of Yamhill County visual artists who gather monthly to share exhibit opportunities, visit studios and installations, and organize public exhibitions, life-drawing sessions and the annual McMinnville Art Festival.",
+  "city": "McMinnville",
+  "website": "https://aaycor.org/Artworks",
+  "email": null,
+  "phone": null,
+  "parentOrg": "Arts Alliance of Yamhill County",
+  "registrationNote": "Program of the Arts Alliance of Yamhill County; no separate IRS registration.",
+  "evidenceUrl": "https://aaycor.org/Artworks",
+  "confidence": "medium"
+ },
+ {
+  "name": "Recycled Art Artist in Residence Program",
+  "categories": [
+   "arts",
+   "environment"
+  ],
+  "description": "A joint artist-residency program with Recology Western Oregon in which two selected Yamhill (and Polk County/Grand Ronde) artists work with discarded materials recovered from the McMinnville transfer station, culminating in a public exhibition during the Art Harvest Studio Tour, with a share of sale proceeds benefiting the Arts Alliance.",
+  "city": "McMinnville",
+  "website": null,
+  "email": null,
+  "phone": null,
+  "parentOrg": "Arts Alliance of Yamhill County",
+  "registrationNote": "Program run jointly by the Arts Alliance of Yamhill County and Recology Western Oregon; no separate IRS registration.",
+  "evidenceUrl": "https://newsregister.com/article?articleTitle=recology-arts-alliance-offer-artist-residency--1775575999--54927--1home-news",
+  "confidence": "medium"
+ },
+ {
+  "name": "Newberg Public Art Council",
+  "categories": [
+   "arts",
+   "civic"
+  ],
+  "description": "A volunteer public-art program formed in 2019 from the merger of the Newberg Downtown Coalition's beautification committee and the grassroots Reverberations Project, coordinating sculpture installations, murals (including the Camellia Trail), and events like First Friday ARTwalk throughout Newberg.",
+  "city": "Newberg",
+  "website": "https://www.newbergpublicart.com/",
+  "email": "publicart@newbergdowntown.org",
+  "phone": null,
+  "parentOrg": "Newberg Downtown Coalition",
+  "registrationNote": "Program of the Newberg Downtown Coalition, a registered 501(c)(3); no separate IRS registration.",
+  "evidenceUrl": "https://www.newbergpublicart.com/about",
+  "confidence": "high"
+ },
+ {
+  "name": "Yamhill Writers Workshop",
+  "categories": [
+   "arts"
+  ],
+  "description": "A free, all-genre writers' group open to all Yamhill-area writers, meeting monthly (second Monday) in the Carnegie Room of the McMinnville Public Library to share and critique work.",
+  "city": "McMinnville",
+  "website": null,
+  "email": "yamhillwritersworkshop@gmail.com",
+  "phone": null,
+  "parentOrg": null,
+  "registrationNote": "Unincorporated volunteer writers' group; hosted at (but not run by) McMinnville Public Library.",
+  "evidenceUrl": "https://www.mcminnvilleoregon.gov/library/page/yamhill-writers-workshop-1",
+  "confidence": "low"
+ },
+ {
+  "name": "Saturday Film Club",
+  "categories": [
+   "arts"
+  ],
+  "description": "A year-round, all-skill-levels volunteer filmmaking program hosted by McMinnville Community Media, guiding participants through script workshopping, production and editing of a short film submitted each year to the McMinnville Short Film Festival.",
+  "city": "McMinnville",
+  "website": "https://www.mcm11.org/saturday-film-club",
+  "email": null,
+  "phone": null,
+  "parentOrg": "McMinnville Community Media",
+  "registrationNote": "Program of McMinnville Community Media; no separate IRS registration.",
+  "evidenceUrl": "https://www.mcm11.org/saturday-film-club",
+  "confidence": "high"
+ }
+]

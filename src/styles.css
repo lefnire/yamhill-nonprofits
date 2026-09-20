@@ -690,6 +690,17 @@ main.container {
   padding: var(--space-3);
 }
 
+/* Provenance caveat: informative, not an endorsement, so it stays quieter than
+   the accent-tinted deductibility note above it. */
+.detail__note--muted {
+  background: var(--surface-sunken, transparent);
+  border: 1px solid var(--border);
+}
+
+.detail__note + .detail__note {
+  margin-top: var(--space-3);
+}
+
 /* 7. Utilities ---------------------------------------------------------- */
 .visually-hidden {
   position: absolute;
