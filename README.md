@@ -104,23 +104,23 @@ npm run preview # serve the production build locally
 ### GitHub Pages (automatic)
 
 `.github/workflows/deploy.yml` builds the site and publishes it on every push to
-`main`. It needs one manual setup step, done once:
+`main`. It also exposes `workflow_dispatch`, so a deploy can be re-run by hand from
+the Actions tab without pushing a commit.
 
-**Settings -> Pages -> Build and deployment -> Source: GitHub Actions.**
+**Pages Source must be set to GitHub Actions** — Settings -> Pages -> Build and
+deployment -> Source. This is the one step the workflow cannot do for itself.
 
-Leaving Source on the default ("Deploy from a branch") makes the workflow fail at
-the deploy step, because there is no Pages site for it to publish to.
+Getting this wrong fails quietly rather than loudly. On the default setting,
+"Deploy from a branch", GitHub runs its own builder over the repository root in
+parallel with this workflow. Both report success, but the branch builder usually
+finishes last and wins, and what it publishes is the repository's root
+`index.html` -- the Vite *source* template, whose only script tag points at
+`/src/main.jsx`. That file does not exist in a built site, so the deployed page
+loads, renders nothing, and reports no error. A blank page with two green
+checkmarks is the signature of this setting.
 
-The site then lands at `https://<user>.github.io/<repo>/`. You can also re-run a
-deploy by hand from the Actions tab without pushing a commit.
-
-Two things to know:
-
-- **Pages on a private repository requires a paid GitHub plan** (Pro, Team, or
-  Enterprise). On a free account the repository has to be public for Pages to
-  serve it.
-- The workflow triggers on `main`, so `main` must be the repository's default
-  branch (Settings -> General -> Default branch).
+Once Source is GitHub Actions, the extra "pages build and deployment" runs stop
+appearing and the site lands at `https://<user>.github.io/<repo>/`.
 
 ### Anywhere else
 
