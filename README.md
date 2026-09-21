@@ -86,6 +86,23 @@ rows are left out of the detail view entirely rather than shown as `$0`. Categor
 found on an organization but missing from the `categories` array still get a chip,
 so the taxonomy and the records can drift without breaking the page.
 
+### Unverified records
+
+Every organization carries a `confidence` field: **342 high, 245 medium,
+110 low**. The 110 `low` records are surfaced in the UI rather than hidden —
+data is still data — but they are labelled so nobody mistakes them for verified.
+
+They show an amber **"Unverified description"** chip beside their categories, and
+the detail view explains what is and is not trustworthy. The distinction matters:
+109 of the 110 have an EIN, so their existence, address and financial
+figures come straight from the IRS and are solid. What is unverified is the
+*description and categories*, inferred from the NTEE classification code because
+research found nothing else describing the organization's work.
+
+The chip carries its own text rather than relying on colour, so it survives
+greyscale and colour-blind viewing, and its text meets WCAG AA contrast in both
+themes.
+
 Records with `source: "community-research"` came from research rather than the IRS
 dataset, so they have no `ein` and no IRS fields. The detail view states that
 plainly and links `sourceUrl`, rather than leaving the reader to wonder why the

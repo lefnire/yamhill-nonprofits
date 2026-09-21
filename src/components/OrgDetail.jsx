@@ -115,13 +115,16 @@ export default function OrgDetail({ org, categoryLabels, onClose }) {
         </div>
 
         <div className="detail__body">
-          {categories.length > 0 && (
+          {(categories.length > 0 || org.confidence === 'low') && (
             <ul className="card__tags" role="list">
               {categories.map((label) => (
                 <li key={label} className="tag">
                   {label}
                 </li>
               ))}
+              {org.confidence === 'low' && (
+                <li className="tag tag--caution">Unverified description</li>
+              )}
             </ul>
           )}
 
@@ -164,6 +167,19 @@ export default function OrgDetail({ org, categoryLabels, onClose }) {
               ) : null}
             </Row>
           </dl>
+
+          {org.confidence === 'low' && (
+            <p className="detail__note detail__note--caution">
+              <strong>The description and categories above are not verified.</strong>{' '}
+              They were inferred from this organization's IRS classification code and
+              name, because research turned up no other source describing its work.
+              {has(org.ein)
+                ? ' Everything drawn from the IRS record itself — the EIN, address and ' +
+                  'any financial figures — is on file and reliable.'
+                : ''}{' '}
+              Contact the organization before relying on what it does.
+            </p>
+          )}
 
           {org.source === 'community-research' && (
             <p className="detail__note detail__note--muted">

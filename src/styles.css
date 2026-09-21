@@ -24,6 +24,9 @@
   --accent-soft: #e3efe9;
   --accent-contrast: #ffffff;
   --focus: #1b6ea8;
+  --caution: #8a5a1a;
+  --caution-soft: #f6ecd9;
+  --caution-border: #b59457;
   --shadow: 0 1px 2px rgba(29, 27, 23, 0.06), 0 6px 18px rgba(29, 27, 23, 0.06);
   --shadow-lifted: 0 10px 40px rgba(29, 27, 23, 0.22);
   --radius: 10px;
@@ -55,6 +58,9 @@
     --accent-soft: #1f3a33;
     --accent-contrast: #10201b;
     --focus: #7cb7e8;
+    --caution: #e0b872;
+    --caution-soft: #34291a;
+    --caution-border: #7a6140;
     --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 6px 18px rgba(0, 0, 0, 0.3);
     --shadow-lifted: 0 10px 40px rgba(0, 0, 0, 0.6);
   }
@@ -484,6 +490,16 @@ main.container {
   padding: 0.15rem 0.55rem;
 }
 
+/* Marks a record whose description was inferred from its IRS classification
+   rather than verified. Carries its own words, never colour alone, so it
+   survives greyscale and colour-blind viewing. */
+.tag--caution {
+  color: var(--caution);
+  background: var(--caution-soft);
+  border: 1px solid var(--caution-border);
+  padding: calc(0.15rem - 1px) calc(0.55rem - 1px);
+}
+
 .card__meta {
   display: flex;
   flex-direction: column;
@@ -688,6 +704,13 @@ main.container {
   background: var(--accent-soft);
   border-radius: var(--radius);
   padding: var(--space-3);
+}
+
+/* Must follow .detail__note: same specificity, so source order decides. */
+.detail__note--caution {
+  background: var(--caution-soft);
+  border: 1px solid var(--caution-border);
+  color: var(--text);
 }
 
 /* Provenance caveat: informative, not an endorsement, so it stays quieter than
