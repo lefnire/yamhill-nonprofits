@@ -1,9 +1,13 @@
 import { memo } from 'react'
 import { has, safeHref, shortUrlLabel, telHref, text, truncate } from '../lib/format.js'
 
-function CategoryChips({ ids, labels }) {
+const UNVERIFIED_HINT =
+  'What this organization does was inferred from its IRS classification code, not ' +
+  'confirmed against the organization. Its IRS registration details are still on file.'
+
+function CategoryChips({ ids, labels, unverified }) {
   const named = (ids || []).map((id) => labels.get(id) || id).filter(has)
-  if (named.length === 0) return null
+  if (named.length === 0 && !unverified) return null
   return (
     <ul className="card__tags" role="list">
       {named.map((label) => (
@@ -11,6 +15,11 @@ function CategoryChips({ ids, labels }) {
           {label}
         </li>
       ))}
+      {unverified && (
+        <li className="tag tag--caution" title={UNVERIFIED_HINT}>
+          Unverified description
+        </li>
+      )}
     </ul>
   )
 }
@@ -43,7 +52,11 @@ function OrgCard({ org, categoryLabels, onOpen }) {
 
       {parentOrg && <p className="card__aka">A program of {parentOrg}</p>}
 
-      <CategoryChips ids={org.categories} labels={categoryLabels} />
+      <CategoryChips
+        ids={org.categories}
+        labels={categoryLabels}
+        unverified={org.confidence === 'low'}
+      />
 
       {description && <p className="card__description">{description}</p>}
 
